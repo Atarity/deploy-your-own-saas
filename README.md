@@ -3,7 +3,7 @@
 ![Scryer](/scryer.jpg)
 
 ### 🙊 Deploy your own `VPN`
-- [OpenVPN](https://openvpn.net/) — full-featured open source  VPN solution [(Digital Ocean tutorial)]((https://www.digitalocean.com/community/tutorials/how-to-set-up-an-openvpn-server-on-ubuntu-16-04))
+- [OpenVPN](https://openvpn.net/) — full-featured open source VPN solution. [(Digital Ocean tutorial)](https://www.digitalocean.com/community/tutorials/how-to-set-up-an-openvpn-server-on-ubuntu-16-04)
 - [WireGuard](https://www.wireguard.com/) —  faster, simpler, leaner, and more useful than IPsec. It intends to be considerably more performant than OpenVPN. [(Digital Ocean tutorial)](https://www.digitalocean.com/community/tutorials/how-to-create-a-point-to-point-vpn-with-wireguard-on-ubuntu-16-04)
 - [Algo VPN](https://github.com/trailofbits/algo) — set of Ansible scripts that simplify the setup of a personal Wireguard and IPsec VPN.
 
@@ -74,7 +74,7 @@ with compression and encryption.
 - [MediaWiki](https://www.mediawiki.org/wiki/MediaWiki) — collaboration and documentation platform with enormous capabilities.
 
 ### 🔑 Deploy your own `Password manager`
-- [Bitwarden](https://bitwarden.com/) — easiest and safest way to store, share, and sync sensitive data. [(server repo)](https://github.com/bitwarden/server)
+- [Bitwarden](https://bitwarden.com/) — easiest and safest way to store, share, and sync sensitive data. [(Github)](https://github.com/bitwarden/server)
 
 ### 🤥 Deploy your own `Read it Later` 
 - [Wallabag](https://www.wallabag.org/en) — self hostable application for saving web pages.
@@ -99,7 +99,7 @@ with compression and encryption.
 
 ### 🥋Deploy your own `Kanban board` 
 - [Wekan](https://github.com/wekan/wekan) — collaborative Kanban board.
-- [Kanboard](https://kanboard.org/) — project management software that focuses on the Kanban methodology. [(Github repo)](https://github.com/kanboard/kanboard)
+- [Kanboard](https://kanboard.org/) — project management software that focuses on the Kanban methodology. [(Github)](https://github.com/kanboard/kanboard)
 
 ### 🛰 Deploy your own `GPS tracking system`
 - [OwnTracks](https://github.com/owntracks) — lightweight program for storing and accessing location data published via MQTT or HTTP by the OwnTracks apps.
@@ -109,7 +109,7 @@ with compression and encryption.
 
 ----
 
-#### Totally worth to check:
+Totally worth to check:
 - https://geek-cookbook.funkypenguin.co.nz/
 - https://github.com/sovereign/sovereign
 - https://roll.urown.net/about.html
