@@ -1,16 +1,4 @@
-> There is no "cloud". It's just someone else's computer. So, let’s go with mine then.
-
-> If «the cloud» is just someone else's computer so let's go with mine then. — nobody
-
-> 2019: If you have infrastructure, let's show me infrastructure. If all you have are "cloud", let’s go with mine.
-
-### Criteria
-1. Every day needs;
-1. Open-source and free;
-1. Server-side which is suitable for common VPS;
-1. You are the only who control and being responsible of your data.
-
-## Most wanted
+## List of most wanted products and tuts
 - 2FA authenticator 🔐
 - Personal finance tracker 💳
 - Video game streaming 🕹
