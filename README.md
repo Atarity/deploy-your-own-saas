@@ -1,4 +1,4 @@
-**[[Submit product or tutorial](https://github.com/Atarity/deploy-your-own-saas/issues/new?assignees=&labels=&template=submit-new-product.md)]**
+**[[Submit product or tutorial](https://github.com/Atarity/deploy-your-own-saas/issues/new?assignees=&labels=&template=submit-new-product.md)]** or make it thru PR.
 
 ![Scryer](/scryer.jpg)
 
