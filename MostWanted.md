@@ -1,4 +1,10 @@
 ## List of most wanted products and tuts
+- Tor
+    - [Nipe](https://heitorgouvea.me/nipe/#/)
+    - [Tor Socks5 proxy in container](https://github.com/PeterDaveHello/tor-socks-proxy)
+- Secrets management
+    - [Vault](https://www.hashicorp.com/products/vault/secrets-management)
+    - [Conjure](https://www.conjur.org/)
 - 2FA authenticator 🔐
 - Personal finance tracker 💳
 - Video game streaming 🕹
