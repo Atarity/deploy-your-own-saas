@@ -38,11 +38,14 @@
 
 ### 🗄 Deploy your own `Cloud storage`
 - [OwnCloud](https://github.com/owncloud/core) — personal cloud which runs on your own server. [(tutorial)](https://doc.owncloud.org/server/10.2/admin_manual/installation/deployment_considerations.html)
-- [Nextcloud](https://nextcloud.com/) — enchanced OwnCloud fork.
+- [Nextcloud](https://nextcloud.com/) — enchanced OwnCloud fork with number of additional services like calendars, mail, contacts and video calls [(GitHub)](https://github.com/nextcloud).
 - [Syncthing](https://syncthing.net/) — continuous file synchronization program.
 
 ### 🕸 Deploy your own `DNS`
 - [Unbound](https://github.com/NLnetLabs/unbound) — validating, recursive, caching DNS resolver. [(Urown tutorial)](https://roll.urown.net/server/dns/unbound.htm)
+
+### 🛑 Deploy your own `AdBlock` 
+- [Pi-hole](https://pi-hole.net/) — network-wide ad blocking software you can deploy to local Raspberry Pi or [always-free instance of Google Cloud](https://github.com/n3m351d4/Pi-Hole-PiVPN-on-Google-Compute-Engine-Free-Tier-with-Full-Tunnel-and-Split-Tunnel-OpenVPN-Configs). Yes, you got the irony right. [(GitHub)](https://github.com/pi-hole)
 
 ### ✉️ Deploy your own `Email server`
 - [Dovecot](https://www.dovecot.org/) — IMAP and POP3 email server. [(Digital Ocean tutorial)](https://www.digitalocean.com/community/tutorials/how-to-configure-a-mail-server-using-postfix-dovecot-mysql-and-spamassassin)
@@ -73,10 +76,10 @@ with compression and encryption.
 ### 📂 Deploy your own `Information storing and organization system`
 - [Bookstack](https://github.com/BookStackApp/BookStack) — platform to create documentation/wiki content built with PHP & Laravel.
 - [MediaWiki](https://www.mediawiki.org/wiki/MediaWiki) — collaboration and documentation platform with enormous capabilities.
-- [Dokuwiki](https://www.dokuwiki.org/) — Simple open-source wiki without database dependencies.
+- [Dokuwiki](https://www.dokuwiki.org/) — simple wiki that doesn't require a database. [(GitHub)](https://github.com/splitbrain/dokuwiki)
 
 ### 🔑 Deploy your own `Password manager`
-- [Bitwarden](https://bitwarden.com/) — easiest and safest way to store, share, and sync sensitive data. [(Github)](https://github.com/bitwarden/server)
+- [Bitwarden](https://bitwarden.com/) — easiest and safest way to store, share, and sync sensitive data. [(GitHub)](https://github.com/bitwarden/server)
 
 ### 🤥 Deploy your own `Read it Later` 
 - [Wallabag](https://www.wallabag.org/en) — self hostable application for saving web pages.
@@ -89,7 +92,7 @@ with compression and encryption.
 ### 🇫🇮 Deploy your own `Git server` 
 - [Gitlab CE](https://gitlab.com/gitlab-org/gitlab-foss) — turn-key git hosting solution. [(Digital Ocean tutorial)](https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-gitlab-on-ubuntu-18-04)
 - [Gitolight](https://github.com/sitaramc/gitolite) — git hosting on a server, with very fine-grained access control and many powerful features.
-- [Gitea](https://gitea.io) - lightweight and powerful git server made with Go, so you can deploy it even on Raspberry Pi. [(GitHub)](https://github.com/go-gitea)
+- [Gitea](https://gitea.io) — lightweight and powerful git server made with Go, so you can deploy it even on Raspberry Pi. [(GitHub)](https://github.com/go-gitea)
 
 ### 🗑 Deploy your own `Gist/PasteBin`
 - [Privatebin](https://privatebin.info/) — minimalist, online pastebin where the server has zero knowledge of pasted data. [(GitHub)](https://github.com/PrivateBin/PrivateBin)
@@ -102,7 +105,7 @@ with compression and encryption.
 
 ### 🥋Deploy your own `Kanban board` 
 - [Wekan](https://github.com/wekan/wekan) — collaborative Kanban board.
-- [Kanboard](https://kanboard.org/) — project management software that focuses on the Kanban methodology. [(Github)](https://github.com/kanboard/kanboard)
+- [Kanboard](https://kanboard.org/) — project management software that focuses on the Kanban methodology. [(GitHub)](https://github.com/kanboard/kanboard)
 
 ### 🛰 Deploy your own `GPS tracking system`
 - [OwnTracks](https://github.com/owntracks) — lightweight program for storing and accessing location data published via MQTT or HTTP by the OwnTracks apps.
