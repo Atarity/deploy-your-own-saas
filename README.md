@@ -51,7 +51,7 @@
 - [Dovecot](https://www.dovecot.org/) — IMAP and POP3 email server. [(Digital Ocean tutorial)](https://www.digitalocean.com/community/tutorials/how-to-configure-a-mail-server-using-postfix-dovecot-mysql-and-spamassassin)
 - [iRedMail](https://www.iredmail.org/) — email server.
 - [Roundcube](https://roundcube.net/) — browser-based IMAP client with an application-like user interface.
-
+- [mailcow](https://mailcow.email/) — The mailserver suite with the 'moo' – 🐮 + 🐋 = 💕 [(GitHub)](https://github.com/mailcow/mailcow-dockerized)
 ### 💬 Deploy your own `Chat server`
 - [Prosody IM](https://prosody.im/) — modern XMPP communication server. [(Urown tutorial)](https://roll.urown.net/server/prosody.html)
 
