@@ -38,6 +38,7 @@
 
 ### 🗄 Deploy your own `Cloud storage`
 - [OwnCloud](https://github.com/owncloud/core) — personal cloud which runs on your own server. [(tutorial)](https://doc.owncloud.org/server/10.2/admin_manual/installation/deployment_considerations.html)
+- [Nextcloud](https://nextcloud.com/) — enchanced OwnCloud fork.
 - [Syncthing](https://syncthing.net/) — continuous file synchronization program.
 
 ### 🕸 Deploy your own `DNS`
@@ -72,6 +73,7 @@ with compression and encryption.
 ### 📂 Deploy your own `Information storing and organization system`
 - [Bookstack](https://github.com/BookStackApp/BookStack) — platform to create documentation/wiki content built with PHP & Laravel.
 - [MediaWiki](https://www.mediawiki.org/wiki/MediaWiki) — collaboration and documentation platform with enormous capabilities.
+- [Dokuwiki](https://www.dokuwiki.org/) — Simple open-source wiki without database dependencies.
 
 ### 🔑 Deploy your own `Password manager`
 - [Bitwarden](https://bitwarden.com/) — easiest and safest way to store, share, and sync sensitive data. [(Github)](https://github.com/bitwarden/server)
@@ -87,7 +89,7 @@ with compression and encryption.
 ### 🇫🇮 Deploy your own `Git server` 
 - [Gitlab CE](https://gitlab.com/gitlab-org/gitlab-foss) — turn-key git hosting solution. [(Digital Ocean tutorial)](https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-gitlab-on-ubuntu-18-04)
 - [Gitolight](https://github.com/sitaramc/gitolite) — git hosting on a server, with very fine-grained access control and many powerful features.
-- [Gitea](https://gitea.io) - lightweight and powerful git hosting on a server [(GitHub)](https://github.com/go-gitea)
+- [Gitea](https://gitea.io) - lightweight and powerful git server made with Go, so you can deploy it even on Raspberry Pi. [(GitHub)](https://github.com/go-gitea)
 
 ### 🗑 Deploy your own `Gist/PasteBin`
 - [Privatebin](https://privatebin.info/) — minimalist, online pastebin where the server has zero knowledge of pasted data. [(GitHub)](https://github.com/PrivateBin/PrivateBin)
