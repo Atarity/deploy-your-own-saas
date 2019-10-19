@@ -45,7 +45,7 @@
 - [Unbound](https://github.com/NLnetLabs/unbound) — validating, recursive, caching DNS resolver. [(Urown tutorial)](https://roll.urown.net/server/dns/unbound.htm)
 
 ### 🛑 Deploy your own `AdBlock` 
-- [Pi-hole](https://pi-hole.net/) — network-wide ad blocking software you can deploy to local Raspberry Pi or [always-free instance of Google Cloud](https://github.com/n3m351d4/Pi-Hole-PiVPN-on-Google-Compute-Engine-Free-Tier-with-Full-Tunnel-and-Split-Tunnel-OpenVPN-Configs). Yes, you got the irony right. [(GitHub)](https://github.com/pi-hole)
+- [Pi-hole](https://pi-hole.net/) — network-wide ad blocking software you can deploy to local Raspberry Pi or [always-free instance of Google Cloud](https://github.com/n3m351d4/Pi-Hole-PiVPN-on-Google-Compute-Engine-Free-Tier-with-Full-Tunnel-and-Split-Tunnel-OpenVPN-Configs). Yes, you've got the irony right. [(GitHub)](https://github.com/pi-hole)
 
 ### ✉️ Deploy your own `Email server`
 - [Dovecot](https://www.dovecot.org/) — IMAP and POP3 email server. [(Digital Ocean tutorial)](https://www.digitalocean.com/community/tutorials/how-to-configure-a-mail-server-using-postfix-dovecot-mysql-and-spamassassin)
