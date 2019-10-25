@@ -7,6 +7,7 @@
     - [Conjure](https://www.conjur.org/)
 - 2FA authenticator 🔐
 - Personal finance tracker 💳
+    - [Ontrack](https://github.com/inoda/ontrack)
 - Video game streaming 🕹
     - [Parsec](https://parsecgaming.com/)
         - [Paperspace Cloud with Parsec](https://www.paperspace.com/gaming)
@@ -17,10 +18,15 @@
     - [Steam Remote Play](https://store.steampowered.com/remoteplay/)
     - [2015 HN tread](https://news.ycombinator.com/item?id=9864534)
 - Stocks portfolio watcher 💹
+- Personal Document Management System
+    - [Paperless](https://github.com/the-paperless-project/paperless)
+    - [EveryDocs](https://github.com/jonashellmann/everydocs-core/)
 - Contacts list 📇
 - Tasks 📋
 - Video calls server
+    - [Tuber](https://github.com/trailofbits/tubertc) — Peer-to-Peer Video Chat for Corporate LANs
 - Torrent machine
+    - [Cloud Torrent](https://github.com/jpillora/cloud-torrent)
 - Notetaking service with sharing
 - Web clipper
 - Screenshot sharing

@@ -11,6 +11,7 @@
 - [Ampache](https://github.com/ampache/ampache) — web based audio/video streaming application and file manager.
 - [Madsonic](https://beta.madsonic.org/pages/index.jsp) — web-based media library and media streamer with jukebox functionality.
 - [Mopidy](https://www.mopidy.com/) — extensible music server.
+- [Koel](https://koel.phanan.net/) — simple web-based personal audio streaming service. [(GitHub)](https://github.com/phanan/koel)
 
 ### 📷 Deploy your own `Photo hosting`
 - [Chevereto](https://chevereto.com/free) — powerful and fast image hosting script that allows you to create your very own image hosting website in just minutes.
@@ -26,9 +27,11 @@
 
 ### 🏷 Deploy your own `Bookmarks service`
 - [Unmark](https://github.com/cdevroe/unmark) — application for bookmarks. [(Tutplus tutorial from 2014)](https://computers.tutsplus.com/tutorials/host-your-own-bookmarking-webapp-with-unmark--cms-21385)
+- [Bookmarks](https://github.com/dyu/bookmarks) — self-hosted bookmarking app that can import bookmarks from delicious and chrome.
 
 ### 🔤 Deploy your own `URL shortener`
 - [Yourls](https://github.com/YOURLS/YOURLS) — Your Own URL Shortener.
+- [Kutt](https://kutt.it/) — modern URL shortener with support for custom domains. [(GitHub)](https://github.com/thedevs-network/kutt)
 - [CLI based approach](https://dev.to/commonshost/build-your-own-url-shortener-in-15-minutes-279n)
 
 ### 🗓 Deploy your own `Calendar`
@@ -55,6 +58,9 @@
 
 ### 💬 Deploy your own `Chat server`
 - [Prosody IM](https://prosody.im/) — modern XMPP communication server. [(Urown tutorial)](https://roll.urown.net/server/prosody.html)
+- [Zulip](https://zulipchat.com/) — team chat which combined the immediacy of real-time chat with an email threading model. [(Github)](https://github.com/zulip/zulip)
+- [Rocket Chat](https://rocket.chat/) — WebChat platform. [(GitHub)](https://github.com/RocketChat/Rocket.Chat)
+- [Mattermost](https://mattermost.com/) — private cloud, Slack-alternative.  [(GitHub)](https://github.com/mattermost/mattermost-server)
 
 ### ✍️ Deploy your own `Publishing system` 
 - [Jekyll](https://jekyllrb.com/) — static websites and blogs.
@@ -62,6 +68,7 @@
 - [Ghost](https://github.com/TryGhost/Ghost) — headless Node.js CMS for professional publishing.
 
 ### 🗣 Deploy your own `Disqus` comments
+- [Isso](https://posativ.org/isso/) — lightweight commenting server. It aims to be a drop-in replacement for Disqus. [(GitHub)](https://github.com/posativ/isso)
 - [DIY approach by Tania Rascia](https://www.taniarascia.com/add-comments-to-static-site/)
 
 ### 📈 Deploy your own `Web analytics engine` 
@@ -81,8 +88,10 @@ with compression and encryption.
 
 ### 🔑 Deploy your own `Password manager`
 - [Bitwarden](https://bitwarden.com/) — easiest and safest way to store, share, and sync sensitive data. [(GitHub)](https://github.com/bitwarden/server)
+- [LessPass](https://lesspass.com/) — stateless password manager. [(GitHub)](https://github.com/lesspass/lesspass)
 
 ### 🤥 Deploy your own `Read it Later` 
+- [Shiori](https://github.com/go-shiori/shiori) — simple bookmarks manager written intended as a simple clone of Pocket.
 - [Wallabag](https://www.wallabag.org/en) — self hostable application for saving web pages.
 
 ### 🗞 Deploy your own `RSS reader` 
@@ -97,6 +106,7 @@ with compression and encryption.
 
 ### 🗑 Deploy your own `Gist/PasteBin`
 - [Privatebin](https://privatebin.info/) — minimalist, online pastebin where the server has zero knowledge of pasted data. [(GitHub)](https://github.com/PrivateBin/PrivateBin)
+- [0bin](https://0bin.net/) — client side encrypted pastebin that can run without a database. [(GitHub)](https://github.com/sametmax/0bin)
 
 ### 🐵 Deploy your own `Mailchimp`
 - [Listmonk](https://github.com/knadh/listmonk) — newsletter and mailing list manager with a modern dashboard.
@@ -110,6 +120,7 @@ with compression and encryption.
 
 ### 🛰 Deploy your own `GPS tracking system`
 - [OwnTracks](https://github.com/owntracks) — lightweight program for storing and accessing location data published via MQTT or HTTP by the OwnTracks apps.
+- [µlogger server](https://github.com/bfabiszewski/ulogger-server) — web application for real-time collection of geolocation data, tracks viewing and management.
 
 ### 🌀 Deploy your own `IFTTT`
 - [Huginn](https://github.com/huginn/huginn) — system for building agents that perform automated tasks for you online.
