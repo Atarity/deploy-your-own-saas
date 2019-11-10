@@ -61,6 +61,7 @@
 - [Zulip](https://zulipchat.com/) — team chat which combined the immediacy of real-time chat with an email threading model. [(Github)](https://github.com/zulip/zulip)
 - [Rocket Chat](https://rocket.chat/) — WebChat platform. [(GitHub)](https://github.com/RocketChat/Rocket.Chat)
 - [Mattermost](https://mattermost.com/) — private cloud, Slack-alternative.  [(GitHub)](https://github.com/mattermost/mattermost-server)
+- [Mumble](https://www.mumble.info) — low-latency, high quality **voice chat** for gaming. [(GitHub)](https://github.com/mumble-voip/mumble)
 
 ### ✍️ Deploy your own `Publishing system` 
 - [Jekyll](https://jekyllrb.com/) — static websites and blogs.
