@@ -42,6 +42,7 @@
 ### 🗄 Deploy your own `Cloud storage`
 - [OwnCloud](https://github.com/owncloud/core) — personal cloud which runs on your own server. [(tutorial)](https://doc.owncloud.org/server/10.2/admin_manual/installation/deployment_considerations.html)
 - [Nextcloud](https://nextcloud.com/) — enchanced OwnCloud fork with number of additional services like calendars, mail, contacts and video calls [(GitHub)](https://github.com/nextcloud).
+- [Seafile](https://www.seafile.com/en/home/) — Reliable and Performant File Sync and Share Solution [(GitHub)](https://github.com/haiwen/seafile).
 - [Syncthing](https://syncthing.net/) — continuous file synchronization program.
 
 ### 🕸 Deploy your own `DNS`
