@@ -15,6 +15,7 @@
 
 ### 📷 Deploy your own `Photo hosting`
 - [Chevereto](https://chevereto.com/free) — powerful and fast image hosting script that allows you to create your very own image hosting website in just minutes.
+- [PhotoStructure](https://photostructure.com/) - all your family's photos and videos automatically organized into a fun and beautiful website. Runs via [Docker, NodeJS](https://support.photostructure.com/server/), or native desktop installers.
 - [ProGram](https://sarthology.github.io/proGramCLI/) — self-hosted Instagram style gallery.
 
 ### 📚 Deploy your own `eBooks catalog`
