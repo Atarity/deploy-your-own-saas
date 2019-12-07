@@ -43,6 +43,7 @@
 - [OwnCloud](https://github.com/owncloud/core) — personal cloud which runs on your own server. [(tutorial)](https://doc.owncloud.org/server/10.2/admin_manual/installation/deployment_considerations.html)
 - [Nextcloud](https://nextcloud.com/) — enchanced OwnCloud fork with number of additional services like calendars, mail, contacts and video calls [(GitHub)](https://github.com/nextcloud).
 - [Syncthing](https://syncthing.net/) — continuous file synchronization program.
+- [MinIO](https://github.com/minio/minio) — high performance object storage server compatible with Amazon S3 APIs
 
 ### 🕸 Deploy your own `DNS`
 - [Unbound](https://github.com/NLnetLabs/unbound) — validating, recursive, caching DNS resolver. [(Urown tutorial)](https://roll.urown.net/server/dns/unbound.htm)
