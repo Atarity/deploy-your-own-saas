@@ -24,6 +24,7 @@
 
 ### 📄 Deploy your own `Google Docs`
 - [Collabora](https://www.collaboraoffice.com/collabora-online/) — LibreOffice in the cloud with collaboration features. [(tutorial for OwnCloud)](https://www.collaboraoffice.com/code/docker/)
+- [ONLYOFFICE CE](https://www.onlyoffice.com/) — private cloud office with collaboration features. CE version distributed as [Docker image](https://helpcenter.onlyoffice.com/server/docker/opensource/deploy-community-edition-in-digitalocean.aspx). [(GitHub)](https://github.com/ONLYOFFICE) 
 
 ### 🏷 Deploy your own `Bookmarks service`
 - [Unmark](https://github.com/cdevroe/unmark) — application for bookmarks. [(Tutplus tutorial from 2014)](https://computers.tutsplus.com/tutorials/host-your-own-bookmarking-webapp-with-unmark--cms-21385)
@@ -43,6 +44,7 @@
 - [OwnCloud](https://github.com/owncloud/core) — personal cloud which runs on your own server. [(tutorial)](https://doc.owncloud.org/server/10.2/admin_manual/installation/deployment_considerations.html)
 - [Nextcloud](https://nextcloud.com/) — enchanced OwnCloud fork with number of additional services like calendars, mail, contacts and video calls [(GitHub)](https://github.com/nextcloud).
 - [Syncthing](https://syncthing.net/) — continuous file synchronization program.
+- [Seafile CE](https://www.seafile.com/en/home/) — file sync and share solution with collaboration and build-in wiki. [(GitHub)](https://github.com/haiwen/seafile)
 
 ### 🕸 Deploy your own `DNS`
 - [Unbound](https://github.com/NLnetLabs/unbound) — validating, recursive, caching DNS resolver. [(Urown tutorial)](https://roll.urown.net/server/dns/unbound.htm)
@@ -63,6 +65,9 @@
 - [Mattermost](https://mattermost.com/) — private cloud, Slack-alternative.  [(GitHub)](https://github.com/mattermost/mattermost-server)
 - [Mumble](https://www.mumble.info) — low-latency, high quality **voice chat** for gaming. [(GitHub)](https://github.com/mumble-voip/mumble)
 
+### 📹 Deploy your own `Video calls`
+- [Jitsi](https://jitsi.org/) — Multi-platform open-source video conferencing. [(GitHub)](https://github.com/jitsi)
+
 ### ✍️ Deploy your own `Publishing system` 
 - [Jekyll](https://jekyllrb.com/) — static websites and blogs.
 - [Hugo](https://gohugo.io/) — static site generators with amazing speed. 
@@ -75,6 +80,7 @@
 ### 📈 Deploy your own `Web analytics engine` 
 - [Ackee](https://ackee.electerious.com) — self-hosted, Node.js based analytics tool for those who care about privacy.
 - [Matomo](https://github.com/matomo-org/matomo) — open analytics platform.
+- [GoAccess](https://goaccess.io/) — real-time web log analyzer and interactive viewer that runs in a terminal or through browser. [(GitHub)](https://github.com/allinurl/goaccess)
 
 ### 📦 Deploy your own `Cloud backup`
 - [Duplicity](http://duplicity.nongnu.org/) — backs up directories by producing encrypted tar-format volumes and uploading them to a remote or local file server.
@@ -112,9 +118,6 @@ with compression and encryption.
 ### 🐵 Deploy your own `Mailchimp`
 - [Listmonk](https://github.com/knadh/listmonk) — newsletter and mailing list manager with a modern dashboard.
 
-### 📲 Deploy your own `Cloud buffer`
-- [Cloud Clip](https://github.com/skywind3000/CloudClip) — copy and paste text with gist between systems
-
 ### 🥋Deploy your own `Kanban board` 
 - [Wekan](https://github.com/wekan/wekan) — collaborative Kanban board.
 - [Kanboard](https://kanboard.org/) — project management software that focuses on the Kanban methodology. [(GitHub)](https://github.com/kanboard/kanboard)
@@ -129,6 +132,7 @@ with compression and encryption.
 ----
 
 Totally worth to check:
+- [/r/selfhosted](https://www.reddit.com/r/selfhosted/)
 - https://geek-cookbook.funkypenguin.co.nz/
 - https://github.com/sovereign/sovereign
 - https://roll.urown.net/about.html
