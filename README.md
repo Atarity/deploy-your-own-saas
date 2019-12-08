@@ -132,7 +132,7 @@ with compression and encryption.
 ----
 
 Totally worth to check:
-- [/r/selfhosted](https://www.reddit.com/r/selfhosted/)
+- https://www.reddit.com/r/selfhosted/
 - https://geek-cookbook.funkypenguin.co.nz/
 - https://github.com/sovereign/sovereign
 - https://roll.urown.net/about.html
