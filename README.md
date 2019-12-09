@@ -57,6 +57,7 @@
 - [Mailcow](https://mailcow.email/) — dockerized mailserver suite based on  Postfix, Dovecot, Nginx, PHP, MariaDB, Rspamd and more. [(GitHub)](https://github.com/mailcow/mailcow-dockerized)
 - [iRedMail](https://www.iredmail.org/) — email server.
 - [Roundcube](https://roundcube.net/) — browser-based IMAP client with an application-like user interface.
+- [Postal](https://postal.atech.media/) - a complete and fully featured mail server with web UI.
 
 ### 💬 Deploy your own `Chat server`
 - [Prosody IM](https://prosody.im/) — modern XMPP communication server. [(Urown tutorial)](https://roll.urown.net/server/prosody.html)
