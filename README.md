@@ -79,6 +79,7 @@
 
 ### 📈 Deploy your own `Web analytics engine` 
 - [Ackee](https://ackee.electerious.com) — self-hosted, Node.js based analytics tool for those who care about privacy.
+- [Countly](https://count.ly) - self hosted product analytics and marketing platform for mobile, web and desktop apps. ([Github](https://github.com/countly/countly-server))
 - [Matomo](https://github.com/matomo-org/matomo) — open analytics platform.
 - [GoAccess](https://goaccess.io/) — real-time web log analyzer and interactive viewer that runs in a terminal or through browser. [(GitHub)](https://github.com/allinurl/goaccess)
 
