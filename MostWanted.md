@@ -31,3 +31,6 @@
 - Web clipper
 - Screenshot sharing
 - Survey monkey
+
+### 📲 Deploy your own `Cloud buffer`
+- [Cloud Clip](https://github.com/skywind3000/CloudClip) — copy and paste text with gist between systems
