@@ -17,6 +17,7 @@
 ### 📷 Deploy your own `Photo hosting`
 - [Chevereto](https://chevereto.com/free) — powerful and fast image hosting script that allows you to create your very own image hosting website in just minutes.
 - [ProGram](https://sarthology.github.io/proGramCLI/) — self-hosted Instagram style gallery.
+- [Piwigo](https://piwigo.org/) — self-hosted, open source PHP image gallery.
 
 ### 📚 Deploy your own `eBooks catalog`
 - [Calibre](https://github.com/kovidgoyal/calibre) — e-book manager, packed with all you need features (including server).
