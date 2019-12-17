@@ -90,6 +90,7 @@
 - [Borg](https://www.borgbackup.org/) — deduplicating archiver
 with compression and encryption.
 - [ElkarBackup](https://github.com/elkarbackup/elkarbackup) — backup solution based on RSync/RSnapshot.
+- [Restic](https://restic.net/) - encrypted, deduplicated & efficient backups with an easy-to-use command line interface.
 
 ### 📂 Deploy your own `Information storing and organization system`
 - [Bookstack](https://github.com/BookStackApp/BookStack) — platform to create documentation/wiki content built with PHP & Laravel.
