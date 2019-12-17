@@ -64,6 +64,7 @@
 - [Rocket Chat](https://rocket.chat/) — WebChat platform. [(GitHub)](https://github.com/RocketChat/Rocket.Chat)
 - [Mattermost](https://mattermost.com/) — private cloud, Slack-alternative.  [(GitHub)](https://github.com/mattermost/mattermost-server)
 - [Mumble](https://www.mumble.info) — low-latency, high quality **voice chat** for gaming. [(GitHub)](https://github.com/mumble-voip/mumble)
+- [Matrix](https://matrix.org) — federated open communication network [(GitHub)](https://github.com/matrix-org)
 
 ### 📹 Deploy your own `Video calls`
 - [Jitsi](https://jitsi.org/) — Multi-platform open-source video conferencing. [(GitHub)](https://github.com/jitsi)
