@@ -132,7 +132,9 @@ with compression and encryption.
 - [µlogger server](https://github.com/bfabiszewski/ulogger-server) — web application for real-time collection of geolocation data, tracks viewing and management.
 
 ### 🌀 Deploy your own `IFTTT`
-- [Huginn](https://github.com/huginn/huginn) — system for building agents that perform automated tasks for you online.
+- [N8n](https://n8n.io/) Free node-based Workflow Automation Tool. Easily automate tasks across different services. [(GitHub)](https://github.com/n8n-io/n8n)
+- [Beehive](https://github.com/muesli/beehive) A flexible event/agent & automation system made with Go
+- [Huginn](https://github.com/huginn/huginn) — system for building agents that perform automated tasks for you online. Written in Ruby.
 
 ----
 
