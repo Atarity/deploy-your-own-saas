@@ -13,6 +13,7 @@
 - [Madsonic](https://beta.madsonic.org/pages/index.jsp) — web-based media library and media streamer with jukebox functionality.
 - [Mopidy](https://www.mopidy.com/) — extensible music server.
 - [Koel](https://koel.phanan.net/) — simple web-based personal audio streaming service. [(GitHub)](https://github.com/phanan/koel)
+- [Funkwhale](https://funkwhale.audio/) - web-based music library with Airsonic compatibility
 
 ### 📷 Deploy your own `Photo hosting`
 - [Chevereto](https://chevereto.com/free) — powerful and fast image hosting script that allows you to create your very own image hosting website in just minutes.
