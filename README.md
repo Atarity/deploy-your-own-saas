@@ -6,19 +6,19 @@
 - [OpenVPN](https://openvpn.net/) — full-featured open source VPN solution. [(Digital Ocean tutorial)](https://www.digitalocean.com/community/tutorials/how-to-set-up-an-openvpn-server-on-ubuntu-16-04)
 - [WireGuard](https://www.wireguard.com/) —  faster, simpler, leaner, and more useful than IPsec. It intends to be considerably more performant than OpenVPN. [(Digital Ocean tutorial)](https://www.digitalocean.com/community/tutorials/how-to-create-a-point-to-point-vpn-with-wireguard-on-ubuntu-16-04)
 - [Algo VPN](https://github.com/trailofbits/algo) — set of Ansible scripts that simplify the setup of a personal Wireguard and IPsec VPN.
-- [Streisand VPN](https://github.com/StreisandEffect/streisand) - sets up a new server running your choice of WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge. It also generates custom instructions for all of these services. At the end of the run you are given an HTML file with instructions that can be shared with friends, family members, and fellow activists.
+- [Streisand](https://github.com/StreisandEffect/streisand) — another set of Ansible scripts to setup and run WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge.
 
 ### 🎧 Deploy your own `Music streaming service`
 - [Ampache](https://github.com/ampache/ampache) — web based audio/video streaming application and file manager.
 - [Madsonic](https://beta.madsonic.org/pages/index.jsp) — web-based media library and media streamer with jukebox functionality.
 - [Mopidy](https://www.mopidy.com/) — extensible music server.
 - [Koel](https://koel.phanan.net/) — simple web-based personal audio streaming service. [(GitHub)](https://github.com/phanan/koel)
-- [Funkwhale](https://funkwhale.audio/) - web-based music library with Airsonic compatibility
+- [Funkwhale](https://funkwhale.audio/) — web-based music library with Airsonic compatibility. [(GitLab)](https://dev.funkwhale.audio/funkwhale/funkwhale)
 
 ### 📷 Deploy your own `Photo hosting`
 - [Chevereto](https://chevereto.com/free) — powerful and fast image hosting script that allows you to create your very own image hosting website in just minutes.
 - [ProGram](https://sarthology.github.io/proGramCLI/) — self-hosted Instagram style gallery.
-- [Piwigo](https://piwigo.org/) — self-hosted, open source PHP image gallery.
+- [Piwigo](https://piwigo.org/) — PHP image gallery. [(GitHub)](https://github.com/Piwigo)
 
 ### 📚 Deploy your own `eBooks catalog`
 - [Calibre](https://github.com/kovidgoyal/calibre) — e-book manager, packed with all you need features (including server).
@@ -47,8 +47,7 @@
 - [OwnCloud](https://github.com/owncloud/core) — personal cloud which runs on your own server. [(tutorial)](https://doc.owncloud.org/server/10.2/admin_manual/installation/deployment_considerations.html)
 - [Nextcloud](https://nextcloud.com/) — enchanced OwnCloud fork with number of additional services like calendars, mail, contacts and video calls [(GitHub)](https://github.com/nextcloud).
 - [Syncthing](https://syncthing.net/) — continuous file synchronization program.
-- [Seafile CE](https://www.seafile.com/en/home/) — file sync and share solution with collaboration and build-in wiki. [(GitHub)](https://github.com/haiwen/seafile)
-- [MinIO](https://github.com/minio/minio) — high performance object storage server compatible with Amazon S3 APIs
+- [MinIO](https://github.com/minio/minio) — object storage server compatible with Amazon S3 APIs.
 
 ### 🕸 Deploy your own `DNS`
 - [Unbound](https://github.com/NLnetLabs/unbound) — validating, recursive, caching DNS resolver. [(Urown tutorial)](https://roll.urown.net/server/dns/unbound.htm)
@@ -61,7 +60,7 @@
 - [Mailcow](https://mailcow.email/) — dockerized mailserver suite based on  Postfix, Dovecot, Nginx, PHP, MariaDB, Rspamd and more. [(GitHub)](https://github.com/mailcow/mailcow-dockerized)
 - [iRedMail](https://www.iredmail.org/) — email server.
 - [Roundcube](https://roundcube.net/) — browser-based IMAP client with an application-like user interface.
-- [Postal](https://postal.atech.media/) - a complete and fully featured mail server with web UI.
+- [Postal](https://postal.atech.media/) —  a fully featured mail server with web UI. [(GitHub)](https://github.com/postalhq/postal)
 
 ### 💬 Deploy your own `Chat server`
 - [Prosody IM](https://prosody.im/) — modern XMPP communication server. [(Urown tutorial)](https://roll.urown.net/server/prosody.html)
@@ -69,7 +68,7 @@
 - [Rocket Chat](https://rocket.chat/) — WebChat platform. [(GitHub)](https://github.com/RocketChat/Rocket.Chat)
 - [Mattermost](https://mattermost.com/) — private cloud, Slack-alternative.  [(GitHub)](https://github.com/mattermost/mattermost-server)
 - [Mumble](https://www.mumble.info) — low-latency, high quality **voice chat** for gaming. [(GitHub)](https://github.com/mumble-voip/mumble)
-- [Matrix](https://matrix.org) — federated open communication network [(GitHub)](https://github.com/matrix-org)
+- [Matrix](https://matrix.org) — ecosystem for open federated Instant Messaging and VoIP. [(GitHub)](https://github.com/matrix-org)
 
 ### 📹 Deploy your own `Video calls`
 - [Jitsi](https://jitsi.org/) — Multi-platform open-source video conferencing. [(GitHub)](https://github.com/jitsi)
@@ -78,7 +77,7 @@
 - [Jekyll](https://jekyllrb.com/) — static websites and blogs.
 - [Hugo](https://gohugo.io/) — static site generators with amazing speed. 
 - [Ghost](https://github.com/TryGhost/Ghost) — headless Node.js CMS for professional publishing.
-- [Gatsby](https://gatsbyjs.org/) - free and open source framework based on React that helps developers build blazing fast websites and apps
+- [Gatsby](https://gatsbyjs.org/) — React-based framework that helps developers build fast websites and apps. [(GitHub)](https://github.com/gatsbyjs/gatsby)
 
 ### 🗣 Deploy your own `Disqus` comments
 - [Isso](https://posativ.org/isso/) — lightweight commenting server. It aims to be a drop-in replacement for Disqus. [(GitHub)](https://github.com/posativ/isso)
@@ -94,7 +93,7 @@
 - [Borg](https://www.borgbackup.org/) — deduplicating archiver
 with compression and encryption.
 - [ElkarBackup](https://github.com/elkarbackup/elkarbackup) — backup solution based on RSync/RSnapshot.
-- [Restic](https://restic.net/) - encrypted, deduplicated & efficient backups with an easy-to-use command line interface.
+- [Restic](https://restic.net/) — encrypted, deduplicated & simple backups with an easy-to-use CLI. [(GitHub)](https://github.com/restic/restic/)
 
 ### 📂 Deploy your own `Information storing and organization system`
 - [Bookstack](https://github.com/BookStackApp/BookStack) — platform to create documentation/wiki content built with PHP & Laravel.
@@ -118,7 +117,7 @@ with compression and encryption.
 - [Gitlab CE](https://gitlab.com/gitlab-org/gitlab-foss) — turn-key git hosting solution. [(Digital Ocean tutorial)](https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-gitlab-on-ubuntu-18-04)
 - [Gitolight](https://github.com/sitaramc/gitolite) — git hosting on a server, with very fine-grained access control and many powerful features.
 - [Gitea](https://gitea.io) — lightweight and powerful git server made with Go, so you can deploy it even on Raspberry Pi. [(GitHub)](https://github.com/go-gitea)
-- [Pagure](https://pagure.io/) - lightweight, powerful, and flexible git-centered forge with decentralization features written in Python using pygit2. [(Pagure)](https://pagure.io/pagure)
+- [Pagure](https://pagure.io/pagure) — lightweight, powerful, and flexible git-centered forge with decentralization features.
 
 ### 🗑 Deploy your own `Gist/PasteBin`
 - [Privatebin](https://privatebin.info/) — minimalist, online pastebin where the server has zero knowledge of pasted data. [(GitHub)](https://github.com/PrivateBin/PrivateBin)
@@ -136,8 +135,8 @@ with compression and encryption.
 - [µlogger server](https://github.com/bfabiszewski/ulogger-server) — web application for real-time collection of geolocation data, tracks viewing and management.
 
 ### 🌀 Deploy your own `IFTTT`
-- [N8n](https://n8n.io/) Free node-based Workflow Automation Tool. Easily automate tasks across different services. [(GitHub)](https://github.com/n8n-io/n8n)
-- [Beehive](https://github.com/muesli/beehive) A flexible event/agent & automation system made with Go
+- [n8n](https://n8n.io/) — node-based Workflow Automation Tool with visual editor. [(GitHub)](https://github.com/n8n-io/n8n)
+- [Beehive](https://github.com/muesli/beehive) — a flexible event/agent & automation system made with Go.
 - [Huginn](https://github.com/huginn/huginn) — system for building agents that perform automated tasks for you online. Written in Ruby.
 
 ----
@@ -147,3 +146,5 @@ Totally worth to check:
 - https://geek-cookbook.funkypenguin.co.nz/
 - https://github.com/sovereign/sovereign
 - https://roll.urown.net/about.html
+
+Cover art pirated from [KADA★BURA](https://www.kadaburadraws.com/pixel-art#/text-rpg/)
