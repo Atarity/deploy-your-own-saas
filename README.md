@@ -36,6 +36,7 @@
 ### 🔤 Deploy your own `URL shortener`
 - [Yourls](https://github.com/YOURLS/YOURLS) — Your Own URL Shortener.
 - [Kutt](https://kutt.it/) — modern URL shortener with support for custom domains. [(GitHub)](https://github.com/thedevs-network/kutt)
+- [Delta](https://github.com/fosslife/delta) — a file uploader and URL shortener packed with features and CLI.
 - [CLI based approach](https://dev.to/commonshost/build-your-own-url-shortener-in-15-minutes-279n)
 
 ### 🗓 Deploy your own `Calendar`
@@ -99,6 +100,8 @@ with compression and encryption.
 - [Bookstack](https://github.com/BookStackApp/BookStack) — platform to create documentation/wiki content built with PHP & Laravel.
 - [MediaWiki](https://www.mediawiki.org/wiki/MediaWiki) — collaboration and documentation platform with enormous capabilities.
 - [Dokuwiki](https://www.dokuwiki.org/) — simple wiki that doesn't require a database. [(GitHub)](https://github.com/splitbrain/dokuwiki)
+- [Outline](https://www.getoutline.com/) — fastest wiki and knowledge base for growing teams with markdown support and clean UI. [(GitHub)](https://github.com/outline/outline)
+- [Wiki.js](https://wiki.js.org/) — lightweight and extensible wiki made with Node.js. [(GitHub)](https://github.com/Requarks/wiki)
 
 ### 🔑 Deploy your own `Password manager`
 - [Bitwarden](https://bitwarden.com/) — easiest and safest way to store, share, and sync sensitive data. [(GitHub)](https://github.com/bitwarden/server)
