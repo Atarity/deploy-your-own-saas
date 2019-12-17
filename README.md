@@ -78,6 +78,7 @@
 - [Jekyll](https://jekyllrb.com/) — static websites and blogs.
 - [Hugo](https://gohugo.io/) — static site generators with amazing speed. 
 - [Ghost](https://github.com/TryGhost/Ghost) — headless Node.js CMS for professional publishing.
+- [Gatsby](https://gatsbyjs.org/) - free and open source framework based on React that helps developers build blazing fast websites and apps
 
 ### 🗣 Deploy your own `Disqus` comments
 - [Isso](https://posativ.org/isso/) — lightweight commenting server. It aims to be a drop-in replacement for Disqus. [(GitHub)](https://github.com/posativ/isso)
