@@ -88,6 +88,7 @@
 - [Ackee](https://ackee.electerious.com) — self-hosted, Node.js based analytics tool for those who care about privacy.
 - [Matomo](https://github.com/matomo-org/matomo) — open analytics platform.
 - [GoAccess](https://goaccess.io/) — real-time web log analyzer and interactive viewer that runs in a terminal or through browser. [(GitHub)](https://github.com/allinurl/goaccess)
+- [Offen](https://github.com/offen/offen) — Privacy friendly, fair and transparent web analytics.
 
 ### 📦 Deploy your own `Cloud backup`
 - [Duplicity](http://duplicity.nongnu.org/) — backs up directories by producing encrypted tar-format volumes and uploading them to a remote or local file server.
