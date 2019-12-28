@@ -150,4 +150,4 @@ Totally worth to check:
 - https://github.com/sovereign/sovereign
 - https://roll.urown.net/about.html
 
-Cover art pirated from [KADA★BURA](https://www.kadaburadraws.com/pixel-art#/text-rpg/)
+Cover art attributed to [KADA★BURA](https://www.kadaburadraws.com/pixel-art#/text-rpg/)
