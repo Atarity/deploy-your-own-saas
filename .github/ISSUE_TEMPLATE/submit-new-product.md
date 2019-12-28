@@ -15,8 +15,10 @@ assignees: ''
 
 ## Please, NO
 1. Early stage/alpha/yesterday started products;
+1. Dead or abandoned products;
 1. Community Edition with reduced list of features (users limit, no your own domain, etc).
 
 ## Hell, YES
 1. Products with tutorials and how-to's;
+1. Community-driven products;
 1. Products with GitHub/GitLab/Bitbucket open repos.
