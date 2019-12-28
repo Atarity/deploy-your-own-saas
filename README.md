@@ -80,6 +80,7 @@
 - [Hugo](https://gohugo.io/) — static site generators with amazing speed. 
 - [Ghost](https://github.com/TryGhost/Ghost) — headless Node.js CMS for professional publishing.
 - [Gatsby](https://gatsbyjs.org/) — React-based framework that helps developers build fast websites and apps. [(GitHub)](https://github.com/gatsbyjs/gatsby)
+- [Jigsaw](https://jigsaw.tighten.co/) — static websites and blogs. [(GitHub)](https://github.com/tightenco/jigsaw)
 
 ### 🗣 Deploy your own `Disqus` comments
 - [Isso](https://posativ.org/isso/) — lightweight commenting server. It aims to be a drop-in replacement for Disqus. [(GitHub)](https://github.com/posativ/isso)
