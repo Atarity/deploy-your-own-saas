@@ -143,6 +143,11 @@ with compression and encryption.
 - [Beehive](https://github.com/muesli/beehive) — a flexible event/agent & automation system made with Go.
 - [Huginn](https://github.com/huginn/huginn) — system for building agents that perform automated tasks for you online. Written in Ruby.
 
+### 👻 Deploy your own `Fake data server`
+- [json-server](https://github.com/typicode/json-server) — get a full fake REST API with zero coding.
+- [mockserver](https://github.com/mock-server/mockserver) — mock any system you integrate with via HTTP or HTTPS.
+- [micro-jaymock](https://github.com/unmock/micro-jaymock) — tiny API mocking microservice for generating fake JSON data.
+
 ----
 
 Totally worth to check:
