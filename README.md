@@ -63,6 +63,7 @@
 - [iRedMail](https://www.iredmail.org/) — email server.
 - [Roundcube](https://roundcube.net/) — browser-based IMAP client with an application-like user interface.
 - [Postal](https://postal.atech.media/) —  a fully featured mail server with web UI. [(GitHub)](https://github.com/postalhq/postal)
+- [Mail-in-a-Box](https://mailinabox.email/) - lets you become your own mail service provider in a few easy steps. It’s sort of like making your own gmail, but one you control from top to bottom.
 
 ### 💬 Deploy your own `Chat server`
 - [Prosody IM](https://prosody.im/) — modern XMPP communication server. [(Urown tutorial)](https://roll.urown.net/server/prosody.html)
