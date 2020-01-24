@@ -60,10 +60,10 @@
 ### ✉️ Deploy your own `Email server`
 - [Dovecot](https://www.dovecot.org/) — IMAP and POP3 email server. [(Digital Ocean tutorial)](https://www.digitalocean.com/community/tutorials/how-to-configure-a-mail-server-using-postfix-dovecot-mysql-and-spamassassin)
 - [Mailcow](https://mailcow.email/) — dockerized mailserver suite based on  Postfix, Dovecot, Nginx, PHP, MariaDB, Rspamd and more. [(GitHub)](https://github.com/mailcow/mailcow-dockerized)
-- [iRedMail](https://www.iredmail.org/) — email server.
+- [iRedMail](https://www.iredmail.org/) — mailserver suite with vast of options.
+- [Mail-in-a-Box](https://mailinabox.email/) — another mailserver suite based on Postfix, Dovecot, Z-Push, Roundcube, Nextcloud, Apache SpamAssassin, Postgrey, Nginx. [(GitHub)](https://github.com/mail-in-a-box/mailinabox)
 - [Roundcube](https://roundcube.net/) — browser-based IMAP client with an application-like user interface.
 - [Postal](https://postal.atech.media/) —  a fully featured mail server with web UI. [(GitHub)](https://github.com/postalhq/postal)
-- [Mail-in-a-Box](https://mailinabox.email/) - lets you become your own mail service provider in a few easy steps. It’s sort of like making your own gmail, but one you control from top to bottom.
 
 ### 💬 Deploy your own `Chat server`
 - [Prosody IM](https://prosody.im/) — modern XMPP communication server. [(Urown tutorial)](https://roll.urown.net/server/prosody.html)
@@ -72,6 +72,7 @@
 - [Mattermost](https://mattermost.com/) — private cloud, Slack-alternative.  [(GitHub)](https://github.com/mattermost/mattermost-server)
 - [Mumble](https://www.mumble.info) — low-latency, high quality **voice chat** for gaming. [(GitHub)](https://github.com/mumble-voip/mumble)
 - [Matrix](https://matrix.org) — ecosystem for open federated Instant Messaging and VoIP. [(GitHub)](https://github.com/matrix-org)
+- [Riot](https://about.riot.im/) — multiplatform chat app based on Matrix protocol.
 
 ### 📹 Deploy your own `Video calls`
 - [Jitsi](https://jitsi.org/) — Multi-platform open-source video conferencing. [(GitHub)](https://github.com/jitsi)
@@ -138,6 +139,9 @@ with compression and encryption.
 ### 🛰 Deploy your own `GPS tracking system`
 - [OwnTracks](https://github.com/owntracks) — lightweight program for storing and accessing location data published via MQTT or HTTP by the OwnTracks apps.
 - [µlogger server](https://github.com/bfabiszewski/ulogger-server) — web application for real-time collection of geolocation data, tracks viewing and management.
+
+### 💳 Deploy your own `Personal finance tracker`
+- [Firefly III](https://www.firefly-iii.org/) — financial manager to help you keep track of expenses, income, budgets and everything in between. [(GitHub)](https://github.com/firefly-iii/firefly-iii)
 
 ### 🌀 Deploy your own `IFTTT`
 - [n8n](https://n8n.io/) — node-based Workflow Automation Tool with visual editor. [(GitHub)](https://github.com/n8n-io/n8n)
