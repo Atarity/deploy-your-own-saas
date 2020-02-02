@@ -135,6 +135,7 @@ with compression and encryption.
 ### 🥋Deploy your own `Kanban board` 
 - [Wekan](https://github.com/wekan/wekan) — collaborative Kanban board.
 - [Kanboard](https://kanboard.org/) — project management software that focuses on the Kanban methodology. [(GitHub)](https://github.com/kanboard/kanboard)
+- [Taiga](https://taiga.io) — project managemengt software with a kanban board, sprints, wiki and tickets. [(GitHub)](https://github.com/taigaio)
 
 ### 🛰 Deploy your own `GPS tracking system`
 - [OwnTracks](https://github.com/owntracks) — lightweight program for storing and accessing location data published via MQTT or HTTP by the OwnTracks apps.
