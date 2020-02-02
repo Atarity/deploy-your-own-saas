@@ -54,7 +54,7 @@
 ### 🕸 Deploy your own `DNS`
 - [Unbound](https://github.com/NLnetLabs/unbound) — validating, recursive, caching DNS resolver. [(Urown tutorial)](https://roll.urown.net/server/dns/unbound.htm)
 
-### 🛑 Deploy your own `AdBlock` 
+### 🛑 Deploy your own `AdBlock`
 - [Pi-hole](https://pi-hole.net/) — network-wide ad blocking software you can deploy to local Raspberry Pi or [always-free instance of Google Cloud](https://github.com/n3m351d4/Pi-Hole-PiVPN-on-Google-Compute-Engine-Free-Tier-with-Full-Tunnel-and-Split-Tunnel-OpenVPN-Configs). Yes, you've got the irony right. [(GitHub)](https://github.com/pi-hole)
 
 ### ✉️ Deploy your own `Email server`
@@ -77,9 +77,9 @@
 ### 📹 Deploy your own `Video calls`
 - [Jitsi](https://jitsi.org/) — Multi-platform open-source video conferencing. [(GitHub)](https://github.com/jitsi)
 
-### ✍️ Deploy your own `Publishing system` 
+### ✍️ Deploy your own `Publishing system`
 - [Jekyll](https://jekyllrb.com/) — static websites and blogs.
-- [Hugo](https://gohugo.io/) — static site generators with amazing speed. 
+- [Hugo](https://gohugo.io/) — static site generators with amazing speed.
 - [Ghost](https://github.com/TryGhost/Ghost) — headless Node.js CMS for professional publishing.
 - [Gatsby](https://gatsbyjs.org/) — React-based framework that helps developers build fast websites and apps. [(GitHub)](https://github.com/gatsbyjs/gatsby)
 
@@ -87,7 +87,7 @@
 - [Isso](https://posativ.org/isso/) — lightweight commenting server. It aims to be a drop-in replacement for Disqus. [(GitHub)](https://github.com/posativ/isso)
 - [DIY approach by Tania Rascia](https://www.taniarascia.com/add-comments-to-static-site/)
 
-### 📈 Deploy your own `Web analytics engine` 
+### 📈 Deploy your own `Web analytics engine`
 - [Ackee](https://ackee.electerious.com) — self-hosted, Node.js based analytics tool for those who care about privacy.
 - [Matomo](https://github.com/matomo-org/matomo) — open analytics platform.
 - [GoAccess](https://goaccess.io/) — real-time web log analyzer and interactive viewer that runs in a terminal or through browser. [(GitHub)](https://github.com/allinurl/goaccess)
@@ -110,16 +110,16 @@ with compression and encryption.
 - [Bitwarden](https://bitwarden.com/) — easiest and safest way to store, share, and sync sensitive data. [(GitHub)](https://github.com/bitwarden/server)
 - [LessPass](https://lesspass.com/) — stateless password manager. [(GitHub)](https://github.com/lesspass/lesspass)
 
-### 🤥 Deploy your own `Read it Later` 
+### 🤥 Deploy your own `Read it Later`
 - [Shiori](https://github.com/go-shiori/shiori) — simple bookmarks manager written intended as a simple clone of Pocket.
 - [Wallabag](https://www.wallabag.org/en) — self hostable application for saving web pages.
 
-### 🗞 Deploy your own `RSS reader` 
+### 🗞 Deploy your own `RSS reader`
 - [Selfoss](https://selfoss.aditu.de/) — multipurpose rss reader, live stream, mashup, aggregation web application.
 - [Tiny Tiny RSS](https://tt-rss.org/) — web-based news feed reader and aggregator.
 - [Miniflux](https://miniflux.app/) — minimalist and opinionated feed reader.
 
-### 🇫🇮 Deploy your own `Git server` 
+### 🇫🇮 Deploy your own `Git server`
 - [Gitlab CE](https://gitlab.com/gitlab-org/gitlab-foss) — turn-key git hosting solution. [(Digital Ocean tutorial)](https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-gitlab-on-ubuntu-18-04)
 - [Gitolight](https://github.com/sitaramc/gitolite) — git hosting on a server, with very fine-grained access control and many powerful features.
 - [Gitea](https://gitea.io) — lightweight and powerful git server made with Go, so you can deploy it even on Raspberry Pi. [(GitHub)](https://github.com/go-gitea)
@@ -132,10 +132,11 @@ with compression and encryption.
 ### 🐵 Deploy your own `Mailchimp`
 - [Listmonk](https://github.com/knadh/listmonk) — newsletter and mailing list manager with a modern dashboard.
 
-### 🥋Deploy your own `Kanban board` 
+### 🥋Deploy your own `Kanban board`
 - [Wekan](https://github.com/wekan/wekan) — collaborative Kanban board.
 - [Kanboard](https://kanboard.org/) — project management software that focuses on the Kanban methodology. [(GitHub)](https://github.com/kanboard/kanboard)
-- [Taiga](https://taiga.io) — project managemengt software with a kanban board, sprints, wiki and tickets. [(GitHub)](https://github.com/taigaio)
+- [Taiga](https://taiga.io) — project management software with a kanban board, sprints, wiki and tickets. [(GitHub)](https://github.com/taigaio)
+- [Phabricator](https://www.phacility.com/phabricator/) — a collection of web apps which contains bug tracker, kanban board, wiki, chat and everything you need to build software. [(GitHub)](https://github.com/phacility/phabricator/)
 
 ### 🛰 Deploy your own `GPS tracking system`
 - [OwnTracks](https://github.com/owntracks) — lightweight program for storing and accessing location data published via MQTT or HTTP by the OwnTracks apps.
