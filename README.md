@@ -85,6 +85,7 @@
 
 ### 🗣 Deploy your own `Disqus` comments
 - [Isso](https://posativ.org/isso/) — lightweight commenting server. It aims to be a drop-in replacement for Disqus. [(GitHub)](https://github.com/posativ/isso)
+- [Staticman](https://staticman.net/) — commenting server for static sites which stores all user generated content into your own repo. [(GitHub)](https://github.com/eduardoboucas/staticman)
 - [DIY approach by Tania Rascia](https://www.taniarascia.com/add-comments-to-static-site/)
 
 ### 📈 Deploy your own `Web analytics engine`
