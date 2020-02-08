@@ -99,6 +99,7 @@
 with compression and encryption.
 - [ElkarBackup](https://github.com/elkarbackup/elkarbackup) — backup solution based on RSync/RSnapshot.
 - [Restic](https://restic.net/) — encrypted, deduplicated & simple backups with an easy-to-use CLI. [(GitHub)](https://github.com/restic/restic/)
+- [ArchiveBox](https://archivebox.io) — self-hosted web archive. [(GitHub)](https://github.com/pirate/ArchiveBox)
 
 ### 📂 Deploy your own `Information storing and organization system`
 - [Bookstack](https://github.com/BookStackApp/BookStack) — platform to create documentation/wiki content built with PHP & Laravel.
