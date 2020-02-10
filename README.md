@@ -78,7 +78,7 @@
 - [Jitsi](https://jitsi.org/) — Multi-platform open-source video conferencing. [(GitHub)](https://github.com/jitsi)
 
 ### ✍️ Deploy your own `Publishing system`
-- [Jekyll](https://jekyllrb.com/) — static websites and blogs.
+- [Jekyll](https://jekyllrb.com/) — static websites and blogs. [(GitHub)](https://github.com/jekyll/jekyll)
 - [Hugo](https://gohugo.io/) — static site generators with amazing speed.
 - [Ghost](https://github.com/TryGhost/Ghost) — headless Node.js CMS for professional publishing.
 - [Gatsby](https://gatsbyjs.org/) — React-based framework that helps developers build fast websites and apps. [(GitHub)](https://github.com/gatsbyjs/gatsby)
@@ -86,7 +86,7 @@
 ### 🗣 Deploy your own `Disqus` comments
 - [Isso](https://posativ.org/isso/) — lightweight commenting server. It aims to be a drop-in replacement for Disqus. [(GitHub)](https://github.com/posativ/isso)
 - [Staticman](https://staticman.net/) — commenting server for static sites which stores all user generated content into your own repo. [(GitHub)](https://github.com/eduardoboucas/staticman)
-- [DIY approach by Tania Rascia](https://www.taniarascia.com/add-comments-to-static-site/)
+- [Code It Yourself approach by Tania Rascia](https://www.taniarascia.com/add-comments-to-static-site/)
 
 ### 📈 Deploy your own `Web analytics engine`
 - [Ackee](https://ackee.electerious.com) — self-hosted, Node.js based analytics tool for those who care about privacy.
@@ -99,7 +99,14 @@
 with compression and encryption.
 - [ElkarBackup](https://github.com/elkarbackup/elkarbackup) — backup solution based on RSync/RSnapshot.
 - [Restic](https://restic.net/) — encrypted, deduplicated & simple backups with an easy-to-use CLI. [(GitHub)](https://github.com/restic/restic/)
+
+### 🔗 Deploy your own `Web archive`
 - [ArchiveBox](https://archivebox.io) — self-hosted web archive. [(GitHub)](https://github.com/pirate/ArchiveBox)
+
+### 🍕 Deploy your own `file sharing server`
+- [Firefox Send](https://github.com/mozilla/send) — simple, private file sharing with encryption.
+- [FilePizza](https://github.com/kern/filepizza) — peer-to-peer file transfers with only browser.
+- [Lufi](https://github.com/ldidry/lufi) — convinient file sharing with E2E encryption.
 
 ### 📂 Deploy your own `Information storing and organization system`
 - [Bookstack](https://github.com/BookStackApp/BookStack) — platform to create documentation/wiki content built with PHP & Laravel.
