@@ -33,6 +33,7 @@
 ### 🏷 Deploy your own `Bookmarks service`
 - [Unmark](https://github.com/cdevroe/unmark) — application for bookmarks. [(Tutplus tutorial from 2014)](https://computers.tutsplus.com/tutorials/host-your-own-bookmarking-webapp-with-unmark--cms-21385)
 - [Bookmarks](https://github.com/dyu/bookmarks) — self-hosted bookmarking app that can import bookmarks from delicious and chrome.
+- [xBrowserSync](https://www.xbrowsersync.org/) — secure and anonymous bookmarking server with browser plugins and mobile app. [(GitHub)](https://github.com/xbrowsersync)
 
 ### 🔤 Deploy your own `URL shortener`
 - [Yourls](https://github.com/YOURLS/YOURLS) — Your Own URL Shortener.
