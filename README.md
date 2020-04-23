@@ -7,6 +7,8 @@
 - [WireGuard](https://www.wireguard.com/) —  faster, simpler, leaner, and more useful than IPsec. It intends to be considerably more performant than OpenVPN. [(Digital Ocean tutorial)](https://www.digitalocean.com/community/tutorials/how-to-create-a-point-to-point-vpn-with-wireguard-on-ubuntu-16-04)
 - [Algo VPN](https://github.com/trailofbits/algo) — set of Ansible scripts that simplify the setup of a personal Wireguard and IPsec VPN.
 - [Streisand](https://github.com/StreisandEffect/streisand) — another set of Ansible scripts to setup and run WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge.
+- [dockovpn.io](https://github.com/alekslitvinenk/docker-openvpn) — 
+Out of the box stateless OpenVPN server docker image which starts in just a few seconds and doesn't require presistent storage (but can be persisted, ofc). 
 
 ### 🎧 Deploy your own `Music streaming service`
 - [Ampache](https://github.com/ampache/ampache) — web based audio/video streaming application and file manager.
