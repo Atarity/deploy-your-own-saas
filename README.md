@@ -54,6 +54,7 @@ stateless OpenVPN dockerized server which doesn't require presistent storage.
 - [Nextcloud](https://nextcloud.com/) — enchanced OwnCloud fork with number of additional services like calendars, mail, contacts and video calls [(GitHub)](https://github.com/nextcloud).
 - [Syncthing](https://syncthing.net/) — continuous file synchronization program.
 - [MinIO](https://github.com/minio/minio) — object storage server compatible with Amazon S3 APIs.
+- [Teedy](https://teedy.io/) — lightweight document management system with workflows [(GitHub)](https://github.com/sismics/docs)
 
 ### 🕸 Deploy your own `DNS`
 - [Unbound](https://github.com/NLnetLabs/unbound) — validating, recursive, caching DNS resolver. [(Urown tutorial)](https://roll.urown.net/server/dns/unbound.htm)
@@ -129,6 +130,7 @@ with compression and encryption.
 
 ### 🗞 Deploy your own `RSS reader`
 - [Selfoss](https://selfoss.aditu.de/) — multipurpose rss reader, live stream, mashup, aggregation web application.
+- [FreshRSS](https://freshrss.org/) —rss agregator with responsive UI.[(GitHub)](https://github.com/FreshRSS/FreshRSS)
 - [Tiny Tiny RSS](https://tt-rss.org/) — web-based news feed reader and aggregator.
 - [Miniflux](https://miniflux.app/) — minimalist and opinionated feed reader.
 
@@ -159,6 +161,10 @@ with compression and encryption.
 - [Firefly III](https://www.firefly-iii.org/) — financial manager to help you keep track of expenses, income, budgets and everything in between. [(GitHub)](https://github.com/firefly-iii/firefly-iii)
 - [Ledger](https://www.ledger-cli.org/) — plain text double-entry accounting with 3rd party UI like [Prudent](https://prudent.me/). [Entry point to plain text accounting](https://plaintextaccounting.org/)
 - [Beancount](https://bitbucket.org/blais/beancount/src/default/) — plain text double-entry accounting with 3rd party web UI like [Fava](https://github.com/beancount/fava)
+
+### 🏠 Deploy your own `Smart home`
+- [Home Asisstant](https://www.home-assistant.io/) —home automation hub which can be deployed on Raspberry Pi [(GitHub)](https://github.com/home-assistant/core)
+- [Home Bridge](https://homebridge.io/) — lightweight server that emulates the iOS HomeKit API so you can work with smart home devices that do not support the HomeKit protocol. [(GitHub)](https://github.com/homebridge/homebridge)
 
 ### 🌀 Deploy your own `IFTTT`
 - [n8n](https://n8n.io/) — node-based Workflow Automation Tool with visual editor. [(GitHub)](https://github.com/n8n-io/n8n)
