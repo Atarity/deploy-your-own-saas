@@ -150,6 +150,7 @@ with compression and encryption.
 - [Kanboard](https://kanboard.org/) — project management software that focuses on the Kanban methodology. [(GitHub)](https://github.com/kanboard/kanboard)
 - [Taiga](https://taiga.io) — project management software with a kanban board, sprints, wiki and tickets. [(GitHub)](https://github.com/taigaio)
 - [Phabricator](https://www.phacility.com/phabricator/) — a collection of web apps which contains bug tracker, kanban board, wiki, chat and everything you need to build software. [(GitHub)](https://github.com/phacility/phabricator/)
+- [Restyaboard](https://restya.com/board/) — Open source Trello alternative for task management, project management and case management in visual sticky notes like UI aka kanban board. [(GitHub)](https://github.com/RestyaPlatform/board)
 
 ### 🛰 Deploy your own `GPS tracking system`
 - [OwnTracks](https://github.com/owntracks) — lightweight program for storing and accessing location data published via MQTT or HTTP by the OwnTracks apps.
