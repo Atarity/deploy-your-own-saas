@@ -112,6 +112,7 @@ with compression and encryption.
 - [Firefox Send](https://github.com/mozilla/send) — simple, private file sharing with encryption.
 - [FilePizza](https://github.com/kern/filepizza) — peer-to-peer file transfers with only browser.
 - [Lufi](https://github.com/ldidry/lufi) — convinient file sharing with E2E encryption.
+- [Linx](https://github.com/andreimarcu/linx-server) — simple file/code/media sharing website.
 
 ### 📂 Deploy your own `Information storing and organization system`
 - [Bookstack](https://github.com/BookStackApp/BookStack) — platform to create documentation/wiki content built with PHP & Laravel.
