@@ -173,6 +173,9 @@ with compression and encryption.
 - [Beehive](https://github.com/muesli/beehive) — a flexible event/agent & automation system made with Go.
 - [Huginn](https://github.com/huginn/huginn) — system for building agents that perform automated tasks for you online. Written in Ruby.
 
+### 🔍 Deploy your own `Google`
+- [Searx](https://searx.me/) — A privacy-respecting, hackable metasearch engine. [(GitHub)](https://github.com/asciimoo/searx)
+
 ----
 
 Totally worth to check:
