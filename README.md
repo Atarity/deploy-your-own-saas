@@ -99,6 +99,9 @@ stateless OpenVPN dockerized server which doesn't require presistent storage.
 - [GoAccess](https://goaccess.io/) — real-time web log analyzer and interactive viewer that runs in a terminal or through browser. [(GitHub)](https://github.com/allinurl/goaccess)
 - [Fathom Lite](https://github.com/usefathom/fathom) — Simple, privacy-focused website analytics.
 
+### 🔍 Deploy your own `Google search`
+- [Searx](https://searx.me/) — A privacy-respecting, hackable metasearch engine. [(GitHub)](https://github.com/asciimoo/searx)
+
 ### 📦 Deploy your own `Cloud backup`
 - [Duplicity](http://duplicity.nongnu.org/) — backs up directories by producing encrypted tar-format volumes and uploading them to a remote or local file server.
 - [Borg](https://www.borgbackup.org/) — deduplicating archiver
@@ -172,9 +175,6 @@ with compression and encryption.
 - [n8n](https://n8n.io/) — node-based Workflow Automation Tool with visual editor. [(GitHub)](https://github.com/n8n-io/n8n)
 - [Beehive](https://github.com/muesli/beehive) — a flexible event/agent & automation system made with Go.
 - [Huginn](https://github.com/huginn/huginn) — system for building agents that perform automated tasks for you online. Written in Ruby.
-
-### 🔍 Deploy your own `Google`
-- [Searx](https://searx.me/) — A privacy-respecting, hackable metasearch engine. [(GitHub)](https://github.com/asciimoo/searx)
 
 ----
 
