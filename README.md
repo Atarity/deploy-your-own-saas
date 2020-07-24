@@ -33,6 +33,7 @@ stateless OpenVPN dockerized server which doesn't require presistent storage.
 - [ONLYOFFICE CE](https://www.onlyoffice.com/) — private cloud office with collaboration features. CE version distributed as [Docker image](https://helpcenter.onlyoffice.com/server/docker/opensource/deploy-community-edition-in-digitalocean.aspx). [(GitHub)](https://github.com/ONLYOFFICE)
 - [CodiMD](https://github.com/hackmdio/codimd) — realtime collaborative markdown notes.
 - [SeaTable](https://seatable.io/) — your own Airtable where spreadsheets meets database.
+- [Baserow](https://baserow.io/)— your own API-focused Airtable with plugins.
 
 ### 🏷 Deploy your own `Bookmarks service`
 - [Unmark](https://github.com/cdevroe/unmark) — application for bookmarks. [(Tutplus tutorial from 2014)](https://computers.tutsplus.com/tutorials/host-your-own-bookmarking-webapp-with-unmark--cms-21385)
