@@ -39,6 +39,7 @@ stateless OpenVPN dockerized server which doesn't require presistent storage.
 - [Unmark](https://github.com/cdevroe/unmark) — application for bookmarks. [(Tutplus tutorial from 2014)](https://computers.tutsplus.com/tutorials/host-your-own-bookmarking-webapp-with-unmark--cms-21385)
 - [Bookmarks](https://github.com/dyu/bookmarks) — self-hosted bookmarking app that can import bookmarks from delicious and chrome.
 - [xBrowserSync](https://www.xbrowsersync.org/) — secure and anonymous bookmarking server with browser plugins and mobile app. [(GitHub)](https://github.com/xbrowsersync)
+- [Nextcloud Bookmarks](https://apps.nextcloud.com/apps/bookmarks) — bookmark app for Nextcloud with browser plugins, mobile and desktop apps. [(GitHub)](https://github.com/nextcloud/bookmarks)
 
 ### 🔤 Deploy your own `URL shortener`
 - [Yourls](https://github.com/YOURLS/YOURLS) — Your Own URL Shortener.
@@ -50,6 +51,7 @@ stateless OpenVPN dockerized server which doesn't require presistent storage.
 - [Radicale](https://radicale.org/) — CalDAV and CardDAV Server made with Python.
 - [Sabre](http://sabre.io/) — CardDAV, CalDAV and WebDAV server made with PHP.
 - [Calendar Server](https://github.com/apple/ccs-calendarserver) — Calendar and contacts server made by Apple.
+- [Nextcloud Groupware](https://nextcloud.com/groupware/) — CardDAV and CalDAV is integrated in Nextcloud, including a calendar web interface. [(GitHub)](https://github.com/nextcloud/calendar/)
 
 ### 🗄 Deploy your own `Cloud storage`
 - [OwnCloud](https://github.com/owncloud/core) — personal cloud which runs on your own server. [(tutorial)](https://doc.owncloud.org/server/10.2/admin_manual/installation/deployment_considerations.html)
@@ -83,6 +85,7 @@ stateless OpenVPN dockerized server which doesn't require presistent storage.
 
 ### 📹 Deploy your own `Video calls`
 - [Jitsi](https://jitsi.org/) — Multi-platform open-source video conferencing. [(GitHub)](https://github.com/jitsi)
+- [Nextcloud Talk](https://nextcloud.com/talk/) — chat or video calls via web or mobile apps, including screensharing and webinar functionality. [(GitHub)](https://github.com/nextcloud/spreed/)
 
 ### ✍️ Deploy your own `Publishing system`
 - [Jekyll](https://jekyllrb.com/) — static websites and blogs. [(GitHub)](https://github.com/jekyll/jekyll)
@@ -140,6 +143,7 @@ with compression and encryption.
 - [FreshRSS](https://freshrss.org/) —rss agregator with responsive UI.[(GitHub)](https://github.com/FreshRSS/FreshRSS)
 - [Tiny Tiny RSS](https://tt-rss.org/) — web-based news feed reader and aggregator.
 - [Miniflux](https://miniflux.app/) — minimalist and opinionated feed reader.
+- [Nextcloud News](https://apps.nextcloud.com/apps/news) — an RSS/Atom feed reader for Nextcloud which can be synced with many mobile devices. [(GitHub)](https://github.com/nextcloud/news)
 
 ### 🇫🇮 Deploy your own `Git server`
 - [Gitlab CE](https://gitlab.com/gitlab-org/gitlab-foss) — turn-key git hosting solution. [(Digital Ocean tutorial)](https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-gitlab-on-ubuntu-18-04)
@@ -159,6 +163,7 @@ with compression and encryption.
 - [Kanboard](https://kanboard.org/) — project management software that focuses on the Kanban methodology. [(GitHub)](https://github.com/kanboard/kanboard)
 - [Taiga](https://taiga.io) — project management software with a kanban board, sprints, wiki and tickets. [(GitHub)](https://github.com/taigaio)
 - [Phabricator](https://www.phacility.com/phabricator/) — a collection of web apps which contains bug tracker, kanban board, wiki, chat and everything you need to build software. [(GitHub)](https://github.com/phacility/phabricator/)
+- [Nextcloud Deck](https://apps.nextcloud.com/apps/deck) — Deck is a kanban style organization tool aimed at personal planning and project organization for teams integrated with Nextcloud. [(GitHub)](https://github.com/nextcloud/deck/)
 
 ### 🛰 Deploy your own `GPS tracking system`
 - [OwnTracks](https://github.com/owntracks) — lightweight program for storing and accessing location data published via MQTT or HTTP by the OwnTracks apps.
