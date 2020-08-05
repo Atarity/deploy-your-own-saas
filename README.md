@@ -51,11 +51,10 @@ stateless OpenVPN dockerized server which doesn't require presistent storage.
 - [Radicale](https://radicale.org/) — CalDAV and CardDAV Server made with Python.
 - [Sabre](http://sabre.io/) — CardDAV, CalDAV and WebDAV server made with PHP.
 - [Calendar Server](https://github.com/apple/ccs-calendarserver) — Calendar and contacts server made by Apple.
-- [Nextcloud Groupware](https://nextcloud.com/groupware/) — CardDAV and CalDAV is integrated in Nextcloud, including a calendar web interface. [(GitHub)](https://github.com/nextcloud/calendar/)
 
 ### 🗄 Deploy your own `Cloud storage`
 - [OwnCloud](https://github.com/owncloud/core) — personal cloud which runs on your own server. [(tutorial)](https://doc.owncloud.org/server/10.2/admin_manual/installation/deployment_considerations.html)
-- [Nextcloud](https://nextcloud.com/) — enchanced OwnCloud fork with number of additional services like calendars, mail, contacts and video calls [(GitHub)](https://github.com/nextcloud).
+- [Nextcloud](https://nextcloud.com/) — enchanced OwnCloud fork with tons of [additional services](https://apps.nextcloud.com/) like calendars, mail, contacts, video calls, etc [(GitHub)](https://github.com/nextcloud).
 - [Syncthing](https://syncthing.net/) — continuous file synchronization program.
 - [MinIO](https://github.com/minio/minio) — object storage server compatible with Amazon S3 APIs.
 - [Teedy](https://teedy.io/) — lightweight document management system with workflows [(GitHub)](https://github.com/sismics/docs)
@@ -143,7 +142,6 @@ with compression and encryption.
 - [FreshRSS](https://freshrss.org/) —rss agregator with responsive UI.[(GitHub)](https://github.com/FreshRSS/FreshRSS)
 - [Tiny Tiny RSS](https://tt-rss.org/) — web-based news feed reader and aggregator.
 - [Miniflux](https://miniflux.app/) — minimalist and opinionated feed reader.
-- [Nextcloud News](https://apps.nextcloud.com/apps/news) — an RSS/Atom feed reader for Nextcloud which can be synced with many mobile devices. [(GitHub)](https://github.com/nextcloud/news)
 
 ### 🇫🇮 Deploy your own `Git server`
 - [Gitlab CE](https://gitlab.com/gitlab-org/gitlab-foss) — turn-key git hosting solution. [(Digital Ocean tutorial)](https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-gitlab-on-ubuntu-18-04)
@@ -163,7 +161,6 @@ with compression and encryption.
 - [Kanboard](https://kanboard.org/) — project management software that focuses on the Kanban methodology. [(GitHub)](https://github.com/kanboard/kanboard)
 - [Taiga](https://taiga.io) — project management software with a kanban board, sprints, wiki and tickets. [(GitHub)](https://github.com/taigaio)
 - [Phabricator](https://www.phacility.com/phabricator/) — a collection of web apps which contains bug tracker, kanban board, wiki, chat and everything you need to build software. [(GitHub)](https://github.com/phacility/phabricator/)
-- [Nextcloud Deck](https://apps.nextcloud.com/apps/deck) — Deck is a kanban style organization tool aimed at personal planning and project organization for teams integrated with Nextcloud. [(GitHub)](https://github.com/nextcloud/deck/)
 
 ### 🛰 Deploy your own `GPS tracking system`
 - [OwnTracks](https://github.com/owntracks) — lightweight program for storing and accessing location data published via MQTT or HTTP by the OwnTracks apps.
