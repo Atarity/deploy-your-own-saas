@@ -137,6 +137,7 @@ with compression and encryption.
 ### 🤥 Deploy your own `Read it Later`
 - [Shiori](https://github.com/go-shiori/shiori) — simple bookmarks manager written intended as a simple clone of Pocket.
 - [Wallabag](https://www.wallabag.org/en) — self hostable application for saving web pages.
+- [Shaark](https://github.com/MarceauKa/shaark) —knowledge storage for weblinks, notes, pictures and passwords with clean web UI.
 
 ### 🗞 Deploy your own `RSS reader`
 - [Selfoss](https://selfoss.aditu.de/) — multipurpose rss reader, live stream, mashup, aggregation web application.
