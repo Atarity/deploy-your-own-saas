@@ -5,9 +5,9 @@
 ### 🙊 Deploy your own `VPN`
 - [OpenVPN](https://openvpn.net/) — full-featured open source VPN solution. [(Digital Ocean tutorial)](https://www.digitalocean.com/community/tutorials/how-to-set-up-an-openvpn-server-on-ubuntu-16-04)
 - [dockovpn.io](https://github.com/alekslitvinenk/docker-openvpn) —
-stateless OpenVPN dockerized server which doesn't require presistent storage.
-- [WireGuard](https://www.wireguard.com/) —  faster, simpler, leaner, and more useful than IPsec. It intends to be considerably more performant than OpenVPN. [(Digital Ocean tutorial)](https://www.digitalocean.com/community/tutorials/how-to-create-a-point-to-point-vpn-with-wireguard-on-ubuntu-16-04)
-- [Algo VPN](https://github.com/trailofbits/algo) — set of Ansible scripts that simplify the setup of a personal Wireguard and IPsec VPN.
+stateless OpenVPN dockerized server which doesn't require persistent storage.
+- [WireGuard](https://www.wireguard.com/) — faster, simpler, leaner, and more useful than IPsec. It intends to be considerably more performant than OpenVPN. [(Digital Ocean tutorial)](https://www.digitalocean.com/community/tutorials/how-to-create-a-point-to-point-vpn-with-wireguard-on-ubuntu-16-04)
+- [Algo VPN](https://github.com/trailofbits/algo) — set of Ansible scripts that simplify the setup of a personal Wireguard and IPsec VPN.
 - [Streisand](https://github.com/StreisandEffect/streisand) — another set of Ansible scripts to setup and run WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge.
 
 ### 🎧 Deploy your own `Music streaming service`
@@ -32,11 +32,11 @@ stateless OpenVPN dockerized server which doesn't require presistent storage.
 - [Collabora](https://www.collaboraoffice.com/collabora-online/) — LibreOffice in the cloud with collaboration features. [(tutorial for OwnCloud)](https://www.collaboraoffice.com/code/docker/)
 - [ONLYOFFICE CE](https://www.onlyoffice.com/) — private cloud office with collaboration features. CE version distributed as [Docker image](https://helpcenter.onlyoffice.com/server/docker/opensource/deploy-community-edition-in-digitalocean.aspx). [(GitHub)](https://github.com/ONLYOFFICE)
 - [SeaTable](https://seatable.io/) — your own Airtable where spreadsheets meets database.
-- [Baserow](https://baserow.io/)— your own API-focused Airtable with plugins.
+- [Baserow](https://baserow.io/) — your own API-focused Airtable with plugins.
 
 ### 📝 Deploy your own `Notes`
 - [CodiMD](https://github.com/hackmdio/codimd) — realtime collaborative markdown notes.
-- [Standartd Notes](https://standardnotes.org/) — clean and simple web app witn E2E encriptyon, extensions and clients. [How ot selfhost tutorial](https://www.bowlerdesign.tech/posts/how-to-completely-self-host-standard-notes/)
+- [Standard Notes](https://standardnotes.org/) — clean and simple web app with E2E encryption, extensions and clients. [How to self-host tutorial](https://www.bowlerdesign.tech/posts/how-to-completely-self-host-standard-notes/)
 - [TinyList](https://tinylist.app/) — your own Google Keep. Simple and clean. [GitHub](https://github.com/baggachipz/tinylist)
 
 ### 🏷 Deploy your own `Bookmarks service`
@@ -49,7 +49,7 @@ stateless OpenVPN dockerized server which doesn't require presistent storage.
 - [Yourls](https://github.com/YOURLS/YOURLS) — Your Own URL Shortener.
 - [Kutt](https://kutt.it/) — modern URL shortener with support for custom domains. [(GitHub)](https://github.com/thedevs-network/kutt)
 - [Delta](https://github.com/fosslife/delta) — a file uploader and URL shortener packed with features and CLI.
-- [Shlink](https://shlink.io/) — url shortener with neat UI, API and analytics. [(GitHub)](https://github.com/shlinkio/shlink).
+- [Shlink](https://shlink.io/) — URL shortener with neat UI, API and analytics. [(GitHub)](https://github.com/shlinkio/shlink).
 - [CLI based approach](https://dev.to/commonshost/build-your-own-url-shortener-in-15-minutes-279n)
 
 ### 🗓 Deploy your own `Calendar`
@@ -59,7 +59,7 @@ stateless OpenVPN dockerized server which doesn't require presistent storage.
 
 ### 🗄 Deploy your own `Cloud storage`
 - [OwnCloud](https://github.com/owncloud/core) — personal cloud which runs on your own server. [(tutorial)](https://doc.owncloud.org/server/10.2/admin_manual/installation/deployment_considerations.html)
-- [Nextcloud](https://nextcloud.com/) — enchanced OwnCloud fork with tons of [additional services](https://apps.nextcloud.com/) like calendars, mail, contacts, video calls, etc [(GitHub)](https://github.com/nextcloud).
+- [Nextcloud](https://nextcloud.com/) — enhanced OwnCloud fork with tons of [additional services](https://apps.nextcloud.com/) like calendars, mail, contacts, video calls, etc [(GitHub)](https://github.com/nextcloud).
 - [Syncthing](https://syncthing.net/) — continuous file synchronization program.
 - [MinIO](https://github.com/minio/minio) — object storage server compatible with Amazon S3 APIs.
 - [Teedy](https://teedy.io/) — lightweight document management system with workflows [(GitHub)](https://github.com/sismics/docs)
@@ -72,24 +72,24 @@ stateless OpenVPN dockerized server which doesn't require presistent storage.
 
 ### ✉️ Deploy your own `Email server`
 - [Mailu](https://mailu.io/) — dockerized, secured mail suite which is easy to install and maintain.
-- [Mailcow](https://mailcow.email/) — dockerized mailserver suite based on  Postfix, Dovecot, Nginx, PHP, MariaDB, Rspamd and more. [(GitHub)](https://github.com/mailcow/mailcow-dockerized)
-- [iRedMail](https://www.iredmail.org/) — mailserver suite with vast of options.
-- [Mail-in-a-Box](https://mailinabox.email/) — another mailserver suite based on Postfix, Dovecot, Z-Push, Roundcube, Nextcloud, Apache SpamAssassin, Postgrey, Nginx. [(GitHub)](https://github.com/mail-in-a-box/mailinabox)
+- [Mailcow](https://mailcow.email/) — dockerized mail server suite based on Postfix, Dovecot, Nginx, PHP, MariaDB, Rspamd and more. [(GitHub)](https://github.com/mailcow/mailcow-dockerized)
+- [iRedMail](https://www.iredmail.org/) — mail server suite with vast of options.
+- [Mail-in-a-Box](https://mailinabox.email/) — another mail server suite based on Postfix, Dovecot, Z-Push, Roundcube, Nextcloud, Apache SpamAssassin, Postgrey, Nginx. [(GitHub)](https://github.com/mail-in-a-box/mailinabox)
 - [Roundcube](https://roundcube.net/) — browser-based IMAP client with an application-like user interface.
-- [Postal](https://postal.atech.media/) —  a fully featured mail server with web UI. [(GitHub)](https://github.com/postalhq/postal)
+- [Postal](https://postal.atech.media/) — a fully featured mail server with web UI. [(GitHub)](https://github.com/postalhq/postal)
 
 ### 💬 Deploy your own `Chat server`
 - [Prosody IM](https://prosody.im/) — modern XMPP communication server. [(Urown tutorial)](https://roll.urown.net/server/prosody.html)
-- [Zulip](https://zulipchat.com/) — team chat which combined the immediacy of real-time chat with an email threading model. [(Github)](https://github.com/zulip/zulip)
+- [Zulip](https://zulipchat.com/) — team chat which combined the immediacy of real-time chat with an email threading model. [(GitHub)](https://github.com/zulip/zulip)
 - [Rocket Chat](https://rocket.chat/) — WebChat platform. [(GitHub)](https://github.com/RocketChat/Rocket.Chat)
-- [Mattermost](https://mattermost.com/) — private cloud, Slack-alternative.  [(GitHub)](https://github.com/mattermost/mattermost-server)
+- [Mattermost](https://mattermost.com/) — private cloud, Slack-alternative. [(GitHub)](https://github.com/mattermost/mattermost-server)
 - [Mumble](https://www.mumble.info) — low-latency, high quality **voice chat** for gaming. [(GitHub)](https://github.com/mumble-voip/mumble)
 - [Matrix](https://matrix.org) — ecosystem for open federated Instant Messaging and VoIP. [(GitHub)](https://github.com/matrix-org)
-- [Riot](https://about.riot.im/) — multiplatform chat app based on Matrix protocol.
+- [Riot](https://about.riot.im/) — multi platform chat app based on Matrix protocol.
 
 ### 📹 Deploy your own `Video calls`
-- [Jitsi](https://jitsi.org/) — Multi-platform open-source video conferencing. [(GitHub)](https://github.com/jitsi)
-- [Nextcloud Talk](https://nextcloud.com/talk/) — chat or video calls via web or mobile apps, including screensharing and webinar functionality. [(GitHub)](https://github.com/nextcloud/spreed/)
+- [Jitsi](https://jitsi.org/) — Multi-platform open-source video conferencing. [(GitHub)](https://github.com/jitsi)
+- [Nextcloud Talk](https://nextcloud.com/talk/) — chat or video calls via web or mobile apps, including screen sharing and webinar functionality. [(GitHub)](https://github.com/nextcloud/spreed/)
 
 ### ✍️ Deploy your own `Publishing system`
 - [Jekyll](https://jekyllrb.com/) — static websites and blogs. [(GitHub)](https://github.com/jekyll/jekyll)
@@ -99,7 +99,7 @@ stateless OpenVPN dockerized server which doesn't require presistent storage.
 
 ### 🗣 Deploy your own `Disqus` comments
 - [Isso](https://posativ.org/isso/) — lightweight commenting server. It aims to be a drop-in replacement for Disqus. [(GitHub)](https://github.com/posativ/isso)
-- [Staticman](https://staticman.net/) — commenting server for static sites which stores all user generated content into your own repo. [(GitHub)](https://github.com/eduardoboucas/staticman)
+- [Staticman](https://staticman.net/) — commenting server for static sites which stores all user generated content into your own repository. [(GitHub)](https://github.com/eduardoboucas/staticman)
 - [Code It Yourself approach by Tania Rascia](https://www.taniarascia.com/add-comments-to-static-site/)
 
 ### 📈 Deploy your own `Web analytics engine`
@@ -124,8 +124,8 @@ with compression and encryption.
 ### 🍕 Deploy your own `file sharing server`
 - [Firefox Send](https://github.com/mozilla/send) — simple, private file sharing with encryption.
 - [FilePizza](https://github.com/kern/filepizza) — peer-to-peer file transfers with only browser.
-- [Lufi](https://github.com/ldidry/lufi) — convinient file sharing with E2E encryption.
-- [Linx](https://github.com/andreimarcu/linx-server) — simple file/code/media sharing website.
+- [Lufi](https://github.com/ldidry/lufi) — convenient file sharing with E2E encryption.
+- [Linx](https://github.com/andreimarcu/linx-server) — simple file/code/media sharing website.
 
 ### 📂 Deploy your own `Information storing and organization system`
 - [Bookstack](https://github.com/BookStackApp/BookStack) — platform to create documentation/wiki content built with PHP & Laravel.
@@ -141,16 +141,16 @@ with compression and encryption.
 ### 🤥 Deploy your own `Read it Later`
 - [Shiori](https://github.com/go-shiori/shiori) — simple bookmarks manager written intended as a simple clone of Pocket.
 - [Wallabag](https://www.wallabag.org/en) — self hostable application for saving web pages.
-- [Shaark](https://github.com/MarceauKa/shaark) —knowledge storage for weblinks, notes, pictures and passwords with clean web UI.
+- [Shaark](https://github.com/MarceauKa/shaark) — knowledge storage for web links, notes, pictures and passwords with clean web UI.
 
 ### 🗞 Deploy your own `RSS reader`
 - [Selfoss](https://selfoss.aditu.de/) — multipurpose rss reader, live stream, mashup, aggregation web application.
-- [FreshRSS](https://freshrss.org/) —rss agregator with responsive UI.[(GitHub)](https://github.com/FreshRSS/FreshRSS)
+- [FreshRSS](https://freshrss.org/) — rss aggregator with responsive UI.[(GitHub)](https://github.com/FreshRSS/FreshRSS)
 - [Tiny Tiny RSS](https://tt-rss.org/) — web-based news feed reader and aggregator.
 - [Miniflux](https://miniflux.app/) — minimalist and opinionated feed reader.
 
 ### 🇫🇮 Deploy your own `Git server`
-- [Gitlab CE](https://gitlab.com/gitlab-org/gitlab-foss) — turn-key git hosting solution. [(Digital Ocean tutorial)](https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-gitlab-on-ubuntu-18-04)
+- [GitLab CE](https://gitlab.com/gitlab-org/gitlab-foss) — turn-key git hosting solution. [(Digital Ocean tutorial)](https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-gitlab-on-ubuntu-18-04)
 - [Gitolight](https://github.com/sitaramc/gitolite) — git hosting on a server, with very fine-grained access control and many powerful features.
 - [Gitea](https://gitea.io) — lightweight and powerful git server made with Go, so you can deploy it even on Raspberry Pi. [(GitHub)](https://github.com/go-gitea)
 - [Pagure](https://pagure.io/pagure) — lightweight, powerful, and flexible git-centered forge with decentralization features.
@@ -160,10 +160,10 @@ with compression and encryption.
 - [0bin](https://0bin.net/) — client side encrypted pastebin that can run without a database. [(GitHub)](https://github.com/sametmax/0bin)
 
 ### 🐵 Deploy your own `Mailchimp`
-- [Listmonk](https://github.com/knadh/listmonk) — newsletter and mailing list manager with a modern dashboard.
+- [Listmonk](https://github.com/knadh/listmonk) — newsletter and mailing list manager with a modern dashboard.
 
 ### 🥋Deploy your own `Kanban board`
-- [Wekan](https://github.com/wekan/wekan) — collaborative Kanban board.
+- [Wekan](https://github.com/wekan/wekan) — collaborative Kanban board.
 - [Kanboard](https://kanboard.org/) — project management software that focuses on the Kanban methodology. [(GitHub)](https://github.com/kanboard/kanboard)
 - [Taiga](https://taiga.io) — project management software with a kanban board, sprints, wiki and tickets. [(GitHub)](https://github.com/taigaio)
 - [Phabricator](https://www.phacility.com/phabricator/) — a collection of web apps which contains bug tracker, kanban board, wiki, chat and everything you need to build software. [(GitHub)](https://github.com/phacility/phabricator/)
@@ -174,13 +174,13 @@ with compression and encryption.
 - [µlogger server](https://github.com/bfabiszewski/ulogger-server) — web application for real-time collection of geolocation data, tracks viewing and management.
 
 ### 💳 Deploy your own `Personal finance tracker`
-- [Firefly III](https://www.firefly-iii.org/) — financial manager to help you keep track of expenses, income, budgets and everything in between. [(GitHub)](https://github.com/firefly-iii/firefly-iii)
+- [Firefly III](https://www.firefly-iii.org/) — financial manager to help you keep track of expenses, income, budgets and everything in between. [(GitHub)](https://github.com/firefly-iii/firefly-iii)
 - [Ledger](https://www.ledger-cli.org/) — plain text double-entry accounting with 3rd party UI like [Prudent](https://prudent.me/). [Entry point to plain text accounting](https://plaintextaccounting.org/)
-- [Beancount](https://bitbucket.org/blais/beancount/src/default/) — plain text double-entry accounting with 3rd party web UI like [Fava](https://github.com/beancount/fava)
+- [Beancount](https://bitbucket.org/blais/beancount/src/default/) — plain text double-entry accounting with 3rd party web UI like [Fava](https://github.com/beancount/fava)
 
 ### 🏠 Deploy your own `Smart home`
-- [Home Asisstant](https://www.home-assistant.io/) —home automation hub which can be deployed on Raspberry Pi [(GitHub)](https://github.com/home-assistant/core)
-- [Home Bridge](https://homebridge.io/) — lightweight server that emulates the iOS HomeKit API so you can work with smart home devices that do not support the HomeKit protocol. [(GitHub)](https://github.com/homebridge/homebridge)
+- [Home Asisstant](https://www.home-assistant.io/) — home automation hub which can be deployed on Raspberry Pi [(GitHub)](https://github.com/home-assistant/core)
+- [Home Bridge](https://homebridge.io/) — lightweight server that emulates the iOS HomeKit API so you can work with smart home devices that do not support the HomeKit protocol. [(GitHub)](https://github.com/homebridge/homebridge)
 
 ### 🌀 Deploy your own `IFTTT`
 - [n8n](https://n8n.io/) — node-based Workflow Automation Tool with visual editor. [(GitHub)](https://github.com/n8n-io/n8n)
