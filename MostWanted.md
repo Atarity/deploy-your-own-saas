@@ -5,7 +5,6 @@
 - Secrets management
     - [Vault](https://www.hashicorp.com/products/vault/secrets-management)
     - [Conjure](https://www.conjur.org/)
-- 2FA authenticator 🔐
 - Personal finance tracker 💳
     - [Ontrack](https://github.com/inoda/ontrack)
 - Video game streaming 🕹

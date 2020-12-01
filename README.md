@@ -188,6 +188,9 @@ with compression and encryption.
 - [Beehive](https://github.com/muesli/beehive) — a flexible event/agent & automation system made with Go.
 - [Huginn](https://github.com/huginn/huginn) — system for building agents that perform automated tasks for you online. Written in Ruby.
 
+### 🔐 Deploy your own `Google Authenticator` (2FA, OTP)
+- [2FAuth](https://demo.2fauth.app/login) — a web app to manage your Two-Factor Authentication. [(GitHub)](https://github.com/Bubka/2FAuth)
+
 ----
 
 Totally worth to check:
