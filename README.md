@@ -22,6 +22,7 @@ stateless OpenVPN dockerized server which doesn't require persistent storage.
 - [ProGram](https://sarthology.github.io/proGramCLI/) — self-hosted Instagram style gallery.
 - [Photo-Stream](https://github.com/maxvoltar/photo-stream/) — super-simple, jekyll-based, self-hosted photo stream.
 - [Piwigo](https://piwigo.org/) — PHP image gallery. [(GitHub)](https://github.com/Piwigo)
+- [Pinry](https://docs.getpinry.com/) — your own Pinterest with boards and tags. [(GitHub)](https://github.com/pinry/pinry)
 
 ### 📚 Deploy your own `eBooks catalog`
 - [Calibre](https://github.com/kovidgoyal/calibre) — e-book manager, packed with all you need features (including server).
