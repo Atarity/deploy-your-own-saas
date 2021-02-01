@@ -64,6 +64,7 @@ stateless OpenVPN dockerized server which doesn't require persistent storage.
 - [Syncthing](https://syncthing.net/) — continuous file synchronization program.
 - [MinIO](https://github.com/minio/minio) — object storage server compatible with Amazon S3 APIs.
 - [Teedy](https://teedy.io/) — lightweight document management system with workflows [(GitHub)](https://github.com/sismics/docs)
+- [Filestash](https://www.filestash.app/) — easily turn popular backends like SFTP, S3, GitHub etc into web-based file manager [(GitHub)](https://github.com/mickael-kerjean/filestash)
 
 ### 🕸 Deploy your own `DNS`
 - [Unbound](https://github.com/NLnetLabs/unbound) — validating, recursive, caching DNS resolver. [(Urown tutorial)](https://roll.urown.net/server/dns/unbound.htm)
@@ -122,6 +123,7 @@ with compression and encryption.
 
 ### 🔗 Deploy your own `Web archive`
 - [ArchiveBox](https://archivebox.io) — self-hosted web archive. [(GitHub)](https://github.com/pirate/ArchiveBox)
+- [Archivy](https://archivy.github.io/) — knowledge repository that allows you to preserve content. [(GitHub)](https://github.com/archivy/archivy/)
 
 ### 🍕 Deploy your own `file sharing server`
 - [Firefox Send](https://github.com/mozilla/send) — simple, private file sharing with encryption.
@@ -191,6 +193,9 @@ with compression and encryption.
 
 ### 🔐 Deploy your own `Google Authenticator` (2FA, OTP)
 - [2FAuth](https://demo.2fauth.app/login) — a web app to manage your Two-Factor Authentication. [(GitHub)](https://github.com/Bubka/2FAuth)
+
+### 🎙 Deploy your own `Twitch`
+- [Lightspeed](https://github.com/GRVYDEV/Project-Lightspeed) — a self-contained OBS → FTL → WebRTC live streaming server.
 
 ----
 
