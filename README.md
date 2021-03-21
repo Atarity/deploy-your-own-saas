@@ -38,7 +38,7 @@ stateless OpenVPN dockerized server which doesn't require persistent storage.
 
 ### 📝 Deploy your own `Notes`
 - [CodiMD](https://github.com/hackmdio/codimd) — realtime collaborative markdown notes.
-- [Standard Notes](https://standardnotes.org/) — clean and simple web app with E2E encryption, extensions and clients. [How to self-host tutorial](https://www.bowlerdesign.tech/posts/how-to-completely-self-host-standard-notes/)
+- [Standard Notes](https://standardnotes.org/) — clean and simple web app with E2E encryption, extensions and clients. [How to self-host tutorial](https://theselfhostingblog.com/posts/how-to-completely-self-host-standard-notes/)
 - [TinyList](https://tinylist.app/) — your own Google Keep. Simple and clean. [GitHub](https://github.com/baggachipz/tinylist)
 
 ### 🏷 Deploy your own `Bookmarks service`
