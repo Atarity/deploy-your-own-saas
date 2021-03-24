@@ -47,6 +47,7 @@ stateless OpenVPN dockerized server which doesn't require persistent storage.
 - [xBrowserSync](https://www.xbrowsersync.org/) — secure and anonymous bookmarking server with browser plugins and mobile app. [(GitHub)](https://github.com/xbrowsersync)
 - [Nextcloud Bookmarks](https://apps.nextcloud.com/apps/bookmarks) — bookmark app for Nextcloud with browser plugins, mobile and desktop apps. [(GitHub)](https://github.com/nextcloud/bookmarks)
 - [LinkAce](https://www.linkace.org/) — bookmark archive with tags, lists and sharing features. [(GitHub)](https://github.com/Kovah/LinkAce)
+- [Linkding](https://github.com/sissbruecker/linkding) — simple bookmarks with tags and neat UI.
 
 ### 🔤 Deploy your own `URL shortener`
 - [Yourls](https://github.com/YOURLS/YOURLS) — Your Own URL Shortener.
