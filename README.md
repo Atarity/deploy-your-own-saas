@@ -116,6 +116,7 @@ stateless OpenVPN dockerized server which doesn't require persistent storage.
 
 ### 🔍 Deploy your own `Google search`
 - [Searx](https://searx.me/) — A privacy-respecting, hackable metasearch engine. [(GitHub)](https://github.com/asciimoo/searx)
+- [Whoogle](https://github.com/benbusby/whoogle-search) — Deploy your own search engine that privately uses Google results.
 
 ### 📦 Deploy your own `Cloud backup`
 - [Duplicity](http://duplicity.nongnu.org/) — backs up directories by producing encrypted tar-format volumes and uploading them to a remote or local file server.
