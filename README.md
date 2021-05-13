@@ -70,7 +70,7 @@ stateless OpenVPN dockerized server which doesn't require persistent storage.
 - [Filestash](https://www.filestash.app/) — easily turn popular backends like SFTP, S3, GitHub etc into web-based file manager [(GitHub)](https://github.com/mickael-kerjean/filestash)
 
 ### 🕸 Deploy your own `DNS`
-- [Unbound](https://github.com/NLnetLabs/unbound) — validating, recursive, caching DNS resolver. [(Urown tutorial)](https://roll.urown.net/server/dns/unbound.htm)
+- [Unbound](https://github.com/NLnetLabs/unbound) — validating, recursive, caching DNS resolver. [(Urown tutorial)](https://roll.urown.net/server/dns/unbound.html)
 
 ### 🛑 Deploy your own `AdBlock`
 - [Pi-hole](https://pi-hole.net/) — network-wide ad blocking software you can deploy to local Raspberry Pi or [always-free instance of Google Cloud](https://github.com/n3m351d4/Pi-Hole-PiVPN-on-Google-Compute-Engine-Free-Tier-with-Full-Tunnel-and-Split-Tunnel-OpenVPN-Configs). Yes, you've got the irony right. [(GitHub)](https://github.com/pi-hole)
