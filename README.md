@@ -199,6 +199,7 @@ with compression and encryption.
 
 ### 🔐 Deploy your own `Google Authenticator` (2FA, OTP)
 - [2FAuth](https://demo.2fauth.app/login) — a web app to manage your Two-Factor Authentication. [(GitHub)](https://github.com/Bubka/2FAuth)
+- [LoginRadius](https://www.loginradius.com/multi-factor-authentication/) —  CIAM solution allows you to authenticate users with Two-Factor Authentication & OTP. [(GitHub)](https://github.com/LoginRadius)
 
 ### 🎙 Deploy your own `Twitch`
 - [Lightspeed](https://github.com/GRVYDEV/Project-Lightspeed) — a self-contained OBS → FTL → WebRTC live streaming server.
