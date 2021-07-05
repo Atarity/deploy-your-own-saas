@@ -113,6 +113,7 @@ stateless OpenVPN dockerized server which doesn't require persistent storage.
 - [Matomo](https://github.com/matomo-org/matomo) — open analytics platform.
 - [GoAccess](https://goaccess.io/) — real-time web log analyzer and interactive viewer that runs in a terminal or through browser. [(GitHub)](https://github.com/allinurl/goaccess)
 - [Fathom Lite](https://github.com/usefathom/fathom) — Simple, privacy-focused website analytics.
+- [Shynet](https://github.com/milesmcc/shynet) — Privacy-friendly, detailed web analytics that works without cookies or JS.
 
 ### 🔍 Deploy your own `Google search`
 - [Searx](https://searx.me/) — A privacy-respecting, hackable metasearch engine. [(GitHub)](https://github.com/asciimoo/searx)
