@@ -36,6 +36,9 @@ stateless OpenVPN dockerized server which doesn't require persistent storage.
 - [SeaTable](https://seatable.io/) — your own Airtable where spreadsheets meets database.
 - [Baserow](https://baserow.io/) — your own API-focused Airtable with plugins.
 
+### 🎬 Deploy your own `Netflix`
+- [Jellyfin](https://jellyfin.org/) — media system that puts you in control of managing and streaming your media. [(GitHub)](https://github.com/jellyfin/jellyfin)
+
 ### 📝 Deploy your own `Notes`
 - [CodiMD](https://github.com/hackmdio/codimd) — realtime collaborative markdown notes.
 - [Standard Notes](https://standardnotes.org/) — clean and simple web app with E2E encryption, extensions and clients. [How to self-host tutorial](https://theselfhostingblog.com/posts/how-to-completely-self-host-standard-notes/)
