@@ -54,6 +54,7 @@ stateless OpenVPN dockerized server which doesn't require persistent storage.
 - [Nextcloud Bookmarks](https://apps.nextcloud.com/apps/bookmarks) — bookmark app for Nextcloud with browser plugins, mobile and desktop apps. [(GitHub)](https://github.com/nextcloud/bookmarks)
 - [LinkAce](https://www.linkace.org/) — bookmark archive with tags, lists and sharing features. [(GitHub)](https://github.com/Kovah/LinkAce)
 - [Linkding](https://github.com/sissbruecker/linkding) — simple bookmarks with tags and neat UI.
+- [Benotes](https://github.com/fr0tt/benotes) — bookmark taking web app with additional note taking feature.
 
 ### 🔤 Deploy your own `URL shortener`
 - [Yourls](https://github.com/YOURLS/YOURLS) — Your Own URL Shortener.
