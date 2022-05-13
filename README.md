@@ -81,7 +81,7 @@ stateless OpenVPN dockerized server which doesn't require persistent storage.
 
 ### 🛑 Deploy your own `AdBlock`
 - [Pi-hole](https://pi-hole.net/) — network-wide ad blocking software you can deploy to local Raspberry Pi or [always-free instance of Google Cloud](https://github.com/n3m351d4/Pi-Hole-PiVPN-on-Google-Compute-Engine-Free-Tier-with-Full-Tunnel-and-Split-Tunnel-OpenVPN-Configs). Yes, you've got the irony right. [(GitHub)](https://github.com/pi-hole)
-- [Adguard Home](https://github.com/AdguardTeam/AdGuardHome) — free, open-source self-hosted DNS resolver with adblocking and encryption capabilities; easily deploys as a Docker container
+- [AdGuard Home](https://adguard.com/en/adguard-home/overview.html) — network-wide DNS resolver with encryption for blocking ads & tracking. [(GitHub)](https://github.com/AdguardTeam/AdGuardHome)
 
 ### ✉️ Deploy your own `Email server`
 - [Mailu](https://mailu.io/) — dockerized, secured mail suite which is easy to install and maintain.
