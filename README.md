@@ -213,7 +213,7 @@ with compression and encryption.
 ### 🎙 Deploy your own `Twitch`
 - [Lightspeed](https://github.com/GRVYDEV/Project-Lightspeed) — a self-contained OBS → FTL → WebRTC live streaming server.
 
-### 📱 Deploy your own `App store` for servers
+### 🐋 Deploy your own manager for `Docker`
 - [Portainer](https://www.portainer.io/) — container management tool. It allows anyone to deploy and manage containers without the need to write code. [(GitHub)](https://github.com/portainer/portainer)
 - [Yacht](https://github.com/SelfhostedPro/Yacht) — a web interface for managing docker containers with an emphasis on templating to provide 1 click deployments.
 ----
