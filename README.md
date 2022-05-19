@@ -206,6 +206,7 @@ with compression and encryption.
 - [n8n](https://n8n.io/) — node-based Workflow Automation Tool with visual editor. [(GitHub)](https://github.com/n8n-io/n8n)
 - [Beehive](https://github.com/muesli/beehive) — a flexible event/agent & automation system made with Go.
 - [Huginn](https://github.com/huginn/huginn) — system for building agents that perform automated tasks for you online. Written in Ruby.
+- [Kibitzr](https://kibitzr.github.io/) — tiny server to notify about (almost) anything in the web. [(GitHub)](https://github.com/kibitzr/kibitzr)
 
 ### 🔐 Deploy your own `Google Authenticator` (2FA, OTP)
 - [2FAuth](https://demo.2fauth.app/login) — a web app to manage your Two-Factor Authentication. [(GitHub)](https://github.com/Bubka/2FAuth)
@@ -213,7 +214,7 @@ with compression and encryption.
 ### 🎙 Deploy your own `Twitch`
 - [Lightspeed](https://github.com/GRVYDEV/Project-Lightspeed) — a self-contained OBS → FTL → WebRTC live streaming server.
 
-### 📱 Deploy your own `App store` for servers
+### 🐳 Deploy your own `Container Management System`
 - [Portainer](https://www.portainer.io/) — container management tool. It allows anyone to deploy and manage containers without the need to write code. [(GitHub)](https://github.com/portainer/portainer)
 - [Yacht](https://github.com/SelfhostedPro/Yacht) — a web interface for managing docker containers with an emphasis on templating to provide 1 click deployments.
 ----
