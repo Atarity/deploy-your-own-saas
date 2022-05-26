@@ -16,6 +16,7 @@ stateless OpenVPN dockerized server which doesn't require persistent storage.
 - [Mopidy](https://www.mopidy.com/) — extensible music server.
 - [Koel](https://koel.phanan.net/) — simple web-based personal audio streaming service. [(GitHub)](https://github.com/phanan/koel)
 - [Funkwhale](https://funkwhale.audio/) — web-based music library with Airsonic compatibility. [(GitLab)](https://dev.funkwhale.audio/funkwhale/funkwhale)
+- [AzuraCast](https://www.azuracast.com/) — web radio management suite, with a modern web app. [(GitHub)](https://github.com/AzuraCast/AzuraCast)
 
 ### 📷 Deploy your own `Photo hosting`
 - [Chevereto](https://chevereto.com/free) — powerful and fast image hosting script that allows you to create your very own image hosting website in just minutes.
