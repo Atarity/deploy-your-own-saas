@@ -218,6 +218,9 @@ with compression and encryption.
 ### 🐳 Deploy your own `Container Management System`
 - [Portainer](https://www.portainer.io/) — container management tool. It allows anyone to deploy and manage containers without the need to write code. [(GitHub)](https://github.com/portainer/portainer)
 - [Yacht](https://github.com/SelfhostedPro/Yacht) — a web interface for managing docker containers with an emphasis on templating to provide 1 click deployments.
+
+### 🎮 Deploy your own `Game Server`
+- [Pterodactyl](https://pterodactyl.io) - open-source game server management panel. Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive UI to end users.
 ----
 
 Totally worth to check:
