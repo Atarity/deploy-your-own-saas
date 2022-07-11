@@ -219,6 +219,7 @@ with compression and encryption.
 - [Portainer](https://www.portainer.io/) — container management tool. It allows anyone to deploy and manage containers without the need to write code. [(GitHub)](https://github.com/portainer/portainer)
 - [Yacht](https://github.com/SelfhostedPro/Yacht) — a web interface for managing docker containers with an emphasis on templating to provide 1 click deployments.
 - [Pterodactyl](https://pterodactyl.io) — game server management panel. It runs game servers in isolated containers while exposing a beautiful web UI to the users. [(Github)](https://github.com/pterodactyl/panel)
+- [Umbrel](https://umbrel.com/) — either a docker image or OS that provides you with the most beautiful web interface to manage containerized web services. [(Github)](https://github.com/getumbrel/umbrel)
 
 ----
 
