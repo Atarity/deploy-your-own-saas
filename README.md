@@ -56,6 +56,7 @@ stateless OpenVPN dockerized server which doesn't require persistent storage.
 - [LinkAce](https://www.linkace.org/) — bookmark archive with tags, lists and sharing features. [(GitHub)](https://github.com/Kovah/LinkAce)
 - [Linkding](https://github.com/sissbruecker/linkding) — simple bookmarks with tags and neat UI.
 - [Benotes](https://github.com/fr0tt/benotes) — bookmark taking web app with additional note taking feature.
+- [Briefkasten](https://github.com/ndom91/briefkasten) — bookmark web app with REST API, OAuth, drag-n-drop and browser extension.
 
 ### 🔤 Deploy your own `URL shortener`
 - [Yourls](https://github.com/YOURLS/YOURLS) — Your Own URL Shortener.
