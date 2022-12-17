@@ -47,6 +47,7 @@ stateless OpenVPN dockerized server which doesn't require persistent storage.
 - [TinyList](https://tinylist.app/) — your own Google Keep. Simple and clean. [GitHub](https://github.com/baggachipz/tinylist)
 - [Leanote](http://leanote.org/) — your own Evernote. [GitHub](https://github.com/leanote/leanote)
 - [Bangle.io](https://bangle.io/) — web only WYSIWYG note taking app that saves notes locally in markdown. [GitHub](https://github.com/bangle-io/bangle-io)
+- [Memos](https://usememos.com/) — memo hub with knowledge management and socialization. [GitHub](https://github.com/usememos/memos)
 
 ### 🏷 Deploy your own `Bookmarks service`
 - [Unmark](https://github.com/cdevroe/unmark) — application for bookmarks. [(Tutplus tutorial from 2014)](https://computers.tutsplus.com/tutorials/host-your-own-bookmarking-webapp-with-unmark--cms-21385)
@@ -224,10 +225,10 @@ with compression and encryption.
 
 ----
 
-Totally worth to check:
+Worth to check:
 - https://www.reddit.com/r/selfhosted/
 - https://geek-cookbook.funkypenguin.co.nz/
 - https://github.com/sovereign/sovereign
 - https://roll.urown.net/about.html
 
-Cover art attributed to [KADA★BURA](https://www.kadaburadraws.com/pixel-art#/text-rpg/)
+Cover mashup based on [KADA★BURA](https://www.kadaburadraws.com/pixel-art#/text-rpg/) art.
