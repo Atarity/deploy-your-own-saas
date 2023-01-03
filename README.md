@@ -93,7 +93,7 @@ stateless OpenVPN dockerized server which doesn't require persistent storage.
 - [Mail-in-a-Box](https://mailinabox.email/) — another mail server suite based on Postfix, Dovecot, Z-Push, Roundcube, Nextcloud, Apache SpamAssassin, Postgrey, Nginx. [(GitHub)](https://github.com/mail-in-a-box/mailinabox)
 - [Roundcube](https://roundcube.net/) — browser-based IMAP client with an application-like user interface.
 - [Postal](https://postal.atech.media/) — a fully featured mail server with web UI. [(GitHub)](https://github.com/postalhq/postal)
-- [Maddy](https://maddy.email/) - a composable all-in-one mail server written in Golang. [(GitHub)](https://github.com/foxcpp/maddy)
+- [Maddy](https://maddy.email/) — a composable all-in-one mail server written in Golang. [(GitHub)](https://github.com/foxcpp/maddy)
 
 ### 💬 Deploy your own `Chat server`
 - [Prosody IM](https://prosody.im/) — modern XMPP communication server. [(Urown tutorial)](https://roll.urown.net/server/prosody.html)
