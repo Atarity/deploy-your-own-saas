@@ -36,7 +36,7 @@ stateless OpenVPN dockerized server which doesn't require persistent storage.
 - [ONLYOFFICE CE](https://www.onlyoffice.com/) — private cloud office with collaboration features. CE version distributed as [Docker image](https://helpcenter.onlyoffice.com/server/docker/opensource/deploy-community-edition-in-digitalocean.aspx). [(GitHub)](https://github.com/ONLYOFFICE)
 - [SeaTable](https://seatable.io/) — your own Airtable where spreadsheets meets database.
 - [Baserow](https://baserow.io/) — your own API-focused Airtable with plugins.
-- [Nocodb](docs.nocodb.com) — Airtable alternative could be based on top of MySQL, PostgreSQL, SQL Server, SQLite & MariaDB with solid GUI [(GitHub)](https://github.com/nocodb/nocodb)
+- [Nocodb](https://docs.nocodb.com) — Airtable alternative could be based on top of MySQL, PostgreSQL, SQL Server, SQLite & MariaDB with solid GUI [(GitHub)](https://github.com/nocodb/nocodb)
 
 ### 🎬 Deploy your own `Netflix`
 - [Jellyfin](https://jellyfin.org/) — media system that puts you in control of managing and streaming your media. [(GitHub)](https://github.com/jellyfin/jellyfin)
