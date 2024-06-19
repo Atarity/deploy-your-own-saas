@@ -19,9 +19,10 @@ stateless OpenVPN dockerized server which doesn't require persistent storage.
 - [AzuraCast](https://www.azuracast.com/) — web radio management suite, with a modern web app. [(GitHub)](https://github.com/AzuraCast/AzuraCast)
 
 ### 📷 Deploy your own `Photo hosting`
+- [Immich](https://immich.app/) — high performance photo and video solution with familiar UI. [(GitHub)](https://github.com/immich-app/immich)
 - [Chevereto](https://chevereto.com/free) — powerful and fast image hosting script that allows you to create your very own image hosting website in just minutes.
-- [PhotoPrism](https://photoprism.app/) — Personal photo management with Ai classification and lots of features [(GitHub)](https://github.com/photoprism/photoprism)
-- [Lychee](https://lychee.electerious.com/) — Upload, manage and share photos like from a native application [(GitHub)](https://github.com/electerious/Lychee)
+- [PhotoPrism](https://photoprism.app/) — personal photo management with Ai classification and lots of features. [(GitHub)](https://github.com/photoprism/photoprism)
+- [Lychee](https://lychee.electerious.com/) — upload, manage and share photos like from a native application. [(GitHub)](https://github.com/electerious/Lychee)
 - [Photo-Stream](https://github.com/maxvoltar/photo-stream/) — super-simple, jekyll-based, self-hosted photo stream.
 - [Piwigo](https://piwigo.org/) — PHP image gallery. [(GitHub)](https://github.com/Piwigo)
 - [Pinry](https://docs.getpinry.com/) — your own Pinterest with boards and tags. [(GitHub)](https://github.com/pinry/pinry)
@@ -181,7 +182,7 @@ with compression and encryption.
 ### 🗑 Deploy your own `Gist/PasteBin`
 - [Privatebin](https://privatebin.info/) — minimalist, online pastebin where the server has zero knowledge of pasted data. [(GitHub)](https://github.com/PrivateBin/PrivateBin)
 - [0bin](https://0bin.net/) — client side encrypted pastebin that can run without a database. [(GitHub)](https://github.com/sametmax/0bin)
-- [Opengist](https://github.com/thomiceli/opengist) — Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
+- [Opengist](https://github.com/thomiceli/opengist) — git-powered pastebin.
 
 
 ### 🐵 Deploy your own `Mailchimp`
