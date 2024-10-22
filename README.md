@@ -149,6 +149,7 @@ with compression and encryption.
 - [Lufi](https://github.com/ldidry/lufi) — convenient file sharing with E2E encryption.
 - [Linx](https://github.com/andreimarcu/linx-server) — simple file/code/media sharing website.
 - [XBackBone](https://xbackbone.app/) — PHP file manager that support the instant sharing tools like ShareX, uPic, etc [(GitHub)](https://github.com/SergiX44/XBackBone)
+- [Enclosed](https://enclosed.cc/) — Minimalistic web app designed for sending private and secure notes. [(Github)](https://github.com/CorentinTh/enclosed)
 
 ### 📂 Deploy your own `Information storing and organization system`
 - [Bookstack](https://github.com/BookStackApp/BookStack) — platform to create documentation/wiki content built with PHP & Laravel.
