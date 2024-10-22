@@ -144,7 +144,7 @@ with compression and encryption.
 - [Archivy](https://archivy.github.io/) — knowledge repository that allows you to preserve content. [(GitHub)](https://github.com/archivy/archivy/)
 
 ### 🍕 Deploy your own `file sharing server`
-- [Firefox Send](https://github.com/mozilla/send) — simple, private file sharing with encryption.
+- [Send](https://gitlab.com/timvisee/send) — simple, private file sharing with encryption. A Firefox Send fork.
 - [FilePizza](https://github.com/kern/filepizza) — peer-to-peer file transfers with only browser.
 - [Lufi](https://github.com/ldidry/lufi) — convenient file sharing with E2E encryption.
 - [Linx](https://github.com/andreimarcu/linx-server) — simple file/code/media sharing website.
