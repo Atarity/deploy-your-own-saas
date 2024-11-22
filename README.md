@@ -229,6 +229,9 @@ with compression and encryption.
 - [Pterodactyl](https://pterodactyl.io) — game server management panel. It runs game servers in isolated containers while exposing a beautiful web UI to the users. [(Github)](https://github.com/pterodactyl/panel)
 - [Umbrel](https://umbrel.com/) — either a docker image or OS that provides you with the most beautiful web interface to manage containerized web services. [(Github)](https://github.com/getumbrel/umbrel)
 
+### 🗃️ Deploy your own `Applicant Tracking System`
+- [FreeATS](https://www.freeats.com/) — An open source applicant tracking system with self-hosting capabilities. It provides position management, resume parsing and storage, candidate tracking with interaction history, feedback and rating systems for candidates. [(Github)](https://github.com/freeats/freeats)
+
 ----
 
 Worth to check:
