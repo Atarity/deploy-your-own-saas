@@ -17,6 +17,7 @@ stateless OpenVPN dockerized server which doesn't require persistent storage.
 - [Koel](https://koel.dev/) — simple web-based personal audio streaming service. [(GitHub)](https://github.com/phanan/koel)
 - [Funkwhale](https://funkwhale.audio/) — web-based music library with Airsonic compatibility. [(GitLab)](https://dev.funkwhale.audio/funkwhale/funkwhale)
 - [AzuraCast](https://www.azuracast.com/) — web radio management suite, with a modern web app. [(GitHub)](https://github.com/AzuraCast/AzuraCast)
+- [Black Candy](https://github.com/blackcandy-org/blackcandy) — music streaming server with web UI and iOS/Android apps.
 
 ### 📷 Deploy your own `Photo hosting`
 - [Immich](https://immich.app/) — high performance photo and video solution with familiar UI. [(GitHub)](https://github.com/immich-app/immich)
@@ -59,6 +60,7 @@ stateless OpenVPN dockerized server which doesn't require persistent storage.
 - [Linkding](https://github.com/sissbruecker/linkding) — simple bookmarks with tags and neat UI.
 - [Benotes](https://github.com/fr0tt/benotes) — bookmark taking web app with additional note taking feature.
 - [Briefkasten](https://github.com/ndom91/briefkasten) — bookmark web app with REST API, OAuth, drag-n-drop and browser extension.
+- [Hoarder](hoarder.app) — bookmark-everything app with AI-based tagging and full text search. [(GitHub)](https://github.com/hoarder-app/hoarder)
 
 ### 🔤 Deploy your own `URL shortener`
 - [Yourls](https://github.com/YOURLS/YOURLS) — Your Own URL Shortener.
