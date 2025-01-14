@@ -201,6 +201,7 @@ with compression and encryption.
 ### 🛰 Deploy your own `GPS tracking system`
 - [OwnTracks](https://github.com/owntracks) — lightweight program for storing and accessing location data published via MQTT or HTTP by the OwnTracks apps.
 - [µlogger server](https://github.com/bfabiszewski/ulogger-server) — web application for real-time collection of geolocation data, tracks viewing and management.
+- [Dawarich](https://dawarich.app/) - Self-hosted alternative to Google Location History
 
 ### 💳 Deploy your own `Personal finance tracker`
 - [Firefly III](https://www.firefly-iii.org/) — financial manager to help you keep track of expenses, income, budgets and everything in between. [(GitHub)](https://github.com/firefly-iii/firefly-iii)
