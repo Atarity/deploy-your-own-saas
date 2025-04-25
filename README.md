@@ -61,6 +61,7 @@ stateless OpenVPN dockerized server which doesn't require persistent storage.
 - [Benotes](https://github.com/fr0tt/benotes) — bookmark taking web app with additional note taking feature.
 - [Briefkasten](https://github.com/ndom91/briefkasten) — bookmark web app with REST API, OAuth, drag-n-drop and browser extension.
 - [Hoarder](hoarder.app) — bookmark-everything app with AI-based tagging and full text search. [(GitHub)](https://github.com/hoarder-app/hoarder)
+- [Readeck](https://codeberg.org/readeck/readeck) — selfhosted bookmark app with the modern UI, smart features and browser extension.
 
 ### 🔤 Deploy your own `URL shortener`
 - [Yourls](https://github.com/YOURLS/YOURLS) — Your Own URL Shortener.
@@ -129,6 +130,7 @@ stateless OpenVPN dockerized server which doesn't require persistent storage.
 - [GoAccess](https://goaccess.io/) — real-time web log analyzer and interactive viewer that runs in a terminal or through browser. [(GitHub)](https://github.com/allinurl/goaccess)
 - [Fathom Lite](https://github.com/usefathom/fathom) — Simple, privacy-focused website analytics.
 - [Shynet](https://github.com/milesmcc/shynet) — Privacy-friendly, detailed web analytics that works without cookies or JS.
+- [GoatCounter](https://github.com/arp242/goatcounter) — Easy analytics without tracking.
 
 ### 🔍 Deploy your own `Google search`
 - [Searx](https://searx.me/) — A privacy-respecting, hackable metasearch engine. [(GitHub)](https://github.com/asciimoo/searx)
