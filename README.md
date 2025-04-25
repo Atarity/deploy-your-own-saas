@@ -46,10 +46,10 @@ stateless OpenVPN dockerized server which doesn't require persistent storage.
 ### 📝 Deploy your own `Notes`
 - [CodiMD](https://github.com/hackmdio/codimd) — realtime collaborative markdown notes.
 - [Standard Notes](https://standardnotes.org/) — clean and simple web app with E2E encryption, extensions and clients. [How to self-host tutorial](https://theselfhostingblog.com/posts/how-to-completely-self-host-standard-notes/)
-- [TinyList](https://tinylist.app/) — your own Google Keep. Simple and clean. [GitHub](https://github.com/baggachipz/tinylist)
-- [Leanote](http://leanote.org/) — your own Evernote. [GitHub](https://github.com/leanote/leanote)
-- [Bangle.io](https://bangle.io/) — web only WYSIWYG note taking app that saves notes locally in markdown. [GitHub](https://github.com/bangle-io/bangle-io)
-- [Memos](https://usememos.com/) — memo hub with knowledge management and socialization. [GitHub](https://github.com/usememos/memos)
+- [TinyList](https://tinylist.app/) — your own Google Keep. Simple and clean. [(GitHub)](https://github.com/baggachipz/tinylist)
+- [Leanote](http://leanote.org/) — your own Evernote. [(GitHub)](https://github.com/leanote/leanote)
+- [Bangle.io](https://bangle.io/) — web only WYSIWYG note taking app that saves notes locally in markdown. [(GitHub)](https://github.com/bangle-io/bangle-io)
+- [Memos](https://usememos.com/) — memo hub with knowledge management and socialization. [(GitHub)](https://github.com/usememos/memos)
 
 ### 🏷 Deploy your own `Bookmarks service`
 - [Unmark](https://github.com/cdevroe/unmark) — application for bookmarks. [(Tutplus tutorial from 2014)](https://computers.tutsplus.com/tutorials/host-your-own-bookmarking-webapp-with-unmark--cms-21385)
@@ -61,7 +61,7 @@ stateless OpenVPN dockerized server which doesn't require persistent storage.
 - [Benotes](https://github.com/fr0tt/benotes) — bookmark taking web app with additional note taking feature.
 - [Briefkasten](https://github.com/ndom91/briefkasten) — bookmark web app with REST API, OAuth, drag-n-drop and browser extension.
 - [Hoarder](hoarder.app) — bookmark-everything app with AI-based tagging and full text search. [(GitHub)](https://github.com/hoarder-app/hoarder)
-- [Readeck](https://codeberg.org/readeck/readeck) — selfhosted bookmark app with the modern UI, smart features and browser extension.
+- [Readeck](https://readeck.org/) — selfhosted bookmarking app with the modern UI, smart features and browser extension. [(Codeberg)](https://codeberg.org/readeck/readeck)
 
 ### 🔤 Deploy your own `URL shortener`
 - [Yourls](https://github.com/YOURLS/YOURLS) — Your Own URL Shortener.
