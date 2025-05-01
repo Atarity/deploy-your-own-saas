@@ -165,6 +165,7 @@ with compression and encryption.
 ### 🔑 Deploy your own `Password manager`
 - [Bitwarden](https://bitwarden.com/) — easiest and safest way to store, share, and sync sensitive data. [(GitHub)](https://github.com/bitwarden/server)
 - [LessPass](https://lesspass.com/) — stateless password manager. [(GitHub)](https://github.com/lesspass/lesspass)
+- [Passbolt](https://www.passbolt.com/) - an open source password manager designed for team collaboration. Securely generate, store, manage and monitor your team credentials. [(Installation Guide)](https://help.passbolt.com/hosting/install)
 
 ### 🤥 Deploy your own `Read it Later`
 - [Shiori](https://github.com/go-shiori/shiori) — simple bookmarks manager written intended as a simple clone of Pocket.
