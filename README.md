@@ -8,7 +8,6 @@
 stateless OpenVPN dockerized server which doesn't require persistent storage.
 - [WireGuard](https://www.wireguard.com/) — faster, simpler, leaner, and more useful than IPsec. It intends to be considerably more performant than OpenVPN. [(Digital Ocean tutorial)](https://www.digitalocean.com/community/tutorials/how-to-create-a-point-to-point-vpn-with-wireguard-on-ubuntu-16-04)
 - [Algo VPN](https://github.com/trailofbits/algo) — set of Ansible scripts that simplify the setup of a personal Wireguard and IPsec VPN.
-- [Streisand](https://github.com/StreisandEffect/streisand) — another set of Ansible scripts to setup and run WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge.
 
 ### 🎧 Deploy your own `Music streaming service`
 - [Ampache](https://github.com/ampache/ampache) — web based audio/video streaming application and file manager.
@@ -182,6 +181,7 @@ with compression and encryption.
 - [Gitolight](https://github.com/sitaramc/gitolite) — git hosting on a server, with very fine-grained access control and many powerful features.
 - [Gitea](https://gitea.io) — lightweight and powerful git server made with Go, so you can deploy it even on Raspberry Pi. [(GitHub)](https://github.com/go-gitea)
 - [Pagure](https://pagure.io/pagure) — lightweight, powerful, and flexible git-centered forge with decentralization features.
+- [Forgejo](https://forgejo.org/) — lightweight, git-based software forging infrastructure with decentralised features. Base of [Codeberg[(https://codeberg.org/) platform. 
 
 ### 🗑 Deploy your own `Gist/PasteBin`
 - [Privatebin](https://privatebin.info/) — minimalist, online pastebin where the server has zero knowledge of pasted data. [(GitHub)](https://github.com/PrivateBin/PrivateBin)
