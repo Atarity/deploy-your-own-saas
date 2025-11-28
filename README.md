@@ -207,7 +207,7 @@ with compression and encryption.
 ### 💳 Deploy your own `Personal finance tracker`
 - [Firefly III](https://www.firefly-iii.org/) — financial manager to help you keep track of expenses, income, budgets and everything in between. [(GitHub)](https://github.com/firefly-iii/firefly-iii)
 - [Ledger](https://www.ledger-cli.org/) — plain text double-entry accounting with 3rd party UI like [Prudent](https://prudent.me/). [Entry point to plain text accounting](https://plaintextaccounting.org/)
-- [Beancount](https://bitbucket.org/blais/beancount/src/default/) — plain text double-entry accounting with 3rd party web UI like [Fava](https://github.com/beancount/fava)
+- [Beancount](https://github.com/beancount/beancount) — plain text double-entry accounting with 3rd party web UI like [Fava](https://github.com/beancount/fava)
 - [ezBookkeeping](https://ezbookkeeping.mayswind.net/) — a lightweight personal finance app with a user-friendly interface and powerful bookkeeping features. [(GitHub)](https://github.com/mayswind/ezbookkeeping)
 
 ### 🏠 Deploy your own `Smart home`
