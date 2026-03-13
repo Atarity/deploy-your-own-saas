@@ -216,7 +216,7 @@
             "projects": [
                 {
                     "name": "Calibre",
-                    "description": "E-book manager, packed with all you need features (including server).",
+                    "description": "E-book manager packed with all you need features including server, viewer, editor and more.",
                     "github": "https://github.com/kovidgoyal/calibre",
                     "site": "https://calibre-ebook.com",
                     "stars": 24365,
@@ -519,7 +519,7 @@
             "projects": [
                 {
                     "name": "Yourls",
-                    "description": "Your Own URL Shortener.",
+                    "description": "Customizable, URL shortener in PHP. Detailed stats, analytics, plugins, and more included.",
                     "github": "https://github.com/YOURLS/YOURLS",
                     "site": "https://yourls.org",
                     "stars": 11921,
@@ -569,7 +569,7 @@
             "projects": [
                 {
                     "name": "Radicale",
-                    "description": "CalDAV and CardDAV Server made with Python.",
+                    "description": "Small CalDAV and CardDAV server made with Python. Simple file storage and plugins",
                     "github": "https://github.com/Kozea/Radicale",
                     "site": "https://radicale.org",
                     "stars": 4465,
@@ -680,7 +680,7 @@
             "projects": [
                 {
                     "name": "Unbound",
-                    "description": "Validating, recursive, caching DNS resolver.",
+                    "description": "Validating, recursive, caching DNS resolver. Fast and lean and incorporates modern features based on open standards.",
                     "github": "https://github.com/NLnetLabs/unbound",
                     "site": "https://nlnetlabs.nl/unbound",
                     "stars": 4323,
@@ -937,7 +937,7 @@
                 },
                 {
                     "name": "Gatsby",
-                    "description": "React-based framework that helps developers build fast websites and apps.",
+                    "description": "React-based framework with performance, scalability, and security built in.",
                     "github": "https://github.com/gatsbyjs/gatsby",
                     "site": "https://www.gatsbyjs.com",
                     "stars": 55944,
@@ -1065,7 +1065,7 @@
             "projects": [
                 {
                     "name": "Whoogle",
-                    "description": "Deploy your own search engine that privately uses Google results.",
+                    "description": "Search results without ads, JavaScript, AMP links, cookies, or IP address tracking.",
                     "github": "https://github.com/benbusby/whoogle-search",
                     "site": "https://pypi.org/project/whoogle-search/",
                     "stars": 11400,
@@ -1082,7 +1082,7 @@
             "projects": [
                 {
                     "name": "Borg",
-                    "description": "Deduplicating archiver with compression and encryption.",
+                    "description": "Deduplicating archiver with compression and authenticated encryption.",
                     "github": "https://github.com/borgbackup/borg",
                     "site": "https://www.borgbackup.org/",
                     "stars": 13073,
@@ -1121,7 +1121,7 @@
             "projects": [
                 {
                     "name": "ArchiveBox",
-                    "description": "Self-hosted web archive.",
+                    "description": "Web archive. Preserve and organize content from websites in a variety of formats.",
                     "github": "https://github.com/pirate/ArchiveBox",
                     "site": "https://archivebox.io",
                     "stars": 27052,
@@ -1291,7 +1291,7 @@
             "projects": [
                 {
                     "name": "Bitwarden",
-                    "description": "Easiest and safest way to store, share, and sync sensitive data.",
+                    "description": "Easiest and safest password manager to store, share, and sync sensitive data.",
                     "github": "https://github.com/bitwarden/server",
                     "site": "https://bitwarden.com",
                     "stars": 18256,
@@ -1506,7 +1506,7 @@
             "projects": [
                 {
                     "name": "Listmonk",
-                    "description": "Newsletter and mailing list manager with a modern dashboard.",
+                    "description": "High performance newsletter and mailing list manager with a modern dashboard. Single binary app.",
                     "github": "https://github.com/knadh/listmonk",
                     "site": "https://listmonk.app",
                     "stars": 19268,
