@@ -1,0 +1,1582 @@
+{
+    "groups": [
+        {
+            "name": "VPN",
+            "icon": "🙊",
+            "projects": [
+                {
+                    "name": "OpenVPN",
+                    "description": "full-featured open source VPN solution.",
+                    "github": "",
+                    "site": "https://openvpn.net/",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                },
+                {
+                    "name": "dockovpn.io",
+                    "description": "stateless OpenVPN dockerized server which doesn't require persistent storage.",
+                    "github": "https://github.com/alekslitvinenk/docker-openvpn",
+                    "site": "https://github.com/alekslitvinenk/docker-openvpn",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                },
+                {
+                    "name": "WireGuard",
+                    "description": "faster, simpler, leaner, and more useful than IPsec. It intends to be considerably more performant than OpenVPN.",
+                    "github": "",
+                    "site": "https://www.wireguard.com/",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                },
+                {
+                    "name": "Algo VPN",
+                    "description": "set of Ansible scripts that simplify the setup of a personal Wireguard and IPsec VPN.",
+                    "github": "https://github.com/trailofbits/algo",
+                    "site": "https://github.com/trailofbits/algo",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                }
+            ]
+        },
+        {
+            "name": "Music streaming service",
+            "icon": "🎧",
+            "projects": [
+                {
+                    "name": "Ampache",
+                    "description": "web based audio/video streaming application and file manager.",
+                    "github": "https://github.com/ampache/ampache",
+                    "site": "https://github.com/ampache/ampache",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                },
+                {
+                    "name": "Madsonic",
+                    "description": "web-based media library and media streamer with jukebox functionality.",
+                    "github": "",
+                    "site": "https://beta.madsonic.org/pages/index.jsp",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                },
+                {
+                    "name": "Mopidy",
+                    "description": "extensible music server.",
+                    "github": "",
+                    "site": "https://www.mopidy.com/",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                },
+                {
+                    "name": "Koel",
+                    "description": "simple web-based personal audio streaming service.",
+                    "github": "https://github.com/phanan/koel",
+                    "site": "https://koel.dev/",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                },
+                {
+                    "name": "Funkwhale",
+                    "description": "web-based music library with Airsonic compatibility.",
+                    "github": "",
+                    "site": "https://funkwhale.audio/",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                },
+                {
+                    "name": "AzuraCast",
+                    "description": "web radio management suite, with a modern web app.",
+                    "github": "https://github.com/AzuraCast/AzuraCast",
+                    "site": "https://www.azuracast.com/",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                },
+                {
+                    "name": "Black Candy",
+                    "description": "music streaming server with web UI and iOS/Android apps.",
+                    "github": "https://github.com/blackcandy-org/blackcandy",
+                    "site": "https://github.com/blackcandy-org/blackcandy",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                },
+                {
+                    "name": "Audiobookshelf",
+                    "description": "audiobook and podcast server.",
+                    "github": "https://github.com/advplyr/audiobookshelf",
+                    "site": "https://audiobookshelf.org",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                }
+            ]
+        },
+        {
+            "name": "Photo hosting",
+            "icon": "📷",
+            "projects": [
+                {
+                    "name": "Immich",
+                    "description": "high performance photo and video solution with familiar UI.",
+                    "github": "https://github.com/immich-app/immich",
+                    "site": "https://immich.app/",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                },
+                {
+                    "name": "Chevereto",
+                    "description": "powerful and fast image hosting script that allows you to create your very own image hosting website in just minutes.",
+                    "github": "",
+                    "site": "https://chevereto.com/free",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                },
+                {
+                    "name": "PhotoPrism",
+                    "description": "personal photo management with Ai classification and lots of features.",
+                    "github": "https://github.com/photoprism/photoprism",
+                    "site": "https://photoprism.app/",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                },
+                {
+                    "name": "Lychee",
+                    "description": "upload, manage and share photos like from a native application.",
+                    "github": "https://github.com/electerious/Lychee",
+                    "site": "https://lychee.electerious.com/",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                },
+                {
+                    "name": "Photo-Stream",
+                    "description": "super-simple, jekyll-based, self-hosted photo stream.",
+                    "github": "https://github.com/maxvoltar/photo-stream/",
+                    "site": "https://github.com/maxvoltar/photo-stream/",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                },
+                {
+                    "name": "Piwigo",
+                    "description": "PHP image gallery.",
+                    "github": "https://github.com/Piwigo",
+                    "site": "https://piwigo.org/",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                },
+                {
+                    "name": "Pinry",
+                    "description": "your own Pinterest with boards and tags.",
+                    "github": "https://github.com/pinry/pinry",
+                    "site": "https://docs.getpinry.com/",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                }
+            ]
+        },
+        {
+            "name": "eBooks catalog",
+            "icon": "📚",
+            "projects": [
+                {
+                    "name": "Calibre",
+                    "description": "e-book manager, packed with all you need features (including server).",
+                    "github": "https://github.com/kovidgoyal/calibre",
+                    "site": "https://github.com/kovidgoyal/calibre",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                },
+                {
+                    "name": "COPS",
+                    "description": "Calibre OPDS and HTML server.",
+                    "github": "https://github.com/seblucas/cops",
+                    "site": "https://github.com/seblucas/cops",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                },
+                {
+                    "name": "Calibre-Web",
+                    "description": "web UI for Calibre database.",
+                    "github": "https://github.com/janeczku/calibre-web",
+                    "site": "https://github.com/janeczku/calibre-web",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                }
+            ]
+        },
+        {
+            "name": "Google Docs",
+            "icon": "📄",
+            "projects": [
+                {
+                    "name": "Collabora",
+                    "description": "LibreOffice in the cloud with collaboration features.",
+                    "github": "",
+                    "site": "https://www.collaboraoffice.com/collabora-online/",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                },
+                {
+                    "name": "ONLYOFFICE CE",
+                    "description": "private cloud office with collaboration features. CE version distributed as [Docker image](https://helpcenter.onlyoffice.com/server/docker/opensource/deploy-community-edition-in-digitalocean.aspx).",
+                    "github": "https://github.com/ONLYOFFICE",
+                    "site": "https://www.onlyoffice.com/",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                },
+                {
+                    "name": "SeaTable",
+                    "description": "your own Airtable where spreadsheets meets database.",
+                    "github": "",
+                    "site": "https://seatable.io/",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                },
+                {
+                    "name": "Baserow",
+                    "description": "your own API-focused Airtable with plugins.",
+                    "github": "",
+                    "site": "https://baserow.io/",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                },
+                {
+                    "name": "Nocodb",
+                    "description": "Airtable alternative could be based on top of MySQL, PostgreSQL, SQL Server, SQLite & MariaDB with solid GUI",
+                    "github": "https://github.com/nocodb/nocodb",
+                    "site": "https://docs.nocodb.com",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                }
+            ]
+        },
+        {
+            "name": "Netflix",
+            "icon": "🎬",
+            "projects": [
+                {
+                    "name": "Jellyfin",
+                    "description": "media system that puts you in control of managing and streaming your media.",
+                    "github": "https://github.com/jellyfin/jellyfin",
+                    "site": "https://jellyfin.org/",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                }
+            ]
+        },
+        {
+            "name": "Notes",
+            "icon": "📝",
+            "projects": [
+                {
+                    "name": "CodiMD",
+                    "description": "realtime collaborative markdown notes.",
+                    "github": "https://github.com/hackmdio/codimd",
+                    "site": "https://github.com/hackmdio/codimd",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                },
+                {
+                    "name": "Standard Notes",
+                    "description": "clean and simple web app with E2E encryption, extensions and clients. [How to self-host tutorial](https://theselfhostingblog.com/posts/how-to-completely-self-host-standard-notes/)",
+                    "github": "",
+                    "site": "https://standardnotes.org/",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                },
+                {
+                    "name": "TinyList",
+                    "description": "your own Google Keep. Simple and clean.",
+                    "github": "https://github.com/baggachipz/tinylist",
+                    "site": "https://tinylist.app/",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                },
+                {
+                    "name": "Leanote",
+                    "description": "your own Evernote.",
+                    "github": "https://github.com/leanote/leanote",
+                    "site": "http://leanote.org/",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                },
+                {
+                    "name": "Bangle.io",
+                    "description": "web only WYSIWYG note taking app that saves notes locally in markdown.",
+                    "github": "https://github.com/bangle-io/bangle-io",
+                    "site": "https://bangle.io/",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                },
+                {
+                    "name": "Memos",
+                    "description": "memo hub with knowledge management and socialization.",
+                    "github": "https://github.com/usememos/memos",
+                    "site": "https://usememos.com/",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                }
+            ]
+        },
+        {
+            "name": "Bookmarks service",
+            "icon": "🏷",
+            "projects": [
+                {
+                    "name": "Unmark",
+                    "description": "application for bookmarks.",
+                    "github": "https://github.com/cdevroe/unmark",
+                    "site": "https://github.com/cdevroe/unmark",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                },
+                {
+                    "name": "Bookmarks",
+                    "description": "self-hosted bookmarking app that can import bookmarks from delicious and chrome.",
+                    "github": "https://github.com/dyu/bookmarks",
+                    "site": "https://github.com/dyu/bookmarks",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                },
+                {
+                    "name": "xBrowserSync",
+                    "description": "secure and anonymous bookmarking server with browser plugins and mobile app.",
+                    "github": "https://github.com/xbrowsersync",
+                    "site": "https://www.xbrowsersync.org/",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                },
+                {
+                    "name": "Nextcloud Bookmarks",
+                    "description": "bookmark app for Nextcloud with browser plugins, mobile and desktop apps.",
+                    "github": "https://github.com/nextcloud/bookmarks",
+                    "site": "https://apps.nextcloud.com/apps/bookmarks",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                },
+                {
+                    "name": "LinkAce",
+                    "description": "bookmark archive with tags, lists and sharing features.",
+                    "github": "https://github.com/Kovah/LinkAce",
+                    "site": "https://www.linkace.org/",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                },
+                {
+                    "name": "Linkding",
+                    "description": "simple bookmarks with tags and neat UI.",
+                    "github": "https://github.com/sissbruecker/linkding",
+                    "site": "https://github.com/sissbruecker/linkding",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                },
+                {
+                    "name": "Benotes",
+                    "description": "bookmark taking web app with additional note taking feature.",
+                    "github": "https://github.com/fr0tt/benotes",
+                    "site": "https://github.com/fr0tt/benotes",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                },
+                {
+                    "name": "Briefkasten",
+                    "description": "bookmark web app with REST API, OAuth, drag-n-drop and browser extension.",
+                    "github": "https://github.com/ndom91/briefkasten",
+                    "site": "https://github.com/ndom91/briefkasten",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                },
+                {
+                    "name": "Hoarder",
+                    "description": "bookmark-everything app with AI-based tagging and full text search.",
+                    "github": "https://github.com/hoarder-app/hoarder",
+                    "site": "hoarder.app",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                },
+                {
+                    "name": "Readeck",
+                    "description": "selfhosted bookmarking app with the modern UI, smart features and browser extension.",
+                    "github": "https://codeberg.org/readeck/readeck",
+                    "site": "https://readeck.org/",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                }
+            ]
+        },
+        {
+            "name": "URL shortener",
+            "icon": "🔤",
+            "projects": [
+                {
+                    "name": "Yourls",
+                    "description": "Your Own URL Shortener.",
+                    "github": "https://github.com/YOURLS/YOURLS",
+                    "site": "https://github.com/YOURLS/YOURLS",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                },
+                {
+                    "name": "Kutt",
+                    "description": "modern URL shortener with support for custom domains.",
+                    "github": "https://github.com/thedevs-network/kutt",
+                    "site": "https://kutt.it/",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                },
+                {
+                    "name": "Delta",
+                    "description": "a file uploader and URL shortener packed with features and CLI.",
+                    "github": "https://github.com/fosslife/delta",
+                    "site": "https://github.com/fosslife/delta",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                },
+                {
+                    "name": "Shlink",
+                    "description": "URL shortener with neat UI, API and analytics. .",
+                    "github": "https://github.com/shlinkio/shlink",
+                    "site": "https://shlink.io/",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                }
+            ]
+        },
+        {
+            "name": "Calendar",
+            "icon": "🗓",
+            "projects": [
+                {
+                    "name": "Radicale",
+                    "description": "CalDAV and CardDAV Server made with Python.",
+                    "github": "",
+                    "site": "https://radicale.org/",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                },
+                {
+                    "name": "Sabre",
+                    "description": "CardDAV, CalDAV and WebDAV server made with PHP.",
+                    "github": "",
+                    "site": "http://sabre.io/",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                },
+                {
+                    "name": "Calendar Server",
+                    "description": "Calendar and contacts server made by Apple.",
+                    "github": "https://github.com/apple/ccs-calendarserver",
+                    "site": "https://github.com/apple/ccs-calendarserver",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                }
+            ]
+        },
+        {
+            "name": "Cloud storage",
+            "icon": "🗄",
+            "projects": [
+                {
+                    "name": "OwnCloud",
+                    "description": "personal cloud which runs on your own server.",
+                    "github": "https://github.com/owncloud/core",
+                    "site": "https://github.com/owncloud/core",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                },
+                {
+                    "name": "Nextcloud",
+                    "description": "enhanced OwnCloud fork with tons of [additional services](https://apps.nextcloud.com/) like calendars, mail, contacts, video calls, etc .",
+                    "github": "https://github.com/nextcloud",
+                    "site": "https://nextcloud.com/",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                },
+                {
+                    "name": "Syncthing",
+                    "description": "continuous file synchronization program.",
+                    "github": "",
+                    "site": "https://syncthing.net/",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                },
+                {
+                    "name": "MinIO",
+                    "description": "object storage server compatible with Amazon S3 APIs.",
+                    "github": "https://github.com/minio/minio",
+                    "site": "https://github.com/minio/minio",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                },
+                {
+                    "name": "Teedy",
+                    "description": "lightweight document management system with workflows",
+                    "github": "https://github.com/sismics/docs",
+                    "site": "https://teedy.io/",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                },
+                {
+                    "name": "Filestash",
+                    "description": "easily turn popular backends like SFTP, S3, GitHub etc into web-based file manager",
+                    "github": "https://github.com/mickael-kerjean/filestash",
+                    "site": "https://www.filestash.app/",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                }
+            ]
+        },
+        {
+            "name": "DNS",
+            "icon": "🕸",
+            "projects": [
+                {
+                    "name": "Unbound",
+                    "description": "validating, recursive, caching DNS resolver.",
+                    "github": "https://github.com/NLnetLabs/unbound",
+                    "site": "https://github.com/NLnetLabs/unbound",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                }
+            ]
+        },
+        {
+            "name": "AdBlock",
+            "icon": "🛑",
+            "projects": [
+                {
+                    "name": "Pi-hole",
+                    "description": "network-wide ad blocking software you can deploy to local Raspberry Pi or [always-free instance of Google Cloud](https://github.com/n3m351d4/Pi-Hole-PiVPN-on-Google-Compute-Engine-Free-Tier-with-Full-Tunnel-and-Split-Tunnel-OpenVPN-Configs). Yes, you've got the irony right.",
+                    "github": "https://github.com/pi-hole",
+                    "site": "https://pi-hole.net/",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                },
+                {
+                    "name": "AdGuard Home",
+                    "description": "network-wide DNS resolver with encryption for blocking ads & tracking.",
+                    "github": "https://github.com/AdguardTeam/AdGuardHome",
+                    "site": "https://adguard.com/en/adguard-home/overview.html",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                }
+            ]
+        },
+        {
+            "name": "Email server",
+            "icon": "✉️",
+            "projects": [
+                {
+                    "name": "Mailu",
+                    "description": "dockerized, secured mail suite which is easy to install and maintain.",
+                    "github": "",
+                    "site": "https://mailu.io/",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                },
+                {
+                    "name": "Mailcow",
+                    "description": "dockerized mail server suite based on Postfix, Dovecot, Nginx, PHP, MariaDB, Rspamd and more.",
+                    "github": "https://github.com/mailcow/mailcow-dockerized",
+                    "site": "https://mailcow.email/",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                },
+                {
+                    "name": "iRedMail",
+                    "description": "mail server suite with vast of options.",
+                    "github": "",
+                    "site": "https://www.iredmail.org/",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                },
+                {
+                    "name": "Mail-in-a-Box",
+                    "description": "another mail server suite based on Postfix, Dovecot, Z-Push, Roundcube, Nextcloud, Apache SpamAssassin, Postgrey, Nginx.",
+                    "github": "https://github.com/mail-in-a-box/mailinabox",
+                    "site": "https://mailinabox.email/",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                },
+                {
+                    "name": "Roundcube",
+                    "description": "browser-based IMAP client with an application-like user interface.",
+                    "github": "",
+                    "site": "https://roundcube.net/",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                },
+                {
+                    "name": "Postal",
+                    "description": "a fully featured mail server with web UI.",
+                    "github": "https://github.com/postalhq/postal",
+                    "site": "https://postal.atech.media/",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                },
+                {
+                    "name": "Maddy",
+                    "description": "a composable all-in-one mail server written in Golang.",
+                    "github": "https://github.com/foxcpp/maddy",
+                    "site": "https://maddy.email/",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                }
+            ]
+        },
+        {
+            "name": "Chat server",
+            "icon": "💬",
+            "projects": [
+                {
+                    "name": "Prosody IM",
+                    "description": "modern XMPP communication server.",
+                    "github": "",
+                    "site": "https://prosody.im/",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                },
+                {
+                    "name": "Zulip",
+                    "description": "team chat which combined the immediacy of real-time chat with an email threading model.",
+                    "github": "https://github.com/zulip/zulip",
+                    "site": "https://zulipchat.com/",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                },
+                {
+                    "name": "Rocket Chat",
+                    "description": "WebChat platform.",
+                    "github": "https://github.com/RocketChat/Rocket.Chat",
+                    "site": "https://rocket.chat/",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                },
+                {
+                    "name": "Mattermost",
+                    "description": "private cloud, Slack-alternative.",
+                    "github": "https://github.com/mattermost/mattermost-server",
+                    "site": "https://mattermost.com/",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                },
+                {
+                    "name": "Mumble",
+                    "description": "low-latency, high quality **voice chat** for gaming.",
+                    "github": "https://github.com/mumble-voip/mumble",
+                    "site": "https://www.mumble.info",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                },
+                {
+                    "name": "Matrix",
+                    "description": "ecosystem for open federated Instant Messaging and VoIP.",
+                    "github": "https://github.com/matrix-org",
+                    "site": "https://matrix.org",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                },
+                {
+                    "name": "Riot",
+                    "description": "multi platform chat app based on Matrix protocol.",
+                    "github": "",
+                    "site": "https://about.riot.im/",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                }
+            ]
+        },
+        {
+            "name": "Video calls",
+            "icon": "📹",
+            "projects": [
+                {
+                    "name": "Jitsi",
+                    "description": "Multi-platform open-source video conferencing.",
+                    "github": "https://github.com/jitsi",
+                    "site": "https://jitsi.org/",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                },
+                {
+                    "name": "Nextcloud Talk",
+                    "description": "chat or video calls via web or mobile apps, including screen sharing and webinar functionality.",
+                    "github": "https://github.com/nextcloud/spreed/",
+                    "site": "https://nextcloud.com/talk/",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                }
+            ]
+        },
+        {
+            "name": "Publishing system",
+            "icon": "✍️",
+            "projects": [
+                {
+                    "name": "Jekyll",
+                    "description": "static websites and blogs.",
+                    "github": "https://github.com/jekyll/jekyll",
+                    "site": "https://jekyllrb.com/",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                },
+                {
+                    "name": "Hugo",
+                    "description": "static site generators with amazing speed.",
+                    "github": "",
+                    "site": "https://gohugo.io/",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                },
+                {
+                    "name": "Ghost",
+                    "description": "headless Node.js CMS for professional publishing.",
+                    "github": "https://github.com/TryGhost/Ghost",
+                    "site": "https://github.com/TryGhost/Ghost",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                },
+                {
+                    "name": "Gatsby",
+                    "description": "React-based framework that helps developers build fast websites and apps.",
+                    "github": "https://github.com/gatsbyjs/gatsby",
+                    "site": "https://gatsbyjs.org/",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                }
+            ]
+        },
+        {
+            "name": "Disqus comments",
+            "icon": "🗣",
+            "projects": [
+                {
+                    "name": "Isso",
+                    "description": "lightweight commenting server. It aims to be a drop-in replacement for Disqus.",
+                    "github": "https://github.com/posativ/isso",
+                    "site": "https://posativ.org/isso/",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                },
+                {
+                    "name": "Remark42",
+                    "description": "self-hosted, lightweight, and simple  commenting system, which doesn’t spy on users",
+                    "github": "https://github.com/umputun/remark42",
+                    "site": "https://remark42.com/",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                },
+                {
+                    "name": "Staticman",
+                    "description": "commenting server for static sites which stores all user generated content into your own repository.",
+                    "github": "https://github.com/eduardoboucas/staticman",
+                    "site": "https://staticman.net/",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                }
+            ]
+        },
+        {
+            "name": "Web analytics engine",
+            "icon": "📈",
+            "projects": [
+                {
+                    "name": "Ackee",
+                    "description": "self-hosted, Node.js based analytics tool for those who care about privacy.",
+                    "github": "",
+                    "site": "https://ackee.electerious.com",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                },
+                {
+                    "name": "Matomo",
+                    "description": "open analytics platform.",
+                    "github": "https://github.com/matomo-org/matomo",
+                    "site": "https://github.com/matomo-org/matomo",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                },
+                {
+                    "name": "GoAccess",
+                    "description": "real-time web log analyzer and interactive viewer that runs in a terminal or through browser.",
+                    "github": "https://github.com/allinurl/goaccess",
+                    "site": "https://goaccess.io/",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                },
+                {
+                    "name": "Fathom Lite",
+                    "description": "Simple, privacy-focused website analytics.",
+                    "github": "https://github.com/usefathom/fathom",
+                    "site": "https://github.com/usefathom/fathom",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                },
+                {
+                    "name": "Shynet",
+                    "description": "Privacy-friendly, detailed web analytics that works without cookies or JS.",
+                    "github": "https://github.com/milesmcc/shynet",
+                    "site": "https://github.com/milesmcc/shynet",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                },
+                {
+                    "name": "GoatCounter",
+                    "description": "Easy analytics without tracking.",
+                    "github": "https://github.com/arp242/goatcounter",
+                    "site": "https://github.com/arp242/goatcounter",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                }
+            ]
+        },
+        {
+            "name": "Google search",
+            "icon": "🔍",
+            "projects": [
+                {
+                    "name": "Whoogle",
+                    "description": "Deploy your own search engine that privately uses Google results.",
+                    "github": "https://github.com/benbusby/whoogle-search",
+                    "site": "https://github.com/benbusby/whoogle-search",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                }
+            ]
+        },
+        {
+            "name": "Cloud backup",
+            "icon": "📦",
+            "projects": [
+                {
+                    "name": "Duplicity",
+                    "description": "backs up directories by producing encrypted tar-format volumes and uploading them to a remote or local file server.",
+                    "github": "",
+                    "site": "http://duplicity.nongnu.org/",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                },
+                {
+                    "name": "Borg",
+                    "description": "deduplicating archiver with compression and encryption.",
+                    "github": "",
+                    "site": "https://www.borgbackup.org/",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                },
+                {
+                    "name": "ElkarBackup",
+                    "description": "backup solution based on RSync/RSnapshot.",
+                    "github": "https://github.com/elkarbackup/elkarbackup",
+                    "site": "https://github.com/elkarbackup/elkarbackup",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                },
+                {
+                    "name": "Restic",
+                    "description": "encrypted, deduplicated & simple backups with an easy-to-use CLI.",
+                    "github": "https://github.com/restic/restic/",
+                    "site": "https://restic.net/",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                }
+            ]
+        },
+        {
+            "name": "Web archive",
+            "icon": "🔗",
+            "projects": [
+                {
+                    "name": "ArchiveBox",
+                    "description": "self-hosted web archive.",
+                    "github": "https://github.com/pirate/ArchiveBox",
+                    "site": "https://archivebox.io",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                },
+                {
+                    "name": "Archivy",
+                    "description": "knowledge repository that allows you to preserve content.",
+                    "github": "https://github.com/archivy/archivy/",
+                    "site": "https://archivy.github.io/",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                }
+            ]
+        },
+        {
+            "name": "file sharing server",
+            "icon": "🍕",
+            "projects": [
+                {
+                    "name": "Send",
+                    "description": "simple, private file sharing with encryption. A Firefox Send fork.",
+                    "github": "",
+                    "site": "https://gitlab.com/timvisee/send",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                },
+                {
+                    "name": "FilePizza",
+                    "description": "peer-to-peer file transfers with only browser.",
+                    "github": "https://github.com/kern/filepizza",
+                    "site": "https://github.com/kern/filepizza",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                },
+                {
+                    "name": "Lufi",
+                    "description": "convenient file sharing with E2E encryption.",
+                    "github": "https://github.com/ldidry/lufi",
+                    "site": "https://github.com/ldidry/lufi",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                },
+                {
+                    "name": "Linx",
+                    "description": "simple file/code/media sharing website.",
+                    "github": "https://github.com/andreimarcu/linx-server",
+                    "site": "https://github.com/andreimarcu/linx-server",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                },
+                {
+                    "name": "XBackBone",
+                    "description": "PHP file manager that support the instant sharing tools like ShareX, uPic, etc",
+                    "github": "https://github.com/SergiX44/XBackBone",
+                    "site": "https://xbackbone.app/",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                },
+                {
+                    "name": "Enclosed",
+                    "description": "Minimalistic web app designed for sending private and secure notes.",
+                    "github": "https://github.com/CorentinTh/enclosed",
+                    "site": "https://enclosed.cc/",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                }
+            ]
+        },
+        {
+            "name": "Information storing and organization system",
+            "icon": "📂",
+            "projects": [
+                {
+                    "name": "Bookstack",
+                    "description": "platform to create documentation/wiki content built with PHP & Laravel.",
+                    "github": "https://github.com/BookStackApp/BookStack",
+                    "site": "https://github.com/BookStackApp/BookStack",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                },
+                {
+                    "name": "MediaWiki",
+                    "description": "collaboration and documentation platform with enormous capabilities.",
+                    "github": "",
+                    "site": "https://www.mediawiki.org/wiki/MediaWiki",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                },
+                {
+                    "name": "Dokuwiki",
+                    "description": "simple wiki that doesn't require a database.",
+                    "github": "https://github.com/splitbrain/dokuwiki",
+                    "site": "https://www.dokuwiki.org/",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                },
+                {
+                    "name": "Outline",
+                    "description": "fastest wiki and knowledge base for growing teams with markdown support and clean UI.",
+                    "github": "https://github.com/outline/outline",
+                    "site": "https://www.getoutline.com/",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                },
+                {
+                    "name": "Wiki.js",
+                    "description": "lightweight and extensible wiki made with Node.js.",
+                    "github": "https://github.com/Requarks/wiki",
+                    "site": "https://wiki.js.org/",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                },
+                {
+                    "name": "Hypothes.is",
+                    "description": "web annotating system with search, storing, collaboration, sharing and integrations.",
+                    "github": "https://github.com/hypothesis/h",
+                    "site": "https://web.hypothes.is/",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                }
+            ]
+        },
+        {
+            "name": "Password manager",
+            "icon": "🔑",
+            "projects": [
+                {
+                    "name": "Bitwarden",
+                    "description": "easiest and safest way to store, share, and sync sensitive data.",
+                    "github": "https://github.com/bitwarden/server",
+                    "site": "https://bitwarden.com/",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                },
+                {
+                    "name": "LessPass",
+                    "description": "stateless password manager.",
+                    "github": "https://github.com/lesspass/lesspass",
+                    "site": "https://lesspass.com/",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                }
+            ]
+        },
+        {
+            "name": "Read it Later",
+            "icon": "🤥",
+            "projects": [
+                {
+                    "name": "Shiori",
+                    "description": "simple bookmarks manager written intended as a simple clone of Pocket.",
+                    "github": "https://github.com/go-shiori/shiori",
+                    "site": "https://github.com/go-shiori/shiori",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                },
+                {
+                    "name": "Wallabag",
+                    "description": "self hostable application for saving web pages.",
+                    "github": "",
+                    "site": "https://www.wallabag.org/en",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                },
+                {
+                    "name": "Shaark",
+                    "description": "knowledge storage for web links, notes, pictures and passwords with clean web UI.",
+                    "github": "https://github.com/MarceauKa/shaark",
+                    "site": "https://github.com/MarceauKa/shaark",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                }
+            ]
+        },
+        {
+            "name": "RSS reader",
+            "icon": "🗞",
+            "projects": [
+                {
+                    "name": "Selfoss",
+                    "description": "multipurpose rss reader, live stream, mashup, aggregation web application.",
+                    "github": "",
+                    "site": "https://selfoss.aditu.de/",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                },
+                {
+                    "name": "FreshRSS",
+                    "description": "rss aggregator with responsive UI.",
+                    "github": "https://github.com/FreshRSS/FreshRSS",
+                    "site": "https://freshrss.org/",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                },
+                {
+                    "name": "Tiny Tiny RSS",
+                    "description": "web-based news feed reader and aggregator.",
+                    "github": "",
+                    "site": "https://tt-rss.org/",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                },
+                {
+                    "name": "Miniflux",
+                    "description": "minimalist and opinionated feed reader.",
+                    "github": "",
+                    "site": "https://miniflux.app/",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                }
+            ]
+        },
+        {
+            "name": "Git server",
+            "icon": "🇫🇮",
+            "projects": [
+                {
+                    "name": "GitLab CE",
+                    "description": "turn-key git hosting solution.",
+                    "github": "",
+                    "site": "https://gitlab.com/gitlab-org/gitlab-foss",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                },
+                {
+                    "name": "Gitolight",
+                    "description": "git hosting on a server, with very fine-grained access control and many powerful features.",
+                    "github": "https://github.com/sitaramc/gitolite",
+                    "site": "https://github.com/sitaramc/gitolite",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                },
+                {
+                    "name": "Gitea",
+                    "description": "lightweight and powerful git server made with Go, so you can deploy it even on Raspberry Pi.",
+                    "github": "https://github.com/go-gitea",
+                    "site": "https://gitea.io",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                },
+                {
+                    "name": "Pagure",
+                    "description": "lightweight, powerful, and flexible git-centered forge with decentralization features.",
+                    "github": "",
+                    "site": "https://pagure.io/pagure",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                },
+                {
+                    "name": "Forgejo",
+                    "description": "lightweight, git-based software forging infrastructure with decentralised features. Base of [Codeberg](https://codeberg.org/) platform.",
+                    "github": "",
+                    "site": "https://forgejo.org/",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                }
+            ]
+        },
+        {
+            "name": "Gist/PasteBin",
+            "icon": "🗑",
+            "projects": [
+                {
+                    "name": "Privatebin",
+                    "description": "minimalist, online pastebin where the server has zero knowledge of pasted data.",
+                    "github": "https://github.com/PrivateBin/PrivateBin",
+                    "site": "https://privatebin.info/",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                },
+                {
+                    "name": "0bin",
+                    "description": "client side encrypted pastebin that can run without a database.",
+                    "github": "https://github.com/sametmax/0bin",
+                    "site": "https://0bin.net/",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                },
+                {
+                    "name": "Opengist",
+                    "description": "git-powered pastebin.",
+                    "github": "https://github.com/thomiceli/opengist",
+                    "site": "https://github.com/thomiceli/opengist",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                }
+            ]
+        },
+        {
+            "name": "Mailchimp",
+            "icon": "🐵",
+            "projects": [
+                {
+                    "name": "Listmonk",
+                    "description": "newsletter and mailing list manager with a modern dashboard.",
+                    "github": "https://github.com/knadh/listmonk",
+                    "site": "https://github.com/knadh/listmonk",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                }
+            ]
+        },
+        {
+            "name": "your own Kanban board",
+            "icon": "🥋Deploy",
+            "projects": [
+                {
+                    "name": "Wekan",
+                    "description": "collaborative Kanban board.",
+                    "github": "https://github.com/wekan/wekan",
+                    "site": "https://github.com/wekan/wekan",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                },
+                {
+                    "name": "Kanboard",
+                    "description": "project management software that focuses on the Kanban methodology.",
+                    "github": "https://github.com/kanboard/kanboard",
+                    "site": "https://kanboard.org/",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                },
+                {
+                    "name": "Taiga",
+                    "description": "project management software with a kanban board, sprints, wiki and tickets.",
+                    "github": "https://github.com/taigaio",
+                    "site": "https://taiga.io",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                },
+                {
+                    "name": "Phabricator",
+                    "description": "a collection of web apps which contains bug tracker, kanban board, wiki, chat and everything you need to build software.",
+                    "github": "https://github.com/phacility/phabricator/",
+                    "site": "https://www.phacility.com/phabricator/",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                },
+                {
+                    "name": "Planka",
+                    "description": "Kanban board which looks and feels exactly like Trello.",
+                    "github": "https://github.com/plankanban/planka",
+                    "site": "https://planka.app/",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                }
+            ]
+        },
+        {
+            "name": "GPS tracking system",
+            "icon": "🛰",
+            "projects": [
+                {
+                    "name": "OwnTracks",
+                    "description": "lightweight program for storing and accessing location data published via MQTT or HTTP by the OwnTracks apps.",
+                    "github": "https://github.com/owntracks",
+                    "site": "https://github.com/owntracks",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                },
+                {
+                    "name": "µlogger server",
+                    "description": "web application for real-time collection of geolocation data, tracks viewing and management.",
+                    "github": "https://github.com/bfabiszewski/ulogger-server",
+                    "site": "https://github.com/bfabiszewski/ulogger-server",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                }
+            ]
+        },
+        {
+            "name": "Personal finance tracker",
+            "icon": "💳",
+            "projects": [
+                {
+                    "name": "Firefly III",
+                    "description": "financial manager to help you keep track of expenses, income, budgets and everything in between.",
+                    "github": "https://github.com/firefly-iii/firefly-iii",
+                    "site": "https://www.firefly-iii.org/",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                },
+                {
+                    "name": "Ledger",
+                    "description": "plain text double-entry accounting with 3rd party UI like [Prudent](https://prudent.me/). [Entry point to plain text accounting](https://plaintextaccounting.org/)",
+                    "github": "",
+                    "site": "https://www.ledger-cli.org/",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                },
+                {
+                    "name": "Beancount",
+                    "description": "plain text double-entry accounting with 3rd party web UI like [Fava](https://github.com/beancount/fava)",
+                    "github": "https://github.com/beancount/beancount",
+                    "site": "https://github.com/beancount/beancount",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                },
+                {
+                    "name": "ezBookkeeping",
+                    "description": "a lightweight personal finance app with a user-friendly interface and powerful bookkeeping features.",
+                    "github": "https://github.com/mayswind/ezbookkeeping",
+                    "site": "https://ezbookkeeping.mayswind.net/",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                }
+            ]
+        },
+        {
+            "name": "Smart home",
+            "icon": "🏠",
+            "projects": [
+                {
+                    "name": "Home Asisstant",
+                    "description": "home automation hub which can be deployed on Raspberry Pi",
+                    "github": "https://github.com/home-assistant/core",
+                    "site": "https://www.home-assistant.io/",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                },
+                {
+                    "name": "OpenHAB",
+                    "description": "vendor-neutral,  hardware/protocol-agnostic home automation hub",
+                    "github": "https://github.com/openhab",
+                    "site": "https://www.openhab.org/",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                },
+                {
+                    "name": "Home Bridge",
+                    "description": "lightweight server that emulates the iOS HomeKit API so you can work with smart home devices that do not support the HomeKit protocol.",
+                    "github": "https://github.com/homebridge/homebridge",
+                    "site": "https://homebridge.io/",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                }
+            ]
+        },
+        {
+            "name": "IFTTT",
+            "icon": "🌀",
+            "projects": [
+                {
+                    "name": "n8n",
+                    "description": "node-based Workflow Automation Tool with visual editor.",
+                    "github": "https://github.com/n8n-io/n8n",
+                    "site": "https://n8n.io/",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                },
+                {
+                    "name": "Beehive",
+                    "description": "a flexible event/agent & automation system made with Go.",
+                    "github": "https://github.com/muesli/beehive",
+                    "site": "https://github.com/muesli/beehive",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                },
+                {
+                    "name": "Huginn",
+                    "description": "system for building agents that perform automated tasks for you online. Written in Ruby.",
+                    "github": "https://github.com/huginn/huginn",
+                    "site": "https://github.com/huginn/huginn",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                },
+                {
+                    "name": "Kibitzr",
+                    "description": "tiny server to notify about (almost) anything in the web.",
+                    "github": "https://github.com/kibitzr/kibitzr",
+                    "site": "https://kibitzr.github.io/",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                }
+            ]
+        },
+        {
+            "name": "Google Authenticator (2FA, OTP)",
+            "icon": "🔐",
+            "projects": [
+                {
+                    "name": "2FAuth",
+                    "description": "a web app to manage your Two-Factor Authentication.",
+                    "github": "https://github.com/Bubka/2FAuth",
+                    "site": "https://demo.2fauth.app/login",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                }
+            ]
+        },
+        {
+            "name": "Twitch",
+            "icon": "🎙",
+            "projects": [
+                {
+                    "name": "Lightspeed",
+                    "description": "a self-contained OBS → FTL → WebRTC live streaming server.",
+                    "github": "https://github.com/GRVYDEV/Project-Lightspeed",
+                    "site": "https://github.com/GRVYDEV/Project-Lightspeed",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                }
+            ]
+        },
+        {
+            "name": "Container Management System",
+            "icon": "🐳",
+            "projects": [
+                {
+                    "name": "Portainer",
+                    "description": "container management tool. It allows anyone to deploy and manage containers without the need to write code.",
+                    "github": "https://github.com/portainer/portainer",
+                    "site": "https://www.portainer.io/",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                },
+                {
+                    "name": "Yacht",
+                    "description": "a web interface for managing docker containers with an emphasis on templating to provide 1 click deployments.",
+                    "github": "https://github.com/SelfhostedPro/Yacht",
+                    "site": "https://github.com/SelfhostedPro/Yacht",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                },
+                {
+                    "name": "Pterodactyl",
+                    "description": "game server management panel. It runs game servers in isolated containers while exposing a beautiful web UI to the users.",
+                    "github": "https://github.com/pterodactyl/panel",
+                    "site": "https://pterodactyl.io",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                },
+                {
+                    "name": "Umbrel",
+                    "description": "either a docker image or OS that provides you with the most beautiful web interface to manage containerized web services.",
+                    "github": "https://github.com/getumbrel/umbrel",
+                    "site": "https://umbrel.com/",
+                    "stars": 0,
+                    "alive": "",
+                    "archived": false
+                }
+            ]
+        }
+    ]
+}
