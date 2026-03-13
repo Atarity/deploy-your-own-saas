@@ -8,8 +8,8 @@ def format_relative_time(pushed_at_str):
     try:
         # GitHub uses UTC 'Z' or offset
         pushed_at = datetime.fromisoformat(pushed_at_str.replace('Z', '+00:00'))
-        # Current time context from user: 2026-03-13T20:29:20+02:00
-        now = datetime(2026, 3, 13, 20, 29, 20, tzinfo=timezone.utc)
+        # Current time
+        now = datetime.now(timezone.utc)
 
         diff = now - pushed_at
         seconds = diff.total_seconds()
@@ -67,7 +67,7 @@ def main():
         group_name = group.get("name", "Unknown")
         icon = group.get("icon", "")
         lines.append("")
-        lines.append(f"## {icon} Deploy your own `{group_name}`")
+        lines.append(f"### {icon} Deploy your own `{group_name}`")
 
         # Table Header
         lines.append("")

@@ -67,7 +67,7 @@ def main():
         print("GITHUB_ACCESS_TOKEN not found in environment or .env file.")
         return
 
-    db_path = "/Users/atarity/GitHub/deploy-your-own-saas/dyos-db.json"
+    db_path = "dyos-db.json"
 
     try:
         with open(db_path, "r", encoding="utf-8") as f:
