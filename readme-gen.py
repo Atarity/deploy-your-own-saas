@@ -66,7 +66,7 @@ def main():
     for group in db.get("groups", []):
         group_name = group.get("name", "Unknown")
         icon = group.get("icon", "")
-        lines.append("")
+        lines.append(f"&nbsp;")
         lines.append(f"### {icon} Deploy your own `{group_name}`")
 
         # Table Header

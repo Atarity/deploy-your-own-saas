@@ -31,7 +31,7 @@ jobs:
       - name: Commit and push changes
         run: |
           git config --global user.email "actions@users.noreply.github.com"
-          git config --global user.name "Github Actions Maintenance"
+          git config --global user.name "Maintenance"
           git add dyos-db.json README.md
-          git commit -m "Update Stars and Activity Stats [skip ci]" || echo "No changes to commit"
+          git commit -m "Update stars and activity stats [skip ci]" || echo "No changes to commit"
           git push

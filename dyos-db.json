@@ -552,7 +552,7 @@
                 },
                 {
                     "name": "Shlink",
-                    "description": "URL shortener with neat UI, API and analytics. .",
+                    "description": "URL shortener with neat UI, API and analytics.",
                     "github": "https://github.com/shlinkio/shlink",
                     "site": "https://shlink.io",
                     "stars": 4739,
@@ -1754,23 +1754,6 @@
                     "pushed_at": "2026-03-12T20:34:45Z",
                     "archived": false,
                     "etag": "b696dec752aa200e6f0228fd62d6a98fc294eb73824458cd9d79f1e10033eb31",
-                    "error": null
-                }
-            ]
-        },
-        {
-            "name": "Twitch",
-            "icon": "🎙",
-            "projects": [
-                {
-                    "name": "Lightspeed",
-                    "description": "A self-contained OBS → FTL → WebRTC live streaming server.",
-                    "github": "https://github.com/GRVYDEV/Project-Lightspeed",
-                    "site": "https://github.com/GRVYDEV/Project-Lightspeed",
-                    "stars": 3666,
-                    "pushed_at": "2023-04-03T16:49:03Z",
-                    "archived": false,
-                    "etag": "de38f97e787071d5b90e5299304e536c8ac92bb29f98be3f7853b4c13d48400a",
                     "error": null
                 }
             ]
