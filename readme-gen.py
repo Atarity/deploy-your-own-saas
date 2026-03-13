@@ -3,13 +3,13 @@ from datetime import datetime, timezone
 
 def format_relative_time(pushed_at_str):
     if not pushed_at_str:
-        return None, None
+        return "", ""
 
     try:
         # GitHub uses UTC 'Z' or offset
         pushed_at = datetime.fromisoformat(pushed_at_str.replace('Z', '+00:00'))
-        # Current time context from user
-        now = datetime(2026, 3, 13, 16, 30, 29, tzinfo=timezone.utc)
+        # Current time context from user: 2026-03-13T20:29:20+02:00
+        now = datetime(2026, 3, 13, 20, 29, 20, tzinfo=timezone.utc)
 
         diff = now - pushed_at
         seconds = diff.total_seconds()
@@ -24,7 +24,7 @@ def format_relative_time(pushed_at_str):
         years = days / 365.25
 
         # Determine status color
-        if days < 30:
+        if days < 31:
             status = "🟢"
         elif days < 365:
             status = "🟠"
@@ -45,7 +45,7 @@ def format_relative_time(pushed_at_str):
 
         return text, status
     except Exception:
-        return None, None
+        return "", ""
 
 def main():
     db_path = "dyos-db.json"
@@ -57,17 +57,22 @@ def main():
     except FileNotFoundError:
         print(f"Error: {db_path} not found.")
         return
+
     # Header
     lines = []
-    lines.append("**[[Submit product or tutorial](https://github.com/Atarity/deploy-your-own-saas/issues/new?assignees=&labels=&template=submit-new-product.md)]** or make it thru PR.")
-    lines.append("")
     lines.append("![Scryer](/scryer.jpg)")
     lines.append("")
 
     for group in db.get("groups", []):
         group_name = group.get("name", "Unknown")
         icon = group.get("icon", "")
-        lines.append(f"### {icon} Deploy your own `{group_name}`")
+        lines.append("")
+        lines.append(f"## {icon} Deploy your own `{group_name}`")
+
+        # Table Header
+        lines.append("")
+        lines.append("| Name | Description | ⭐️ | Updated |")
+        lines.append("| :--- | :--- | :---: | :--- |")
 
         # Sort projects by stars count descending
         projects = group.get("projects", [])
@@ -84,37 +89,32 @@ def main():
             # Primary Link: GitHub priority, then Site
             primary_link = github if github else site
 
-            # Format enrichment stats: [⭐️ stars, status time]
-            stats_content = []
-            if stars > 0:
-                stats_content.append(f"⭐️ {stars}") # No comma delimiters
-
             rel_time, status = format_relative_time(pushed_at)
-            if rel_time:
-                stats_content.append(f"{status} {rel_time}")
 
-            stats_str = f" [{', '.join(stats_content)}]" if stats_content else ""
+            # Table Row
+            stars_val = str(stars) if stars > 0 else "n/a"
+            updated_val = f"{status} {rel_time}".strip() if rel_time else "n/a"
 
-            # Final line format: - [Name](Link) [Stats] — Description
-            line = f"- [{name}]({primary_link}){stats_str} — {description}"
-            lines.append(line)
+            # Clean up description to ensure it doesn't break table (remove newlines if any)
+            description = description.replace("\n", " ")
+
+            lines.append(f"| [{name}]({primary_link}) | {description} | {stars_val} | {updated_val} |")
 
         lines.append("")
-    #   Footer
+
+    # Footer
     lines.append("----")
     lines.append("")
     lines.append("Worth to check:")
     lines.append("- https://www.reddit.com/r/selfhosted/")
-    lines.append("- https://geek-cookbook.funkypenguin.co.nz/")
     lines.append("- https://github.com/sovereign/sovereign")
-    lines.append("- https://roll.urown.net/about.html")
     lines.append("")
     lines.append("Cover mashup based on [KADA★BURA](https://www.kadaburadraws.com/pixel-art#/text-rpg/) art.")
 
     with open(output_path, "w", encoding="utf-8") as f:
         f.write("\n".join(lines) + "\n")
 
-    print(f"Successfully generated {output_path} .")
+    print(f"Successfully generated {output_path} with table layout.")
 
 if __name__ == "__main__":
     main()
