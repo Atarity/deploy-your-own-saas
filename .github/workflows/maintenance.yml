@@ -8,7 +8,7 @@ on:
   workflow_dispatch:
 
 env:
-  GITHUB_ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+  GH_ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
 
 jobs:
   maintenance:

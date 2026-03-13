@@ -57,15 +57,15 @@ def load_env():
     if os.path.exists(env_path):
         with open(env_path, "r") as f:
             for line in f:
-                if line.startswith("GITHUB_ACCESS_TOKEN="):
+                if line.startswith("GH_ACCESS_TOKEN="):
                     return line.strip().split("=", 1)[1]
     return None
 
 def main():
-    token = os.environ.get("GITHUB_ACCESS_TOKEN") or load_env()
+    token = os.environ.get("GH_ACCESS_TOKEN") or load_env()
     if not token:
-        print("GITHUB_ACCESS_TOKEN not found in environment or .env file.")
-        return
+        print("Error: GH_ACCESS_TOKEN not found in environment or .env file.")
+        exit(1)
 
     db_path = "dyos-db.json"
 
