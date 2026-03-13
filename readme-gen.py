@@ -1,20 +1,51 @@
 import json
+from datetime import datetime, timezone
 
-def get_source_label(url):
-    if not url:
-        return None
-    url_lower = url.lower()
-    if 'github.com' in url_lower:
-        return 'GitHub'
-    if 'gitlab.com' in url_lower or 'dev.funkwhale.audio' in url_lower:
-        return 'GitLab'
-    if 'codeberg.org' in url_lower:
-        return 'Codeberg'
-    if 'bitbucket.org' in url_lower:
-        return 'Bitbucket'
-    if 'pagure.io' in url_lower:
-        return 'Pagure'
-    return 'Source'
+def format_relative_time(pushed_at_str):
+    if not pushed_at_str:
+        return None, None
+
+    try:
+        # GitHub uses UTC 'Z' or offset
+        pushed_at = datetime.fromisoformat(pushed_at_str.replace('Z', '+00:00'))
+        # Current time context from user
+        now = datetime(2026, 3, 13, 16, 30, 29, tzinfo=timezone.utc)
+
+        diff = now - pushed_at
+        seconds = diff.total_seconds()
+
+        if seconds < 0:
+            return "just now", "🟢"
+
+        minutes = seconds / 60
+        hours = minutes / 60
+        days = hours / 24
+        months = days / 30.44
+        years = days / 365.25
+
+        # Determine status color
+        if days < 30:
+            status = "🟢"
+        elif days < 365:
+            status = "🟠"
+        else:
+            status = "🔴"
+
+        # Determine relative text
+        if hours < 1:
+            text = f"{int(minutes)}m"
+        elif days < 1:
+            text = f"{int(hours)}h"
+        elif months < 1:
+            text = f"{int(days)}d"
+        elif years < 1:
+            text = f"{int(months)}mo"
+        else:
+            text = f"{int(years)}y"
+
+        return text, status
+    except Exception:
+        return None, None
 
 def main():
     db_path = "dyos-db.json"
@@ -26,47 +57,50 @@ def main():
     except FileNotFoundError:
         print(f"Error: {db_path} not found.")
         return
-
-    lines = []
     # Header
+    lines = []
     lines.append("**[[Submit product or tutorial](https://github.com/Atarity/deploy-your-own-saas/issues/new?assignees=&labels=&template=submit-new-product.md)]** or make it thru PR.")
     lines.append("")
     lines.append("![Scryer](/scryer.jpg)")
     lines.append("")
 
-    # Groups
     for group in db.get("groups", []):
         group_name = group.get("name", "Unknown")
         icon = group.get("icon", "")
         lines.append(f"### {icon} Deploy your own `{group_name}`")
 
-        for project in group.get("projects", []):
+        # Sort projects by stars count descending
+        projects = group.get("projects", [])
+        projects.sort(key=lambda x: x.get("stars", 0), reverse=True)
+
+        for project in projects:
             name = project.get("name", "Unnamed")
             description = project.get("description", "")
-            site = project.get("site", "")
             github = project.get("github", "")
+            site = project.get("site", "")
+            stars = project.get("stars", 0)
+            pushed_at = project.get("pushed_at", "")
 
-            # Use site if available, else github
-            primary_link = site if site else github
-            
-            # Format project line
-            # Ensure there is a space between name link and description dash
-            line = f"- [{name}]({primary_link}) — {description}"
+            # Primary Link: GitHub priority, then Site
+            primary_link = github if github else site
 
-            # Link normalization for comparison
-            site_norm = site.rstrip('/') if site else ""
-            github_norm = github.rstrip('/') if github else ""
+            # Format enrichment stats: [⭐️ stars, status time]
+            stats_content = []
+            if stars > 0:
+                stats_content.append(f"⭐️ {stars}") # No comma delimiters
 
-            if github_norm and site_norm != github_norm:
-                label = get_source_label(github)
-                # Append source link at the end
-                line += f" [({label})]({github})"
-            
+            rel_time, status = format_relative_time(pushed_at)
+            if rel_time:
+                stats_content.append(f"{status} {rel_time}")
+
+            stats_str = f" [{', '.join(stats_content)}]" if stats_content else ""
+
+            # Final line format: - [Name](Link) [Stats] — Description
+            line = f"- [{name}]({primary_link}){stats_str} — {description}"
             lines.append(line)
-        
-        lines.append("") # Spacer between groups
 
-    # Footer
+        lines.append("")
+    #   Footer
     lines.append("----")
     lines.append("")
     lines.append("Worth to check:")
@@ -80,7 +114,7 @@ def main():
     with open(output_path, "w", encoding="utf-8") as f:
         f.write("\n".join(lines) + "\n")
 
-    print(f"Successfully generated {output_path}")
+    print(f"Successfully generated {output_path} .")
 
 if __name__ == "__main__":
     main()
