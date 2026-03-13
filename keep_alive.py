@@ -78,6 +78,7 @@ def main():
 
     updated_count = 0
     not_modified_count = 0
+    non_github_count = 0
     archived_count = 0
     total_in_db = 0
 
@@ -88,31 +89,37 @@ def main():
                 archived_count += 1
                 continue
             github_url = project.get("github")
-            if github_url:
-                current_etag = project.get("etag")
-                info = get_github_repo_info(github_url, token, current_etag)
+            if not github_url:
+                non_github_count += 1
+                continue
 
-                if info:
-                    if info["status"] == "ok":
-                        project["stars"] = info["stars"]
-                        project["pushed_at"] = info["pushed_at"]
-                        if info["site"]:
-                            project["site"] = info["site"]
-                        project["etag"] = info["etag"]
-                        project["error"] = None
-                        updated_count += 1
-                        print(f"Updated: {project['name']}")
-                    elif info["status"] == "not_modified":
-                        not_modified_count += 1
-                        project["error"] = None
-                        # print(f"Not modified: {project['name']}")
-                    elif info["status"] == "error":
-                        project["error"] = info["message"]
+            current_etag = project.get("etag")
+            info = get_github_repo_info(github_url, token, current_etag)
+
+            if not info:
+                non_github_count += 1
+                continue
+
+            if info["status"] == "ok":
+                project["stars"] = info["stars"]
+                project["pushed_at"] = info["pushed_at"]
+                if info["site"]:
+                    project["site"] = info["site"]
+                project["etag"] = info["etag"]
+                project["error"] = None
+                updated_count += 1
+                print(f"Updated: {project['name']}")
+            elif info["status"] == "not_modified":
+                not_modified_count += 1
+                project["error"] = None
+                # print(f"Not modified: {project['name']}")
+            elif info["status"] == "error":
+                project["error"] = info["message"]
 
     with open(db_path, "w", encoding="utf-8") as f:
         json.dump(db, f, indent=4, ensure_ascii=False)
 
-    print(f"Done. Updated: {updated_count}, Not modified: {not_modified_count}, Archived: {archived_count}, Total in DB: {total_in_db}")
+    print(f"Done. Updated: {updated_count}, Not modified: {not_modified_count}, Non-GitHub: {non_github_count}, Archived: {archived_count}, Total in DB: {total_in_db}")
 
 if __name__ == "__main__":
     main()
