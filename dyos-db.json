@@ -10,9 +10,9 @@
                     "github": "https://github.com/OpenVPN/openvpn",
                     "site": "http://community.openvpn.net",
                     "stars": 13359,
-                    "pushed_at": "2026-03-13T17:41:22Z",
+                    "pushed_at": "2026-03-13T19:10:23Z",
                     "archived": false,
-                    "etag": "efdea58ed4d6571bb73e638a2e940f96ad70061b313d8a81ef94497b37559503",
+                    "etag": "a56d0ad1eee1120fa764920d59faa4b041e97f4d85a088d7466ebbc900894910",
                     "error": null
                 },
                 {
@@ -147,10 +147,10 @@
                     "description": "High performance photo and video solution with familiar UI.",
                     "github": "https://github.com/immich-app/immich",
                     "site": "https://immich.app",
-                    "stars": 94650,
+                    "stars": 94654,
                     "pushed_at": "2026-03-13T15:37:16Z",
                     "archived": false,
-                    "etag": "e32433c3a3d104083ba4f493d9632d4def6fb652fc7b98be710bfc8dd7fa8eb9",
+                    "etag": "b39cb89cc42c91cd7adc514197e999315f03560b17ec1da6c61968785af732dc",
                     "error": null
                 },
                 {
@@ -320,9 +320,9 @@
                     "github": "https://github.com/jellyfin/jellyfin",
                     "site": "https://jellyfin.org",
                     "stars": 49293,
-                    "pushed_at": "2026-03-13T18:43:47Z",
+                    "pushed_at": "2026-03-13T19:33:11Z",
                     "archived": false,
-                    "etag": "ddf6c9bb58d05d8f15f779e45ea9a0aa7807c9f84547a2612085b1e6df8fa1fc",
+                    "etag": "b58e48f83c2af2954c0472a57ecbf0723d753f4de92c226eb2308654eada08ae",
                     "error": null
                 }
             ]
@@ -391,10 +391,10 @@
                     "description": "Memo hub with knowledge management and socialization.",
                     "github": "https://github.com/usememos/memos",
                     "site": "https://usememos.com",
-                    "stars": 57834,
+                    "stars": 57835,
                     "pushed_at": "2026-03-13T10:15:54Z",
                     "archived": false,
-                    "etag": "59ce50da67dc54720f88837ff3a19bc01596bec36a7be2c2a609b74aedcf1b53",
+                    "etag": "88009558b134a939798f106ea03900e83ce0423bfe8583e58d19ed27622c5482",
                     "error": null
                 }
             ]
@@ -499,7 +499,7 @@
                     "stars": 24066,
                     "pushed_at": "2026-03-12T09:27:49Z",
                     "archived": false,
-                    "etag": "954e80d5c865a024771915de3a55877bbe4b83284b23e791adccaf517dd9182a",
+                    "etag": "b0bf0588bac0f4a0fcff51a8dd58771c2e769d50c7b5331c37ecae30148f2937",
                     "error": null
                 },
                 {
@@ -525,7 +525,7 @@
                     "stars": 11921,
                     "pushed_at": "2026-03-09T13:57:04Z",
                     "archived": false,
-                    "etag": "d00feef1e07555d5163d62c2f3e2f65137eafe1045624d03337f4d0f8f5b497a",
+                    "etag": "ca57571e18de82bb43f0ddd57c5e5f95943498d4a0b58675bddc4cc9b9c37ec4",
                     "error": null
                 },
                 {
@@ -547,7 +547,7 @@
                     "stars": 127,
                     "pushed_at": "2021-04-11T09:26:30Z",
                     "archived": false,
-                    "etag": "295d142f0cb0d015e38b015fb063794d0605b718dc7c04263086d4c264c9baa7",
+                    "etag": "982fa825a0d780bbd4914ecd61b11b2ce4d399c5fa4c587c8e8a347ad3ce1350",
                     "error": null
                 },
                 {
@@ -636,7 +636,7 @@
                     "stars": 80786,
                     "pushed_at": "2026-03-13T14:08:03Z",
                     "archived": false,
-                    "etag": "9ae14a17777db4a0758441a373fdfcc51f4f0bea98edbe2801d959b14fc82858",
+                    "etag": "f7b4b45c8e4e09a7a7d4089c0921a8091451643cbb8e72236bcb19fcf7a664f2",
                     "error": null
                 },
                 {
@@ -644,10 +644,10 @@
                     "description": "Object storage server compatible with Amazon S3 APIs.",
                     "github": "https://github.com/minio/minio",
                     "site": "https://github.com/minio/minio",
-                    "stars": 60475,
+                    "stars": 60476,
                     "pushed_at": "2026-02-12T20:18:51Z",
                     "archived": false,
-                    "etag": "bd2aa2d1b0c51d05eddc0080ea5805c1f67ac30377bfacbe61d7e61cfa4612ca",
+                    "etag": "8dd8ee535c1618de2848c08bf2da3e240de7727c26c48d4134c8c725cc40a3b1",
                     "error": null
                 },
                 {
@@ -666,10 +666,10 @@
                     "description": "Easily turn popular backends like SFTP, S3, GitHub etc into web-based file manager",
                     "github": "https://github.com/mickael-kerjean/filestash",
                     "site": "https://www.filestash.app/",
-                    "stars": 13868,
+                    "stars": 13869,
                     "pushed_at": "2026-03-11T03:19:44Z",
                     "archived": false,
-                    "etag": "fb8f78e08056072584e353d2c847ad6a5427c17b1c297e96a596c835e987364f",
+                    "etag": "b82b6668b34beb1a64060a4f20cfdd19e12d2cbdc7268b6412c8abcea86f5376",
                     "error": null
                 }
             ]
@@ -711,10 +711,10 @@
                     "description": "Network-wide DNS resolver with encryption for blocking ads & tracking.",
                     "github": "https://github.com/AdguardTeam/AdGuardHome",
                     "site": "https://adguard.com/adguard-home/overview.html",
-                    "stars": 33037,
+                    "stars": 33038,
                     "pushed_at": "2026-03-13T15:22:42Z",
                     "archived": false,
-                    "etag": "b078f8671a1ab7742541b1f2d823c5729042855d79e330e73d6e78d97529c464",
+                    "etag": "ad22718ec885f965f480f198dab0118cad0806360d907971ab811b4233604ea0",
                     "error": null
                 }
             ]
@@ -832,9 +832,9 @@
                     "github": "https://github.com/RocketChat/Rocket.Chat",
                     "site": "https://rocket.chat/",
                     "stars": 44873,
-                    "pushed_at": "2026-03-13T19:07:48Z",
+                    "pushed_at": "2026-03-13T19:35:00Z",
                     "archived": false,
-                    "etag": "4e7618baac34dabcf4325ecce525eb50afa95222d66c57f44017c08a0802ce4a",
+                    "etag": "ab816b46e8a5bcc3c121464b5cb5aa638e4d9bf895a0a3bb67253c612e295464",
                     "error": null
                 },
                 {
@@ -843,9 +843,9 @@
                     "github": "https://github.com/mattermost/mattermost-server",
                     "site": "https://mattermost.com",
                     "stars": 35802,
-                    "pushed_at": "2026-03-13T19:07:42Z",
+                    "pushed_at": "2026-03-13T19:25:05Z",
                     "archived": false,
-                    "etag": "030a8d371af384cafbf27ba09fb919911c610e4b8b4cd75d7bd6dcb5e85e2f75",
+                    "etag": "eb7ed26cb9a001544dd0975bf14dc4992b6b3f6f71a234cc603319819a420a20",
                     "error": null
                 },
                 {
@@ -880,9 +880,9 @@
                     "github": "https://github.com/jitsi/jitsi-meet",
                     "site": "https://jitsi.org/meet",
                     "stars": 28800,
-                    "pushed_at": "2026-03-13T18:49:18Z",
+                    "pushed_at": "2026-03-13T19:32:08Z",
                     "archived": false,
-                    "etag": "f02944e1d93783650bc7ca045213edb5169f3ef68ee7a3dbef4414582bce1779",
+                    "etag": "e238f1ecd261fc08904abb198792b963335b2f06396b981f115d0297ca0242ce",
                     "error": null
                 },
                 {
@@ -918,10 +918,10 @@
                     "description": "Static site generators with amazing speed.",
                     "github": "https://github.com/gohugoio/hugo",
                     "site": "https://gohugo.io",
-                    "stars": 87063,
-                    "pushed_at": "2026-03-13T15:28:37Z",
+                    "stars": 87064,
+                    "pushed_at": "2026-03-13T19:24:33Z",
                     "archived": false,
-                    "etag": "2e64c7365caca8bf8394a0350622181f8d86a19712991ee2e70b1733ff388d3d",
+                    "etag": "88ba81c7c61fdbe4464b7a6f7f906358aeeeeb851cef4664276f7b0923f7cbc2",
                     "error": null
                 },
                 {
@@ -930,9 +930,9 @@
                     "github": "https://github.com/TryGhost/Ghost",
                     "site": "https://ghost.org",
                     "stars": 52031,
-                    "pushed_at": "2026-03-13T18:51:14Z",
+                    "pushed_at": "2026-03-13T19:25:13Z",
                     "archived": false,
-                    "etag": "945601d40e9cc9bee813e54fdfaf44e4a3edee656b78704d5ad174c51b2de21d",
+                    "etag": "b3fe5733342bc76fe7649b4982c8510f01bca5e85170b6308ca0f55343abcce8",
                     "error": null
                 },
                 {
@@ -941,9 +941,9 @@
                     "github": "https://github.com/gatsbyjs/gatsby",
                     "site": "https://www.gatsbyjs.com",
                     "stars": 55944,
-                    "pushed_at": "2026-03-13T18:30:53Z",
+                    "pushed_at": "2026-03-13T19:26:41Z",
                     "archived": false,
-                    "etag": "a6168133739126f71604d4fd0b5b4a29fe817e544f59ffe08cafad502ebbc483",
+                    "etag": "cfa05d05dc751ecabd11012e26e7a19479dea84db8d6bc41dd132f7b7440c69f",
                     "error": null
                 }
             ]
@@ -1018,10 +1018,10 @@
                     "description": "Real-time web log analyzer and interactive viewer that runs in a terminal or through browser.",
                     "github": "https://github.com/allinurl/goaccess",
                     "site": "https://goaccess.io",
-                    "stars": 20333,
+                    "stars": 20334,
                     "pushed_at": "2026-03-04T00:30:22Z",
                     "archived": false,
-                    "etag": "8ced42706d6c05c93d8d85858a8bbb60a45500453f463738f1691a7bfcade4c8",
+                    "etag": "454056fd31a33f3982bc69d3f3768965d1591239c279e3be4d4e12b3d3930295",
                     "error": null
                 },
                 {
@@ -1255,10 +1255,10 @@
                     "description": "Fastest wiki and knowledge base for growing teams with markdown support and clean UI.",
                     "github": "https://github.com/outline/outline",
                     "site": "https://www.getoutline.com",
-                    "stars": 37584,
+                    "stars": 37586,
                     "pushed_at": "2026-03-13T18:07:07Z",
                     "archived": false,
-                    "etag": "e0ea082d5bee3b75cbd263c8ccf30733091aec8d14f271dc44ee84a1429d6b15",
+                    "etag": "17a5f5a1e6c6cb5f12660980897bb958615c2ec01039f2f2a8bbd23c1adf556e",
                     "error": null
                 },
                 {
@@ -1295,9 +1295,9 @@
                     "github": "https://github.com/bitwarden/server",
                     "site": "https://bitwarden.com",
                     "stars": 18256,
-                    "pushed_at": "2026-03-13T19:06:12Z",
+                    "pushed_at": "2026-03-13T19:34:38Z",
                     "archived": false,
-                    "etag": "43803afa71ff64b20c1f6eb75d6263b74bedf7c7f0f81cd3655171f39584bd5c",
+                    "etag": "1ea70222581e45c8ffcbe88f94df39dd7f9fbfe00d486f72dfa16cf4b2a5db4e",
                     "error": null
                 },
                 {
@@ -1394,10 +1394,10 @@
                     "description": "Minimalist and opinionated feed reader.",
                     "github": "https://github.com/miniflux/v2",
                     "site": "https://miniflux.app",
-                    "stars": 8887,
+                    "stars": 8888,
                     "pushed_at": "2026-03-12T22:32:27Z",
                     "archived": false,
-                    "etag": "a11c9ee5e48c4fe0b35401ce146a6a76a145ee2a2a65c150c3fd3a8feba08f12",
+                    "etag": "78ed669fbda6542bfca2430e96f289ebf711d5cbee8c8c9c40f82e6f515747d7",
                     "error": null
                 }
             ]
@@ -1433,10 +1433,10 @@
                     "description": "Lightweight and powerful git server made with Go, so you can deploy it even on Raspberry Pi.",
                     "github": "https://github.com/go-gitea/gitea",
                     "site": "https://gitea.com",
-                    "stars": 54272,
+                    "stars": 54273,
                     "pushed_at": "2026-03-13T18:02:44Z",
                     "archived": false,
-                    "etag": "0588af1568f75b6242a610779519e3093bd53374be755c270b47825cbae7048b",
+                    "etag": "08ffe8bb2cda6c3c06ece0df3d2fecd88fa8c37a4a6ae133a16eee127a0d8e32",
                     "error": null
                 },
                 {
@@ -1614,9 +1614,9 @@
                     "github": "https://github.com/firefly-iii/firefly-iii",
                     "site": "https://firefly-iii.org/",
                     "stars": 22656,
-                    "pushed_at": "2026-03-13T18:49:59Z",
+                    "pushed_at": "2026-03-13T19:35:41Z",
                     "archived": false,
-                    "etag": "0e7f4de8569e74d844ef5fc7869b6752b9f0c4d504cd2727bc4f62794dcb8424",
+                    "etag": "53176a8991e22fe242e00f42c88bb7ce50be68fa336d46e5c0c7bde091200414",
                     "error": null
                 },
                 {
@@ -1663,10 +1663,10 @@
                     "description": "Home automation hub which can be deployed on Raspberry Pi",
                     "github": "https://github.com/home-assistant/core",
                     "site": "https://www.home-assistant.io",
-                    "stars": 85313,
-                    "pushed_at": "2026-03-13T18:57:57Z",
+                    "stars": 85314,
+                    "pushed_at": "2026-03-13T19:26:44Z",
                     "archived": false,
-                    "etag": "bfdad1e6bc728d5b1e28e2c1a683d4f4834522a2aca5de42aa4017d9372b1be4",
+                    "etag": "6dca35c1e7854d6c80d53937257e10c89d477dfe9aa7dd96f2fb7b2857e75292",
                     "error": null
                 },
                 {
@@ -1700,10 +1700,10 @@
                     "description": "Node-based Workflow Automation Tool with visual editor.",
                     "github": "https://github.com/n8n-io/n8n",
                     "site": "https://n8n.io",
-                    "stars": 178970,
+                    "stars": 178978,
                     "pushed_at": "2026-03-13T18:35:30Z",
                     "archived": false,
-                    "etag": "f814acada40447a60415e9acdbe0c955f763bb0f8f7faaffeef22138fd27c862",
+                    "etag": "e329f79c30483be000b9eab29e38f8878096aa11081c4e86d7182415b287583a",
                     "error": null
                 },
                 {
@@ -1722,10 +1722,10 @@
                     "description": "System for building agents that perform automated tasks for you online. Written in Ruby.",
                     "github": "https://github.com/huginn/huginn",
                     "site": "https://github.com/huginn/huginn",
-                    "stars": 48864,
+                    "stars": 48865,
                     "pushed_at": "2026-03-13T15:33:04Z",
                     "archived": false,
-                    "etag": "b8c5773339171cc8dde8c34c3edb5e79536c754fabfaac0a1d01111bac49ef94",
+                    "etag": "f1eb45b0104c1c6ea0fb3bbe601506bc3223f5fcdbd21208a8bcbdf4f051eef6",
                     "error": null
                 },
                 {
