@@ -15,7 +15,7 @@
 
 | Name | Description | ⭐️ | Updated |
 | :--- | :--- | :---: | :--- |
-| [Koel](https://github.com/phanan/koel) | Simple web-based personal audio streaming service. | 17088 | 🟢 3h |
+| [Koel](https://github.com/phanan/koel) | Simple web-based personal audio streaming service. | 17088 | 🟢 4h |
 | [Audiobookshelf](https://github.com/advplyr/audiobookshelf) | Audiobook and podcast server. | 12031 | 🟢 20h |
 | [Mopidy](https://github.com/mopidy/mopidy) | Extensible music server. | 8470 | 🟢 9h |
 | [Black Candy](https://github.com/blackcandy-org/blackcandy) | Music streaming server with web UI and iOS/Android apps. | 4164 | 🟢 4d |
@@ -61,14 +61,14 @@
 
 | Name | Description | ⭐️ | Updated |
 | :--- | :--- | :---: | :--- |
-| [Jellyfin](https://github.com/jellyfin/jellyfin) | Media system that puts you in control of managing and streaming your media. | 49293 | 🟢 25m |
+| [Jellyfin](https://github.com/jellyfin/jellyfin) | Media system that puts you in control of managing and streaming your media. | 49293 | 🟢 33m |
 
 
 ### 📝 Deploy your own `Notes`
 
 | Name | Description | ⭐️ | Updated |
 | :--- | :--- | :---: | :--- |
-| [Memos](https://github.com/usememos/memos) | Memo hub with knowledge management and socialization. | 57834 | 🟢 8h |
+| [Memos](https://github.com/usememos/memos) | Memo hub with knowledge management and socialization. | 57834 | 🟢 9h |
 | [Leanote](https://github.com/leanote/leanote) | Your own Evernote. | 11716 | 🔴 2y |
 | [CodiMD](https://github.com/hackmdio/codimd) | Realtime collaborative markdown notes. | 10008 | 🟠 5mo |
 | [Standard Notes](https://github.com/standardnotes/app) | Clean and simple web app with E2E encryption, extensions and clients. [How to self-host tutorial](https://theselfhostingblog.com/posts/how-to-completely-self-host-standard-notes/) | 6342 | 🟢 7d |
@@ -144,7 +144,7 @@
 | :--- | :--- | :---: | :--- |
 | [Postal](https://github.com/postalhq/postal) | A fully featured mail server with web UI. | 16395 | 🟢 17d |
 | [Mail-in-a-Box](https://github.com/mail-in-a-box/mailinabox) | Another mail server suite based on Postfix, Dovecot, Z-Push, Roundcube, Nextcloud, Apache SpamAssassin, Postgrey, Nginx. | 15221 | 🟠 1mo |
-| [Mailcow](https://github.com/mailcow/mailcow-dockerized) | Dockerized mail server suite based on Postfix, Dovecot, Nginx, PHP, MariaDB, Rspamd and more. | 12351 | 🟢 5h |
+| [Mailcow](https://github.com/mailcow/mailcow-dockerized) | Dockerized mail server suite based on Postfix, Dovecot, Nginx, PHP, MariaDB, Rspamd and more. | 12351 | 🟢 6h |
 | [Mailu](https://github.com/Mailu/Mailu) | Dockerized, secured mail suite which is easy to install and maintain. | 7101 | 🟢 2d |
 | [Roundcube](https://github.com/roundcube/roundcubemail) | Browser-based IMAP client with an application-like user interface. | 6843 | 🟢 1d |
 | [Maddy](https://github.com/foxcpp/maddy) | A composable all-in-one mail server written in Golang. | 5886 | 🟢 4d |
@@ -155,8 +155,8 @@
 
 | Name | Description | ⭐️ | Updated |
 | :--- | :--- | :---: | :--- |
-| [Rocket Chat](https://github.com/RocketChat/Rocket.Chat) | WebChat platform. | 44873 | 🟢 1m |
-| [Mattermost](https://github.com/mattermost/mattermost-server) | Private cloud, Slack-alternative. | 35802 | 🟢 1m |
+| [Rocket Chat](https://github.com/RocketChat/Rocket.Chat) | WebChat platform. | 44873 | 🟢 9m |
+| [Mattermost](https://github.com/mattermost/mattermost-server) | Private cloud, Slack-alternative. | 35802 | 🟢 9m |
 | [Zulip](https://github.com/zulip/zulip) | Team chat which combined the immediacy of real-time chat with an email threading model. | 24846 | 🟢 18h |
 | [Mumble](https://github.com/mumble-voip/mumble) | Low-latency, high quality **voice chat** for gaming. | 7823 | 🟢 8h |
 | [Prosody IM](https://prosody.im/) | Modern XMPP communication server. | n/a | n/a |
@@ -167,7 +167,7 @@
 
 | Name | Description | ⭐️ | Updated |
 | :--- | :--- | :---: | :--- |
-| [Jitsi](https://github.com/jitsi/jitsi-meet) | Multi-platform open-source video conferencing. | 28800 | 🟢 19m |
+| [Jitsi](https://github.com/jitsi/jitsi-meet) | Multi-platform open-source video conferencing. | 28800 | 🟢 27m |
 | [Nextcloud Talk](https://github.com/nextcloud/spreed/) | Chat or video calls via web or mobile apps, including screen sharing and webinar functionality. | 2070 | 🟢 1h |
 
 
@@ -176,8 +176,8 @@
 | Name | Description | ⭐️ | Updated |
 | :--- | :--- | :---: | :--- |
 | [Hugo](https://github.com/gohugoio/hugo) | Static site generators with amazing speed. | 87063 | 🟢 3h |
-| [Gatsby](https://github.com/gatsbyjs/gatsby) | React-based framework that helps developers build fast websites and apps. | 55944 | 🟢 38m |
-| [Ghost](https://github.com/TryGhost/Ghost) | Headless Node.js CMS for professional publishing. | 52031 | 🟢 17m |
+| [Gatsby](https://github.com/gatsbyjs/gatsby) | React-based framework that helps developers build fast websites and apps. | 55944 | 🟢 46m |
+| [Ghost](https://github.com/TryGhost/Ghost) | Headless Node.js CMS for professional publishing. | 52031 | 🟢 25m |
 | [Jekyll](https://github.com/jekyll/jekyll) | Static websites and blogs. | 51444 | 🟢 2d |
 
 
@@ -194,7 +194,7 @@
 
 | Name | Description | ⭐️ | Updated |
 | :--- | :--- | :---: | :--- |
-| [Matomo](https://github.com/matomo-org/matomo) | Open analytics platform. | 21353 | 🟢 1h |
+| [Matomo](https://github.com/matomo-org/matomo) | Open analytics platform. | 21353 | 🟢 2h |
 | [GoAccess](https://github.com/allinurl/goaccess) | Real-time web log analyzer and interactive viewer that runs in a terminal or through browser. | 20333 | 🟢 9d |
 | [Fathom Lite](https://github.com/usefathom/fathom) | Simple, privacy-focused website analytics. | 7997 | 🔴 2y |
 | [GoatCounter](https://github.com/arp242/goatcounter) | Easy analytics without tracking. | 5538 | 🟢 6d |
@@ -230,7 +230,7 @@
 
 | Name | Description | ⭐️ | Updated |
 | :--- | :--- | :---: | :--- |
-| [FilePizza](https://github.com/kern/filepizza) | Peer-to-peer file transfers with only browser. | 9947 | 🟢 1h |
+| [FilePizza](https://github.com/kern/filepizza) | Peer-to-peer file transfers with only browser. | 9947 | 🟢 2h |
 | [Enclosed](https://github.com/CorentinTh/enclosed) | Minimalistic web app designed for sending private and secure notes. | 1959 | 🟢 8h |
 | [Linx](https://github.com/andreimarcu/linx-server) | Simple file/code/media sharing website. | 1567 | 🟠 10mo |
 | [XBackBone](https://github.com/SergiX44/XBackBone) | PHP file manager that support the instant sharing tools like ShareX, uPic, etc | 1129 | 🟢 15d |
@@ -254,7 +254,7 @@
 
 | Name | Description | ⭐️ | Updated |
 | :--- | :--- | :---: | :--- |
-| [Bitwarden](https://github.com/bitwarden/server) | Easiest and safest way to store, share, and sync sensitive data. | 18256 | 🟢 2m |
+| [Bitwarden](https://github.com/bitwarden/server) | Easiest and safest way to store, share, and sync sensitive data. | 18256 | 🟢 10m |
 | [LessPass](https://github.com/lesspass/lesspass) | Stateless password manager. | 5984 | 🟢 4d |
 
 
@@ -308,9 +308,9 @@
 
 | Name | Description | ⭐️ | Updated |
 | :--- | :--- | :---: | :--- |
-| [Wekan](https://github.com/wekan/wekan) | Collaborative Kanban board. | 20878 | 🟢 14m |
+| [Wekan](https://github.com/wekan/wekan) | Collaborative Kanban board. | 20878 | 🟢 22m |
 | [Phabricator](https://github.com/phacility/phabricator/) | A collection of web apps which contains bug tracker, kanban board, wiki, chat and everything you need to build software. | 12309 | 🔴 1y |
-| [Planka](https://github.com/plankanban/planka) | Kanban board which looks and feels exactly like Trello. | 11657 | 🟢 21h |
+| [Planka](https://github.com/plankanban/planka) | Kanban board which looks and feels exactly like Trello. | 11657 | 🟢 22h |
 | [Kanboard](https://github.com/kanboard/kanboard) | Project management software that focuses on the Kanban methodology. | 9497 | 🟢 5d |
 | [Taiga](https://github.com/taigaio/taiga-docker) | Project management software with a kanban board, sprints, wiki and tickets. | 1999 | 🟠 4mo |
 
@@ -327,8 +327,8 @@
 
 | Name | Description | ⭐️ | Updated |
 | :--- | :--- | :---: | :--- |
-| [Firefly III](https://github.com/firefly-iii/firefly-iii) | Financial manager to help you keep track of expenses, income, budgets and everything in between. | 22656 | 🟢 19m |
-| [Ledger](https://github.com/ledger/ledger) | Plain text double-entry accounting with 3rd party UI like [Prudent](https://prudent.me/). [Entry point to plain text accounting](https://plaintextaccounting.org/) | 5875 | 🟢 20m |
+| [Firefly III](https://github.com/firefly-iii/firefly-iii) | Financial manager to help you keep track of expenses, income, budgets and everything in between. | 22656 | 🟢 26m |
+| [Ledger](https://github.com/ledger/ledger) | Plain text double-entry accounting with 3rd party UI like [Prudent](https://prudent.me/). [Entry point to plain text accounting](https://plaintextaccounting.org/) | 5875 | 🟢 28m |
 | [Beancount](https://github.com/beancount/beancount) | Plain text double-entry accounting with 3rd party web UI like [Fava](https://github.com/beancount/fava) | 5368 | 🟠 1mo |
 | [ezBookkeeping](https://github.com/mayswind/ezbookkeeping) | A lightweight personal finance app with a user-friendly interface and powerful bookkeeping features. | 4457 | 🟢 1d |
 
@@ -337,7 +337,7 @@
 
 | Name | Description | ⭐️ | Updated |
 | :--- | :--- | :---: | :--- |
-| [Home Asisstant](https://github.com/home-assistant/core) | Home automation hub which can be deployed on Raspberry Pi | 85313 | 🟢 11m |
+| [Home Asisstant](https://github.com/home-assistant/core) | Home automation hub which can be deployed on Raspberry Pi | 85313 | 🟢 19m |
 | [Home Bridge](https://github.com/homebridge/homebridge) | Lightweight server that emulates the iOS HomeKit API so you can work with smart home devices that do not support the HomeKit protocol. | 25240 | 🟢 7d |
 | [OpenHAB](https://www.openhab.org/) | Vendor-neutral,  hardware/protocol-agnostic home automation hub | n/a | n/a |
 
@@ -346,7 +346,7 @@
 
 | Name | Description | ⭐️ | Updated |
 | :--- | :--- | :---: | :--- |
-| [n8n](https://github.com/n8n-io/n8n) | Node-based Workflow Automation Tool with visual editor. | 178970 | 🟢 33m |
+| [n8n](https://github.com/n8n-io/n8n) | Node-based Workflow Automation Tool with visual editor. | 178970 | 🟢 41m |
 | [Huginn](https://github.com/huginn/huginn) | System for building agents that perform automated tasks for you online. Written in Ruby. | 48864 | 🟢 3h |
 | [Beehive](https://github.com/muesli/beehive) | A flexible event/agent & automation system made with Go. | 6481 | 🔴 3y |
 | [Kibitzr](https://github.com/kibitzr/kibitzr) | Tiny server to notify about (almost) anything in the web. | 711 | 🟠 10mo |
