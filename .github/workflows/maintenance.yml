@@ -2,7 +2,7 @@ name: Maintenance
 on:
   push:
     branches:
-      - 'keep-alive'
+      - 'master'
   schedule:
     - cron: "30 14 * * *"
   workflow_dispatch:
