@@ -9,10 +9,10 @@
                     "description": "Full-featured open source VPN solution.",
                     "github": "https://github.com/OpenVPN/openvpn",
                     "site": "http://community.openvpn.net",
-                    "stars": 13427,
-                    "pushed_at": "2026-03-26T16:49:52Z",
+                    "stars": 13434,
+                    "pushed_at": "2026-03-28T02:47:25Z",
                     "archived": false,
-                    "etag": "61b767fbfdc0485c4c4b8911b3fdb247d7bfd56219a8e9af7622dea0f5088ea7",
+                    "etag": "a3c644eb7fabe155e44ae1faad849df1d6ab23e6b5fe3e3a9f56d3b978661fc3",
                     "error": null
                 },
                 {
@@ -20,10 +20,10 @@
                     "description": "Stateless OpenVPN dockerized server which doesn't require persistent storage.",
                     "github": "https://github.com/alekslitvinenk/docker-openvpn",
                     "site": "https://dockovpn.io",
-                    "stars": 1425,
+                    "stars": 1426,
                     "pushed_at": "2024-06-30T10:38:41Z",
                     "archived": false,
-                    "etag": "f20a8de0348925a49cf58f9d089a524962d53f9adee2576360cdaa6a85b58321",
+                    "etag": "741fc6f82f61a62393f566783ec1144b5d3ba5f8e5a834c9dfe7688b87d5869d",
                     "error": null
                 },
                 {
@@ -40,10 +40,10 @@
                     "description": "Set of Ansible scripts that simplify the setup of a personal Wireguard and IPsec VPN.",
                     "github": "https://github.com/trailofbits/algo",
                     "site": "https://blog.trailofbits.com/2016/12/12/meet-algo-the-vpn-that-works/",
-                    "stars": 30341,
+                    "stars": 30342,
                     "pushed_at": "2026-03-26T14:40:42Z",
                     "archived": false,
-                    "etag": "49d767eb0f53ebe6bb9cafb9cd0491feb4d78095f931defbe83d56d40d49be64",
+                    "etag": "c15f80f1422ed9baac62cca9dca077e713aa101f5f2d32d0251b125c29dcde7e",
                     "error": null
                 }
             ]
@@ -57,10 +57,10 @@
                     "description": "Web based audio/video streaming application and file manager.",
                     "github": "https://github.com/ampache/ampache",
                     "site": "http://ampache.org",
-                    "stars": 3782,
+                    "stars": 3785,
                     "pushed_at": "2026-03-26T06:48:13Z",
                     "archived": false,
-                    "etag": "75159264921a6b171bb4d9645fcd4d65803dbe6402ee04b5669131667800788e",
+                    "etag": "9944bb4a6f3632bad75be6f3369e899c674397e2bec1644931990bfcedd92572",
                     "error": null
                 },
                 {
@@ -80,7 +80,7 @@
                     "stars": 8484,
                     "pushed_at": "2026-03-13T09:25:48Z",
                     "archived": false,
-                    "etag": "e82195d017a003e78922a4b23dc1662bfa2af2f60abe1f4a49e86a2ee8f774ef",
+                    "etag": "3057ec229308b67edd67db1ece5b974b16f8e017e53ce4ed55467249e17f67f2",
                     "error": null
                 },
                 {
@@ -88,10 +88,10 @@
                     "description": "Simple web-based personal audio streaming service.",
                     "github": "https://github.com/phanan/koel",
                     "site": "https://koel.dev",
-                    "stars": 17099,
+                    "stars": 17101,
                     "pushed_at": "2026-03-25T23:02:01Z",
                     "archived": false,
-                    "etag": "b047b29653f9c6c49f298616bc5c2343c20567f8176d08e0e44a852120ae939d",
+                    "etag": "faa1596ada9e4dd7f51a30205d7658d0fdc132be4a79bcc6f0c5da0db6926bfc",
                     "error": null
                 },
                 {
@@ -108,10 +108,10 @@
                     "description": "Web radio management suite, with a modern web app.",
                     "github": "https://github.com/AzuraCast/AzuraCast",
                     "site": "https://www.azuracast.com/",
-                    "stars": 3777,
+                    "stars": 3779,
                     "pushed_at": "2026-03-25T06:39:54Z",
                     "archived": false,
-                    "etag": "7ffc48cfb3e4e544dda048d01803fcd14ac636e75c05d6d3991479397f269045",
+                    "etag": "ce43cfcc05e5371d667c41d5505f9af1604b5bf210848f1e133328d07f3bac88",
                     "error": null
                 },
                 {
@@ -119,10 +119,10 @@
                     "description": "Music streaming server with web UI and iOS/Android apps.",
                     "github": "https://github.com/blackcandy-org/blackcandy",
                     "site": "https://github.com/blackcandy-org/blackcandy",
-                    "stars": 4172,
+                    "stars": 4171,
                     "pushed_at": "2026-03-23T01:46:53Z",
                     "archived": false,
-                    "etag": "d443631dea8056ea481d0cb3142c1dd0b04019738d238093dbb75d713aef2d60",
+                    "etag": "7d6522a5bbbbb617abc592f6a6468dcb4fd158e75bb46cc69222c1c646e3f496",
                     "error": null
                 },
                 {
@@ -130,10 +130,10 @@
                     "description": "Audiobook and podcast server.",
                     "github": "https://github.com/advplyr/audiobookshelf",
                     "site": "https://audiobookshelf.org",
-                    "stars": 12235,
+                    "stars": 12250,
                     "pushed_at": "2026-03-19T22:27:59Z",
                     "archived": false,
-                    "etag": "fd444738302a58c19a7028858f8ab606babef41a233d781bb1912c34ca15e958",
+                    "etag": "682d9e53d5d3b31530e901ffcf3e4d3e65180c3b9560c094aae4318704706da0",
                     "error": null
                 }
             ]
@@ -147,10 +147,10 @@
                     "description": "High performance photo and video solution with familiar UI.",
                     "github": "https://github.com/immich-app/immich",
                     "site": "https://immich.app",
-                    "stars": 95814,
-                    "pushed_at": "2026-03-27T14:36:09Z",
+                    "stars": 95845,
+                    "pushed_at": "2026-03-28T14:11:58Z",
                     "archived": false,
-                    "etag": "24e818f29aa4a60f29b29b4539277eea989b53311e9a2f4c11fd0b51bbb764c5",
+                    "etag": "ace9d4b0a1a180a198932ba9fe18d5e7f8dc249ddb26383062731786ce0fb5dd",
                     "error": null
                 },
                 {
@@ -158,10 +158,10 @@
                     "description": "Powerful and fast image hosting script that allows you to create your very own image hosting website in just minutes.",
                     "github": "https://github.com/chevereto/chevereto",
                     "site": "https://chevereto.com",
-                    "stars": 900,
+                    "stars": 901,
                     "pushed_at": "2026-01-06T13:19:00Z",
                     "archived": false,
-                    "etag": "085508c1d08f8616ccc38caa2fef97337f7561b710730490406717036054c792",
+                    "etag": "77b7eebf34b71821c339d9177e6960aabcda6fc567185547ce805f412c4ed4fb",
                     "error": null
                 },
                 {
@@ -169,10 +169,10 @@
                     "description": "Personal photo management with Ai classification and lots of features.",
                     "github": "https://github.com/photoprism/photoprism",
                     "site": "https://www.photoprism.app",
-                    "stars": 39495,
-                    "pushed_at": "2026-03-25T11:13:54Z",
+                    "stars": 39479,
+                    "pushed_at": "2026-03-28T11:57:33Z",
                     "archived": false,
-                    "etag": "9202e05b90b19a26e260c3f20fca3045003bf99e02b78c38231d7fc9f1031d26",
+                    "etag": "f9038cb94abe4eebceb8cb44c8a60cc1ab945c71d06d09a89e655f4609a430cf",
                     "error": null
                 },
                 {
@@ -183,7 +183,7 @@
                     "stars": 6369,
                     "pushed_at": "2022-01-08T15:56:54Z",
                     "archived": false,
-                    "etag": "5365c63b3fbc4e087cb0c216fba0801bc66783b545c8728dc7468fce63d5ddbe",
+                    "etag": "a757f0f2af7f10fe3416383d03707a2147285bbf99fa18e14ee76f3da37189d3",
                     "error": null
                 },
                 {
@@ -219,10 +219,10 @@
                     "description": "E-book manager packed with all you need features including server, viewer, editor and more.",
                     "github": "https://github.com/kovidgoyal/calibre",
                     "site": "https://calibre-ebook.com",
-                    "stars": 24470,
-                    "pushed_at": "2026-03-27T09:14:44Z",
+                    "stars": 24478,
+                    "pushed_at": "2026-03-28T08:54:56Z",
                     "archived": false,
-                    "etag": "ed263e41eab1575830ee314fc853479b7ca7e0f1105000936f74e94b1ceec998",
+                    "etag": "c165dd4a20241e00625526b6960461a31ea96f810c2f4b45b5b2f3f64508e5b3",
                     "error": null
                 },
                 {
@@ -241,10 +241,10 @@
                     "description": "Web UI for Calibre database.",
                     "github": "https://github.com/janeczku/calibre-web",
                     "site": "https://github.com/janeczku/calibre-web",
-                    "stars": 16822,
+                    "stars": 16825,
                     "pushed_at": "2026-03-07T09:24:59Z",
                     "archived": false,
-                    "etag": "51c061f1b118f9b4d1327c6e948a1a9fa4f663fb31c85cc303a16db4b41bcc39",
+                    "etag": "57f2cda1d259b755f25778940dd5cf882496c0e77bfaada7034a7ee19ed29956",
                     "error": null
                 }
             ]
@@ -258,10 +258,10 @@
                     "description": "LibreOffice in the cloud with collaboration features.",
                     "github": "https://github.com/CollaboraOnline/online",
                     "site": "https://collaboraonline.com",
-                    "stars": 3085,
-                    "pushed_at": "2026-03-27T14:14:26Z",
+                    "stars": 3088,
+                    "pushed_at": "2026-03-28T13:46:51Z",
                     "archived": false,
-                    "etag": "1d49e80ea0e3e01e0b625c8ee6d53326e2c568ebff443211dc9b3094246a227b",
+                    "etag": "40905e5bc0f7f204174eeef64f5a1f2bc4e45f99b9ee82f8473b07c0b9ff3ee0",
                     "error": null
                 },
                 {
@@ -269,10 +269,10 @@
                     "description": "Private cloud office with collaboration features. CE version distributed as [Docker image](https://helpcenter.onlyoffice.com/server/docker/opensource/deploy-community-edition-in-digitalocean.aspx).",
                     "github": "https://github.com/ONLYOFFICE/DesktopEditors",
                     "site": "https://www.onlyoffice.com",
-                    "stars": 4593,
+                    "stars": 4596,
                     "pushed_at": "2026-03-03T14:21:29Z",
                     "archived": false,
-                    "etag": "2af233f51052148c4ec91ec476b103f530d7d97a05b8b7fc760f1cf85395765a",
+                    "etag": "13d21d10d85ddfd5aa9658c8b54bc629ceac0c2165b1fb183359f9cf8904b69a",
                     "error": null
                 },
                 {
@@ -291,10 +291,10 @@
                     "description": "Your own API-focused Airtable with plugins.",
                     "github": "https://github.com/baserow/baserow",
                     "site": "https://baserow.io",
-                    "stars": 4497,
-                    "pushed_at": "2026-03-27T14:35:11Z",
+                    "stars": 4498,
+                    "pushed_at": "2026-03-28T09:09:41Z",
                     "archived": false,
-                    "etag": "b9a1cd99968275d8cd96bb2f6a80cf22d3f19a215fa2b868238f30b2a1c756d0",
+                    "etag": "6e11ab44d2458ed79368ffb9daf1e2668e96ca6e5739d12941785de23d2c0301",
                     "error": null
                 },
                 {
@@ -302,10 +302,10 @@
                     "description": "Airtable alternative could be based on top of MySQL, PostgreSQL, SQL Server, SQLite & MariaDB with solid GUI",
                     "github": "https://github.com/nocodb/nocodb",
                     "site": "https://nocodb.com",
-                    "stars": 62565,
-                    "pushed_at": "2026-03-27T14:29:22Z",
+                    "stars": 62539,
+                    "pushed_at": "2026-03-28T14:02:49Z",
                     "archived": false,
-                    "etag": "24dd1e420740c14f8f0384b05d94f14b279aa5a10f8173e10e8ed261492e743a",
+                    "etag": "3f3d36a7a61df6fb87d53f4d44d30ea2bfd8d6527b603e973a7394684207853c",
                     "error": null
                 }
             ]
@@ -319,10 +319,10 @@
                     "description": "Media system that puts you in control of managing and streaming your media.",
                     "github": "https://github.com/jellyfin/jellyfin",
                     "site": "https://jellyfin.org",
-                    "stars": 49702,
-                    "pushed_at": "2026-03-26T19:27:18Z",
+                    "stars": 49718,
+                    "pushed_at": "2026-03-27T18:55:36Z",
                     "archived": false,
-                    "etag": "f2988d6aa41606993da8c37f06e4dbe48b84b4d7d69eb35ab3f8f352ea8e91af",
+                    "etag": "963dba8505697289933860710e22be23511a42dc714372ec26e370a324d4d6e3",
                     "error": null
                 }
             ]
@@ -336,10 +336,10 @@
                     "description": "Realtime collaborative markdown notes.",
                     "github": "https://github.com/hackmdio/codimd",
                     "site": "https://hackmd.io/c/codimd-documentation",
-                    "stars": 10016,
+                    "stars": 10017,
                     "pushed_at": "2025-10-02T02:51:07Z",
                     "archived": false,
-                    "etag": "e3f4f55bb7c009c2ba7de5faf94a233edacb0fff3efe7cbcab458494d50d52f8",
+                    "etag": "77bbe46308841cb0741cb1649c87db15c54380d8f8f21f5495c2c50deaabeebb",
                     "error": null
                 },
                 {
@@ -350,7 +350,7 @@
                     "stars": 6372,
                     "pushed_at": "2026-03-23T17:46:57Z",
                     "archived": false,
-                    "etag": "28455ee94f66a318f30a7910b3ea65caf5fcd50620c7c838a1b7e51f4018c342",
+                    "etag": "e40ffac8c26dd096f7977c18ce92f877b09589d3096a388dbcafbfc2aaa8d64f",
                     "error": null
                 },
                 {
@@ -391,10 +391,10 @@
                     "description": "Memo hub with knowledge management and socialization.",
                     "github": "https://github.com/usememos/memos",
                     "site": "https://usememos.com",
-                    "stars": 58251,
+                    "stars": 58287,
                     "pushed_at": "2026-03-26T13:47:14Z",
                     "archived": false,
-                    "etag": "782bee4f8214e97343b2250e95ae449333e06fc9c9b6f92cb7f3b1d4468db005",
+                    "etag": "ac324bc8dfa14b31fee51128dabecee08247002be4b72e131fde124c0048fe30",
                     "error": null
                 }
             ]
@@ -433,7 +433,7 @@
                     "stars": 1691,
                     "pushed_at": "2026-03-20T19:51:41Z",
                     "archived": false,
-                    "etag": "2f40e81313eacf8dc56b2d1620be8f96c0b55373580c48b37960991b4e3a1e10",
+                    "etag": "9e198e7658418045e11cc08a099857a0285a08389c2fbf4693b8cedcd5ea3b5d",
                     "error": null
                 },
                 {
@@ -463,10 +463,10 @@
                     "description": "Simple bookmarks with tags and neat UI.",
                     "github": "https://github.com/sissbruecker/linkding",
                     "site": "https://linkding.link/",
-                    "stars": 10366,
+                    "stars": 10376,
                     "pushed_at": "2026-03-27T00:10:37Z",
                     "archived": false,
-                    "etag": "349ac7d7681c14ef68bf23681ccd7b79cedd7d899988dcd393769b7ec496b15e",
+                    "etag": "a00049937e2a6d6cc5799bc5c3547ea576cc4c722f3d6d082eac99922f8f1d82",
                     "error": null
                 },
                 {
@@ -496,10 +496,10 @@
                     "description": "Bookmark-everything app with AI-based tagging and full text search.",
                     "github": "https://github.com/hoarder-app/hoarder",
                     "site": "https://karakeep.app",
-                    "stars": 24342,
+                    "stars": 24361,
                     "pushed_at": "2026-03-26T02:41:38Z",
                     "archived": false,
-                    "etag": "ae4ef67d9621210b6422fd2e87f32fb9428d2ec5f7196760b12cbc340bef9e2d",
+                    "etag": "13843298ce20a0b37fb7091241b514c2c1e7c00485406b7c511eb1fe0d1992fd",
                     "error": null
                 },
                 {
@@ -522,10 +522,10 @@
                     "description": "Customizable, URL shortener in PHP. Detailed stats, analytics, plugins, and more included.",
                     "github": "https://github.com/YOURLS/YOURLS",
                     "site": "https://yourls.org",
-                    "stars": 11946,
+                    "stars": 11947,
                     "pushed_at": "2026-03-23T14:04:20Z",
                     "archived": false,
-                    "etag": "5d08731c33b8d9d248efe031524c51505f41106753f617f2682b965d6ed140fe",
+                    "etag": "b68aebf95b64a02f62f32a0fd29fdb43c68d0961d7fff7d7c1dc26f7c9ff278a",
                     "error": null
                 },
                 {
@@ -533,10 +533,10 @@
                     "description": "Modern URL shortener with support for custom domains.",
                     "github": "https://github.com/thedevs-network/kutt",
                     "site": "https://kutt.it",
-                    "stars": 10673,
+                    "stars": 10674,
                     "pushed_at": "2026-02-27T16:45:16Z",
                     "archived": false,
-                    "etag": "5678d36c632db5bf812c8025748e6a4067a6c9344d89b52ce5179fe873483fa4",
+                    "etag": "fd08599a974532c569f991e5187cc0d51fe154942d889a5d12f7fdf633fb90b2",
                     "error": null
                 },
                 {
@@ -555,10 +555,10 @@
                     "description": "URL shortener with neat UI, API and analytics.",
                     "github": "https://github.com/shlinkio/shlink",
                     "site": "https://shlink.io",
-                    "stars": 4819,
+                    "stars": 4820,
                     "pushed_at": "2026-03-17T08:12:51Z",
                     "archived": false,
-                    "etag": "36ecad2f1c6deda1bdaffe97b2114edfad1423baa87a174a06d8603d7d9d2847",
+                    "etag": "bbe1d658af239a42733dc619eeec3d86e96a0f00dd961946c16900a11bd2fd51",
                     "error": null
                 }
             ]
@@ -572,10 +572,10 @@
                     "description": "Small CalDAV and CardDAV server made with Python. Simple file storage and plugins",
                     "github": "https://github.com/Kozea/Radicale",
                     "site": "https://radicale.org",
-                    "stars": 4519,
-                    "pushed_at": "2026-03-27T04:44:03Z",
+                    "stars": 4523,
+                    "pushed_at": "2026-03-28T09:44:06Z",
                     "archived": false,
-                    "etag": "f76a4e58a5ede990f61b40082dc0c78c5b27a4ff4fbaee2d7f087a20b31e3b28",
+                    "etag": "2aad0c3f03c440f872d65f989c0e9bf5886276e64473c31fb2b111a229bd1b07",
                     "error": null
                 },
                 {
@@ -583,10 +583,10 @@
                     "description": "CardDAV, CalDAV and WebDAV server made with PHP.",
                     "github": "https://github.com/sabre-io/Baikal",
                     "site": "https://sabre.io/baikal/",
-                    "stars": 3108,
+                    "stars": 3109,
                     "pushed_at": "2026-01-06T19:47:56Z",
                     "archived": false,
-                    "etag": "24c38731875b462ffa8bbe97559181dff74d47e753eeb67c3205eacdd1455e13",
+                    "etag": "545f30381e5f86affc78e6c4fcf6023c48422c0d4cc0bcf95000f9f570def6bd",
                     "error": null
                 },
                 {
@@ -611,10 +611,10 @@
                     "description": "Personal cloud which runs on your own server.",
                     "github": "https://github.com/owncloud/core",
                     "site": "https://owncloud.com",
-                    "stars": 8753,
+                    "stars": 8755,
                     "pushed_at": "2026-03-26T23:00:43Z",
                     "archived": false,
-                    "etag": "662ca569cb87b2803cfd82036459806b347e0aab54bfce19ca1630a5b7745123",
+                    "etag": "53989bfbc10a87cb5ea2b44fe57d9b8e498d6a54b4aeb7a3793a791c66821a19",
                     "error": null
                 },
                 {
@@ -622,10 +622,10 @@
                     "description": "Enhanced OwnCloud fork with tons of [additional services](https://apps.nextcloud.com/) like calendars, mail, contacts, video calls, etc .",
                     "github": "https://github.com/nextcloud/server",
                     "site": "https://nextcloud.com",
-                    "stars": 34447,
-                    "pushed_at": "2026-03-27T14:41:21Z",
+                    "stars": 34457,
+                    "pushed_at": "2026-03-28T12:51:19Z",
                     "archived": false,
-                    "etag": "4d0d32030f1d84049f45f56b8473504e6f97ecda33d0820f9f40be700140431f",
+                    "etag": "eab6513e4efb5b85191d548e036c6cb3f635b5f45615cc3e951546b13688a6f4",
                     "error": null
                 },
                 {
@@ -633,10 +633,10 @@
                     "description": "Continuous file synchronization program.",
                     "github": "https://github.com/syncthing/syncthing",
                     "site": "https://syncthing.net/",
-                    "stars": 81196,
+                    "stars": 81223,
                     "pushed_at": "2026-03-26T01:33:07Z",
                     "archived": false,
-                    "etag": "2e54934ac88ad2c8814abdf47dddbf0bf2689a0e40fb99840b6193e5abeca6ca",
+                    "etag": "cf57d628f18d239ef9e163244efa0b6107c186fbf88b91e21e27214db76b7af9",
                     "error": null
                 },
                 {
@@ -644,10 +644,10 @@
                     "description": "Object storage server compatible with Amazon S3 APIs.",
                     "github": "https://github.com/minio/minio",
                     "site": "https://github.com/minio/minio",
-                    "stars": 60565,
+                    "stars": 60568,
                     "pushed_at": "2026-02-12T20:18:51Z",
                     "archived": false,
-                    "etag": "6deee063dc12e758cd541f893578045ca162939aeee84be82e5175e936f9c3c0",
+                    "etag": "011869bb2cf9650ca5b449d76d1c392b6dca4deb392020ed05d3f353f27f3728",
                     "error": null
                 },
                 {
@@ -658,7 +658,7 @@
                     "stars": 2538,
                     "pushed_at": "2026-02-09T19:26:47Z",
                     "archived": false,
-                    "etag": "2a1285186a3890b7def93220f9ac10644c7a193b1e46197236b97d3fe9679ca3",
+                    "etag": "731d7ab54062f0409e0c2f403ae48227689356d3f2842be12536f2156e58472c",
                     "error": null
                 },
                 {
@@ -666,10 +666,10 @@
                     "description": "Easily turn popular backends like SFTP, S3, GitHub etc into web-based file manager",
                     "github": "https://github.com/mickael-kerjean/filestash",
                     "site": "https://www.filestash.app/",
-                    "stars": 13922,
+                    "stars": 13925,
                     "pushed_at": "2026-03-27T06:35:11Z",
                     "archived": false,
-                    "etag": "c273b8443b6ac27b830ac7ec4782a88b8918e70261c88ccf46a8c67f0a8ffc8a",
+                    "etag": "855096b5d111d57877ecff6a0a2fbe3e0213fe6b3c69647e8b93e1cf6cee3999",
                     "error": null
                 }
             ]
@@ -683,10 +683,10 @@
                     "description": "Validating, recursive, caching DNS resolver. Fast and lean and incorporates modern features based on open standards.",
                     "github": "https://github.com/NLnetLabs/unbound",
                     "site": "https://nlnetlabs.nl/unbound",
-                    "stars": 4363,
+                    "stars": 4366,
                     "pushed_at": "2026-03-27T14:42:50Z",
                     "archived": false,
-                    "etag": "415317fac595f70dcefbf7546361b1f3f80d4d77aa02add48e9e27fd59cafeb3",
+                    "etag": "81abb0cc0702fd28f40faa89281463184a0fdcceb0693f03a117ae3fa3047263",
                     "error": null
                 }
             ]
@@ -700,10 +700,10 @@
                     "description": "Network-wide ad blocking software you can deploy to local Raspberry Pi or [always-free instance of Google Cloud](https://github.com/n3m351d4/Pi-Hole-PiVPN-on-Google-Compute-Engine-Free-Tier-with-Full-Tunnel-and-Split-Tunnel-OpenVPN-Configs). Yes, you've got the irony right.",
                     "github": "https://github.com/pi-hole/pi-hole",
                     "site": "https://pi-hole.net",
-                    "stars": 56293,
-                    "pushed_at": "2026-03-25T07:25:01Z",
+                    "stars": 56310,
+                    "pushed_at": "2026-03-28T12:51:04Z",
                     "archived": false,
-                    "etag": "ec0ea71465cbba6b550ce67a3edf419451516eca0330bf547b1db56c0c6e7ab2",
+                    "etag": "10af4a0f795c6a0db1ae7d7b6197c8f564e59d483d9795cf6c109b548be7f992",
                     "error": null
                 },
                 {
@@ -711,10 +711,10 @@
                     "description": "Network-wide DNS resolver with encryption for blocking ads & tracking.",
                     "github": "https://github.com/AdguardTeam/AdGuardHome",
                     "site": "https://adguard.com/adguard-home/overview.html",
-                    "stars": 33261,
+                    "stars": 33292,
                     "pushed_at": "2026-03-27T13:48:41Z",
                     "archived": false,
-                    "etag": "43883eec16735bbd2c969e4b0fb50e2311f53360bbb3be7c2cc74661d8ee4ce6",
+                    "etag": "ab0590057b310e735ecdb0530eab4bffac8f6c6d6f1a6f4667e61f3b9ffcd278",
                     "error": null
                 }
             ]
@@ -728,10 +728,10 @@
                     "description": "Dockerized, secured mail suite which is easy to install and maintain.",
                     "github": "https://github.com/Mailu/Mailu",
                     "site": "https://mailu.io",
-                    "stars": 7124,
+                    "stars": 7126,
                     "pushed_at": "2026-03-24T09:11:15Z",
                     "archived": false,
-                    "etag": "7f9cdba919df9f98f0371113e0279f90902900ac3ef22db1f163ca1c85c4051a",
+                    "etag": "3b67794947621d6ece6f1ff351f333506494e37dd3978fc03ca88cd90ec11cf9",
                     "error": null
                 },
                 {
@@ -739,10 +739,10 @@
                     "description": "Dockerized mail server suite based on Postfix, Dovecot, Nginx, PHP, MariaDB, Rspamd and more.",
                     "github": "https://github.com/mailcow/mailcow-dockerized",
                     "site": "https://mailcow.email",
-                    "stars": 12424,
+                    "stars": 12425,
                     "pushed_at": "2026-03-13T13:15:04Z",
                     "archived": false,
-                    "etag": "d8f55782d0614eae5916c20ed2f020cbc3260a986b64cbd203072a7019965115",
+                    "etag": "9135676894bfc50fbe3769b60b51cf72400aec3679b49316115ab16688c3dabe",
                     "error": null
                 },
                 {
@@ -750,10 +750,10 @@
                     "description": "Mail server suite with vast of options.",
                     "github": "https://github.com/iredmail/iRedMail",
                     "site": "https://www.iredmail.org/",
-                    "stars": 1777,
-                    "pushed_at": "2026-03-22T14:30:05Z",
+                    "stars": 1778,
+                    "pushed_at": "2026-03-28T13:42:01Z",
                     "archived": false,
-                    "etag": "6f434a6bdac1d0b7c1165f271ffae7a33dad618abd79ab86c9551133b94ffb21",
+                    "etag": "d27e0567445a4ac612fa56ce9f55675a84302db82a1c984a48560533f877bd1c",
                     "error": null
                 },
                 {
@@ -761,10 +761,10 @@
                     "description": "Another mail server suite based on Postfix, Dovecot, Z-Push, Roundcube, Nextcloud, Apache SpamAssassin, Postgrey, Nginx.",
                     "github": "https://github.com/mail-in-a-box/mailinabox",
                     "site": "https://mailinabox.email/",
-                    "stars": 15246,
+                    "stars": 15247,
                     "pushed_at": "2026-02-01T15:29:39Z",
                     "archived": false,
-                    "etag": "c7394cb5878ec112cb7ed92b50c994fe6a1febde1dba08414a3c28a7e1d21ded",
+                    "etag": "2abfe90a189c33438473a465b3873da48e4d0a1516e2edc0943107bbff8947e2",
                     "error": null
                 },
                 {
@@ -772,10 +772,10 @@
                     "description": "Browser-based IMAP client with an application-like user interface.",
                     "github": "https://github.com/roundcube/roundcubemail",
                     "site": "https://roundcube.net",
-                    "stars": 6866,
-                    "pushed_at": "2026-03-22T10:58:14Z",
+                    "stars": 6871,
+                    "pushed_at": "2026-03-28T08:39:06Z",
                     "archived": false,
-                    "etag": "9f01a55bb3be5020f11691a3da89bef4752e01f7f8fb1118dbae524944dfd280",
+                    "etag": "9c4b69e021783a3cf7498b262506bd9cd61f7e8c398025c9c13c7823ccbe6367",
                     "error": null
                 },
                 {
@@ -783,10 +783,10 @@
                     "description": "A fully featured mail server with web UI.",
                     "github": "https://github.com/postalhq/postal",
                     "site": "https://postalserver.io",
-                    "stars": 16420,
+                    "stars": 16422,
                     "pushed_at": "2026-03-19T18:46:54Z",
                     "archived": false,
-                    "etag": "e60586fe67fda774f81fe7443362ec9e22982de07ca2ef4f66d6a79cc6a1c447",
+                    "etag": "fdddde90d853e57f3c2f0a78c45aa7ba886fef30a3542c99b2ae7c9613972978",
                     "error": null
                 },
                 {
@@ -794,10 +794,10 @@
                     "description": "A composable all-in-one mail server written in Golang.",
                     "github": "https://github.com/foxcpp/maddy",
                     "site": "https://maddy.email",
-                    "stars": 5900,
+                    "stars": 5901,
                     "pushed_at": "2026-03-26T23:15:24Z",
                     "archived": false,
-                    "etag": "dabb8bdf39c6611c14ca3908bc59c95e6310acacf988abe2b23c69f23b167a69",
+                    "etag": "472726847a21a6c7f49ccc21867c5d35a026a8cd21b1e4481a9b0b298b84041d",
                     "error": null
                 }
             ]
@@ -820,10 +820,10 @@
                     "description": "Team chat which combined the immediacy of real-time chat with an email threading model.",
                     "github": "https://github.com/zulip/zulip",
                     "site": "https://zulip.com",
-                    "stars": 24940,
-                    "pushed_at": "2026-03-27T09:55:12Z",
+                    "stars": 24946,
+                    "pushed_at": "2026-03-27T21:08:42Z",
                     "archived": false,
-                    "etag": "11d41195d70ed5963bb38f2af232e3a54e1091c4768fefb5c252cf8e8e31ce14",
+                    "etag": "0af6080b81854ce57ddba5296cd444be54d97858fbb9b72ef91e5acca6f57d5d",
                     "error": null
                 },
                 {
@@ -831,10 +831,10 @@
                     "description": "WebChat platform.",
                     "github": "https://github.com/RocketChat/Rocket.Chat",
                     "site": "https://rocket.chat/",
-                    "stars": 45028,
-                    "pushed_at": "2026-03-27T14:03:29Z",
+                    "stars": 45034,
+                    "pushed_at": "2026-03-28T04:08:20Z",
                     "archived": false,
-                    "etag": "9114aad6e3ff7538c6be025138738ef80527f3e39f3fa771fcfdfa171beeb261",
+                    "etag": "645b0941827a644f2eb872dc72d2f64b6192a0ef4a515c00b5542ea5296502cf",
                     "error": null
                 },
                 {
@@ -842,10 +842,10 @@
                     "description": "Private cloud, Slack-alternative.",
                     "github": "https://github.com/mattermost/mattermost-server",
                     "site": "https://mattermost.com",
-                    "stars": 35980,
-                    "pushed_at": "2026-03-27T14:06:21Z",
+                    "stars": 35992,
+                    "pushed_at": "2026-03-28T04:40:38Z",
                     "archived": false,
-                    "etag": "7fb9c5085be62d0d6c2c8af9af07ff5babb57d11c09e189eab05b1b02e10f93f",
+                    "etag": "7b919b3dc9d421159cb87b7fc2ef45933fb7f995af178a72d47afc11cbdddf34",
                     "error": null
                 },
                 {
@@ -853,10 +853,10 @@
                     "description": "Low-latency, high quality **voice chat** for gaming.",
                     "github": "https://github.com/mumble-voip/mumble",
                     "site": "https://www.mumble.info",
-                    "stars": 7864,
-                    "pushed_at": "2026-03-25T16:10:03Z",
+                    "stars": 7868,
+                    "pushed_at": "2026-03-28T12:11:52Z",
                     "archived": false,
-                    "etag": "0edc7d02abeb49ca59b4ec591adccb626be984a3ac0335099392f305e34914e4",
+                    "etag": "3f5a43460f9b079e9a14b42bfaf5f6c3f58706325f897ee50f19aeb8d206b421",
                     "error": null
                 },
                 {
@@ -879,10 +879,10 @@
                     "description": "Multi-platform open-source video conferencing.",
                     "github": "https://github.com/jitsi/jitsi-meet",
                     "site": "https://jitsi.org/meet",
-                    "stars": 28882,
-                    "pushed_at": "2026-03-27T12:35:12Z",
+                    "stars": 28888,
+                    "pushed_at": "2026-03-27T23:59:19Z",
                     "archived": false,
-                    "etag": "78e1627c21592b67f342cf0fba8dcf45f89bea51a0ca3a886509234245d531fb",
+                    "etag": "c20577be489330d7f49a09e6070daababfc0bb206d4621c6700733f23bc9b1da",
                     "error": null
                 },
                 {
@@ -890,10 +890,10 @@
                     "description": "Chat or video calls via web or mobile apps, including screen sharing and webinar functionality.",
                     "github": "https://github.com/nextcloud/spreed/",
                     "site": "https://nextcloud.com/talk",
-                    "stars": 2080,
-                    "pushed_at": "2026-03-27T14:25:20Z",
+                    "stars": 2081,
+                    "pushed_at": "2026-03-28T11:01:19Z",
                     "archived": false,
-                    "etag": "7e517f0b4b6c910508e9058cdcaa2f198066beb32373a414d8e11348a7f1d3a9",
+                    "etag": "60727e971b6d9753981afbff87117ef4df0d704e2b1bbdcf4875fee5167388f3",
                     "error": null
                 }
             ]
@@ -910,7 +910,7 @@
                     "stars": 51497,
                     "pushed_at": "2026-03-11T15:41:20Z",
                     "archived": false,
-                    "etag": "9393d8edbe081aafdf8d3618cb6f1a3fc0ca68057fbee41b92d04ee026cc899d",
+                    "etag": "3e04df4ea02caa93abe55d6689d1913ea414c3a77ab58ed0921c017a32e58955",
                     "error": null
                 },
                 {
@@ -918,10 +918,10 @@
                     "description": "Static site generators with amazing speed.",
                     "github": "https://github.com/gohugoio/hugo",
                     "site": "https://gohugo.io",
-                    "stars": 87308,
-                    "pushed_at": "2026-03-27T08:24:11Z",
+                    "stars": 87328,
+                    "pushed_at": "2026-03-27T15:43:24Z",
                     "archived": false,
-                    "etag": "70fdf9fa681b2b60511aaea953dbf58347ff63f0b4bfc4ee5e2d4dbb743f6923",
+                    "etag": "e48d8a06fea909d95292d5dc54bcb663545ce4753f8f1522b4c8d2a16e170ad4",
                     "error": null
                 },
                 {
@@ -929,10 +929,10 @@
                     "description": "Headless Node.js CMS for professional publishing.",
                     "github": "https://github.com/TryGhost/Ghost",
                     "site": "https://ghost.org",
-                    "stars": 52164,
-                    "pushed_at": "2026-03-27T14:35:34Z",
+                    "stars": 52172,
+                    "pushed_at": "2026-03-27T23:18:22Z",
                     "archived": false,
-                    "etag": "603c67a80769ac171700b8888c25d351759dcfbdd83773eddc6e6826aeae2193",
+                    "etag": "65bc770f7a228ba885c205814fc50c5fd0ef5f4a80c024788bb81159c87069e5",
                     "error": null
                 },
                 {
@@ -940,10 +940,10 @@
                     "description": "React-based framework with performance, scalability, and security built in.",
                     "github": "https://github.com/gatsbyjs/gatsby",
                     "site": "https://www.gatsbyjs.com",
-                    "stars": 55954,
-                    "pushed_at": "2026-03-26T16:41:51Z",
+                    "stars": 55955,
+                    "pushed_at": "2026-03-28T01:40:48Z",
                     "archived": false,
-                    "etag": "0c71dfe5037b29ba3c73d9c4906d89e6a2e60b1eaa79faa631e6a243dca2b6ba",
+                    "etag": "88c479b93129205fe725b5603ea15728f8ff702a6c8e384e63d7eecbcb8008d7",
                     "error": null
                 },
                 {
@@ -951,10 +951,10 @@
                     "description": "A simpler site generator. Transforms a directory of templates (of varying types) into HTML.",
                     "github": "https://github.com/11ty/eleventy",
                     "site": "https://www.11ty.dev/",
-                    "stars": 19536,
+                    "stars": 19539,
                     "pushed_at": "2026-03-25T22:35:20Z",
                     "archived": false,
-                    "etag": "e618c72a022b7d44ec75bee15504946eb8bee5743487beb28f957427646b3deb",
+                    "etag": "06d083f0e98c72c93f716dc439942716016d596b2ccfbc8ae082e205dcdce5df",
                     "error": null
                 }
             ]
@@ -1007,10 +1007,10 @@
                     "description": "Self-hosted, Node.js based analytics tool for those who care about privacy.",
                     "github": "https://github.com/electerious/Ackee",
                     "site": "https://ackee.electerious.com",
-                    "stars": 4629,
-                    "pushed_at": "2026-03-23T15:34:20Z",
+                    "stars": 4630,
+                    "pushed_at": "2026-03-27T15:37:23Z",
                     "archived": false,
-                    "etag": "3c6f428de6e4ed1c170ae011f49e014e399b1026e29cd1a9fae87132f9cf9ffc",
+                    "etag": "e7dd7b2ece59dfdab755f92fd507f569cc998afcf8344010b60ce3c366c222da",
                     "error": null
                 },
                 {
@@ -1018,10 +1018,10 @@
                     "description": "Open analytics platform.",
                     "github": "https://github.com/matomo-org/matomo",
                     "site": "https://matomo.org/",
-                    "stars": 21368,
-                    "pushed_at": "2026-03-27T14:14:40Z",
+                    "stars": 21373,
+                    "pushed_at": "2026-03-27T18:27:57Z",
                     "archived": false,
-                    "etag": "edf1cc21956460ff1687d20635be43c7e1e450544c6c9adb4eaaeb152cb552d4",
+                    "etag": "7f3a6922927d0de73ab6504a0f673cddfecf35fd9d3db0af0d6e81ef11ca7e88",
                     "error": null
                 },
                 {
@@ -1029,10 +1029,10 @@
                     "description": "Real-time web log analyzer and interactive viewer that runs in a terminal or through browser.",
                     "github": "https://github.com/allinurl/goaccess",
                     "site": "https://goaccess.io",
-                    "stars": 20365,
+                    "stars": 20363,
                     "pushed_at": "2026-03-27T13:32:28Z",
                     "archived": false,
-                    "etag": "6285e04e219d7ba1c317508c63f72d25e9c157508398c8c23499c3cef93cc4ac",
+                    "etag": "775f51e882f4751b5b0b46a5c456e7b1608ef05052c29ad8775c408a313df485",
                     "error": null
                 },
                 {
@@ -1062,10 +1062,10 @@
                     "description": "Easy analytics without tracking.",
                     "github": "https://github.com/arp242/goatcounter",
                     "site": "https://www.goatcounter.com",
-                    "stars": 5587,
+                    "stars": 5589,
                     "pushed_at": "2026-03-25T06:36:27Z",
                     "archived": false,
-                    "etag": "37175725fc119c19507fc95f10ce153c2f6c099310b2376dc1b9a7ee41d4ee37",
+                    "etag": "1d4dc6f81255e9f949fa52137274a49305e9699f10b00cb26fd8271de19d53cd",
                     "error": null
                 }
             ]
@@ -1079,10 +1079,10 @@
                     "description": "Search results without ads, JavaScript, AMP links, cookies, or IP address tracking.",
                     "github": "https://github.com/benbusby/whoogle-search",
                     "site": "https://pypi.org/project/whoogle-search/",
-                    "stars": 11430,
+                    "stars": 11432,
                     "pushed_at": "2026-03-24T00:11:40Z",
                     "archived": false,
-                    "etag": "0c3d6501b05673afa7b04102feb3f9d271715b055d8c89118222286c32da6b7b",
+                    "etag": "69cc925e83072eb01546e3ee9df11a7d64d3d26f3872a55d08874da493ee192e",
                     "error": null
                 },
                 {
@@ -1090,10 +1090,10 @@
                     "description": "Metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.",
                     "github": "https://github.com/searxng/searxng",
                     "site": "https://docs.searxng.org",
-                    "stars": 27327,
-                    "pushed_at": "2026-03-27T13:02:01Z",
+                    "stars": 27361,
+                    "pushed_at": "2026-03-28T06:47:51Z",
                     "archived": false,
-                    "etag": "582cedec5a26f60d3a9b6dd1b0184c4e44a35143a3bfce36407e3dbb31c2e55c",
+                    "etag": "4838a724a7155d5466fe5f370aaa3787c1e81d94daedad60b3694f07fcbedc48",
                     "error": null
                 }
             ]
@@ -1107,10 +1107,10 @@
                     "description": "Deduplicating archiver with compression and authenticated encryption.",
                     "github": "https://github.com/borgbackup/borg",
                     "site": "https://www.borgbackup.org/",
-                    "stars": 13124,
+                    "stars": 13128,
                     "pushed_at": "2026-03-25T14:10:57Z",
                     "archived": false,
-                    "etag": "a76eff3ceb81425f067c31cc051d48775cb75945197d9f9116fbfc0b5ee0ac5b",
+                    "etag": "237f2118ef7668fca4b0ddc0335d869a511b4b8d8cbf0846daa6ab77779da11e",
                     "error": null
                 },
                 {
@@ -1129,10 +1129,10 @@
                     "description": "Encrypted, deduplicated & simple backups with an easy-to-use CLI.",
                     "github": "https://github.com/restic/restic/",
                     "site": "https://restic.net",
-                    "stars": 32856,
+                    "stars": 32869,
                     "pushed_at": "2026-03-01T01:43:21Z",
                     "archived": false,
-                    "etag": "87ec76bdf261126b6bc45c7c496df09d8555615b574229f22bf88aca8a816b19",
+                    "etag": "28ec6ea9585a6e5f8dde95d69c176f2dbc1e97f8891795c999b44b2cbbf56ecd",
                     "error": null
                 }
             ]
@@ -1146,10 +1146,10 @@
                     "description": "Web archive. Preserve and organize content from websites in a variety of formats.",
                     "github": "https://github.com/pirate/ArchiveBox",
                     "site": "https://archivebox.io",
-                    "stars": 27134,
+                    "stars": 27138,
                     "pushed_at": "2026-03-25T12:36:31Z",
                     "archived": false,
-                    "etag": "20b13c49c4e0c4bca5e24dfdbb3c270eed9081ab2999b0c06c30ffa52cd62a99",
+                    "etag": "a46bde80270c0865fc5a75323dd459bc4d166ddb9d29f48f322405e273123f80",
                     "error": null
                 },
                 {
@@ -1183,10 +1183,10 @@
                     "description": "Peer-to-peer file transfers with only browser.",
                     "github": "https://github.com/kern/filepizza",
                     "site": "https://file.pizza",
-                    "stars": 9969,
+                    "stars": 9970,
                     "pushed_at": "2026-03-27T01:00:15Z",
                     "archived": false,
-                    "etag": "cdc3ccfa8f948730d3cb667ba2bb16513e180b82fb17ec17e04dd56575a2c742",
+                    "etag": "5ddd566fac5977447d08fbcea4b15801330198d224b7d174c768c89d91108d27",
                     "error": null
                 },
                 {
@@ -1208,7 +1208,7 @@
                     "stars": 1568,
                     "pushed_at": "2025-04-26T21:39:02Z",
                     "archived": false,
-                    "etag": "1166cc4ff46d73ba2023c418adf2464595246f1318022578c0a75f1b4dcb40da",
+                    "etag": "c5ebe19f0de8ad6cb0df023b545c2e50d003be5ef9b4389360e5677d5d56496a",
                     "error": null
                 },
                 {
@@ -1228,9 +1228,9 @@
                     "github": "https://github.com/CorentinTh/enclosed",
                     "site": "https://enclosed.cc",
                     "stars": 1964,
-                    "pushed_at": "2026-03-27T04:44:26Z",
+                    "pushed_at": "2026-03-28T09:45:22Z",
                     "archived": false,
-                    "etag": "5412253b05410db13e9e7e94bf74e217d736f3992893d4b558370ddfee5977e7",
+                    "etag": "29def0cc2e03d1e7779671bc8ddcfde8d363742bdfceeabc3c1f56dffb0314f8",
                     "error": null
                 }
             ]
@@ -1247,7 +1247,7 @@
                     "stars": 18534,
                     "pushed_at": "2026-03-23T16:31:50Z",
                     "archived": false,
-                    "etag": "543bc4a20311d2bfc3517d30aac172a386021804fdb6010f84ba159bc7c9551d",
+                    "etag": "2511d082380036e6cb28c932e4612181bc586b1a12f61c6ea1fb90bbc6f73475",
                     "error": null
                 },
                 {
@@ -1256,9 +1256,9 @@
                     "github": "https://github.com/wikimedia/mediawiki",
                     "site": "https://www.mediawiki.org",
                     "stars": 5020,
-                    "pushed_at": "2026-03-27T14:01:13Z",
+                    "pushed_at": "2026-03-28T14:34:04Z",
                     "archived": false,
-                    "etag": "4a13c1ea69078941eaf14bb93ef48853c2a1b4293664de2f1ff5f5a8bf7e8219",
+                    "etag": "627612d52bcd69e31f05436a3f5b9b09db787d66fe2c0d80650e8fbd0eb5bf35",
                     "error": null
                 },
                 {
@@ -1266,10 +1266,10 @@
                     "description": "Simple wiki that doesn't require a database.",
                     "github": "https://github.com/splitbrain/dokuwiki",
                     "site": "http://www.dokuwiki.org",
-                    "stars": 4590,
+                    "stars": 4591,
                     "pushed_at": "2026-03-25T07:57:19Z",
                     "archived": false,
-                    "etag": "a90a4b001332ce5af45bcc561bcdcd1c9bb01cd110cd59ef27b2aa7b9418a702",
+                    "etag": "32ccd123dd8fead0bea4dc048955cf6cdb530b3233b42bd4cabe3ba793f9e102",
                     "error": null
                 },
                 {
@@ -1277,10 +1277,10 @@
                     "description": "Fastest wiki and knowledge base for growing teams with markdown support and clean UI.",
                     "github": "https://github.com/outline/outline",
                     "site": "https://www.getoutline.com",
-                    "stars": 37835,
-                    "pushed_at": "2026-03-27T14:11:09Z",
+                    "stars": 37844,
+                    "pushed_at": "2026-03-28T11:47:44Z",
                     "archived": false,
-                    "etag": "f9a70b5f4015ffb2879444b2cb6b4f9e091818bda39532549132989fd17cbff6",
+                    "etag": "5d0bc36008dadcbf2cfe375d4444f1b9d13fc392fec70238b7323f7af11b7ad0",
                     "error": null
                 },
                 {
@@ -1288,10 +1288,10 @@
                     "description": "Lightweight and extensible wiki made with Node.js.",
                     "github": "https://github.com/Requarks/wiki",
                     "site": "https://js.wiki",
-                    "stars": 28083,
+                    "stars": 28086,
                     "pushed_at": "2026-03-23T16:04:42Z",
                     "archived": false,
-                    "etag": "7f45aecd418d97e03c78cf9e2ecbd816bfc8c99d4af4b03113719c31d5a30dc1",
+                    "etag": "15af52bba57fa9229ec39a1bf850adffa90b3d547c1917e140d51427f3cc5836",
                     "error": null
                 },
                 {
@@ -1300,9 +1300,9 @@
                     "github": "https://github.com/hypothesis/h",
                     "site": "https://hypothes.is/",
                     "stars": 3133,
-                    "pushed_at": "2026-03-27T13:49:03Z",
+                    "pushed_at": "2026-03-28T11:30:10Z",
                     "archived": false,
-                    "etag": "7969f88028cb00c936ed95cb877b3b1d828200a8dbce8c9885a0065e403abb9a",
+                    "etag": "0e59167969d43e94717d60bf514cb0e0c62c9a7f560037bd28b3dadf261cec9a",
                     "error": null
                 }
             ]
@@ -1316,10 +1316,10 @@
                     "description": "Easiest and safest password manager to store, share, and sync sensitive data.",
                     "github": "https://github.com/bitwarden/server",
                     "site": "https://bitwarden.com",
-                    "stars": 18328,
-                    "pushed_at": "2026-03-27T14:45:32Z",
+                    "stars": 18331,
+                    "pushed_at": "2026-03-28T14:16:22Z",
                     "archived": false,
-                    "etag": "d4ae9a4bdfaff561520ec4fd53e7b852cae46a85f84b926e6d96aa3c83ac2acc",
+                    "etag": "a112ab354242227839c89cd9b07a71f7f7205cd4a2d8edb257db1e0c58ee7c78",
                     "error": null
                 },
                 {
@@ -1327,10 +1327,10 @@
                     "description": "Stateless password manager.",
                     "github": "https://github.com/lesspass/lesspass",
                     "site": "https://www.lesspass.com",
-                    "stars": 5988,
+                    "stars": 5990,
                     "pushed_at": "2026-03-27T14:28:12Z",
                     "archived": false,
-                    "etag": "29a71af099bdff655f977fc362ad6adb297eab99811cd47237070c22339c6267",
+                    "etag": "8e664c7a9041da934b880467cbe49f169f06a0e4ab890788c469fb2f88465b7b",
                     "error": null
                 }
             ]
@@ -1344,10 +1344,10 @@
                     "description": "Simple bookmarks manager written intended as a simple clone of Pocket.",
                     "github": "https://github.com/go-shiori/shiori",
                     "site": "https://github.com/go-shiori/shiori",
-                    "stars": 11387,
+                    "stars": 11392,
                     "pushed_at": "2026-02-01T10:14:02Z",
                     "archived": false,
-                    "etag": "27fc2aee2e34be6c97700c9016a90822e718f6256a8ba185d79c0bba7d78ea97",
+                    "etag": "181f63c5dff4fbb0b9db8a047f6fc7bd40eaeab3fee8d6a6b42c59579b6c432d",
                     "error": null
                 },
                 {
@@ -1355,10 +1355,10 @@
                     "description": "Self hostable application for saving web pages.",
                     "github": "https://github.com/wallabag/wallabag",
                     "site": "https://wallabag.org",
-                    "stars": 12603,
+                    "stars": 12604,
                     "pushed_at": "2026-03-26T12:18:56Z",
                     "archived": false,
-                    "etag": "72c3ce1879a328ead19ce89922dd7bede394f06a13c3b07171570f0012b80821",
+                    "etag": "5a4a6b0a945ca96a665fabe3e596be81225def9d2b593b0f7f12fa21dc26287a",
                     "error": null
                 },
                 {
@@ -1383,10 +1383,10 @@
                     "description": "Multipurpose rss reader, live stream, mashup, aggregation web application.",
                     "github": "https://github.com/fossar/selfoss",
                     "site": "https://selfoss.aditu.de",
-                    "stars": 2456,
+                    "stars": 2457,
                     "pushed_at": "2026-03-25T21:48:01Z",
                     "archived": false,
-                    "etag": "34764a364a9b9f8218942237e2c84fb05bf0acb350c5331b4dfd042d3de29ecd",
+                    "etag": "5148d8ef128a39136fbb643341dfc79e8829f556f9ec727e0fb0132f1dd7ccec",
                     "error": null
                 },
                 {
@@ -1394,10 +1394,10 @@
                     "description": "Rss aggregator with responsive UI.",
                     "github": "https://github.com/FreshRSS/FreshRSS",
                     "site": "https://freshrss.org",
-                    "stars": 14571,
-                    "pushed_at": "2026-03-27T13:00:55Z",
+                    "stars": 14580,
+                    "pushed_at": "2026-03-28T12:06:37Z",
                     "archived": false,
-                    "etag": "4bdbc3f5ca539c4d54b3e9bbe40e592e46228951894885f7fbbd80cc5bffcc07",
+                    "etag": "dd0955213119a6abbd23271f6dbf9a170c01e23b187ea19d52d3bb6243d60cd2",
                     "error": null
                 },
                 {
@@ -1405,10 +1405,10 @@
                     "description": "Web-based news feed reader and aggregator.",
                     "github": "https://github.com/tt-rss/tt-rss",
                     "site": "https://tt-rss.org/",
-                    "stars": 675,
+                    "stars": 677,
                     "pushed_at": "2026-03-17T10:30:43Z",
                     "archived": false,
-                    "etag": "6149147328718d3d007f4328f200992ce418e6628268fc02a19a6b4d56ed4ede",
+                    "etag": "3789d231f1c6fa0d47154a51058c87b3ccff426b200a159e7a2ac9b9087607fb",
                     "error": null
                 },
                 {
@@ -1416,10 +1416,10 @@
                     "description": "Minimalist and opinionated feed reader.",
                     "github": "https://github.com/miniflux/v2",
                     "site": "https://miniflux.app",
-                    "stars": 8974,
-                    "pushed_at": "2026-03-26T03:40:01Z",
+                    "stars": 8977,
+                    "pushed_at": "2026-03-28T01:15:00Z",
                     "archived": false,
-                    "etag": "e3f613a8d14824db341aecfb6af96ac25662a407acdd7ef967d6813d00dc0304",
+                    "etag": "b142896e3ce78e9e73da1df62c1b052c75817d79419988f14f88e239f75aa9f0",
                     "error": null
                 }
             ]
@@ -1434,9 +1434,9 @@
                     "github": "https://github.com/gitlabhq/gitlabhq",
                     "site": "https://about.gitlab.com/getting-help/",
                     "stars": 24281,
-                    "pushed_at": "2026-03-27T12:07:49Z",
+                    "pushed_at": "2026-03-28T12:07:51Z",
                     "archived": false,
-                    "etag": "0b22a9d5ee7c2b3938a00840b9ccadd1a32285eba38c64db2ed97c5a6cb525a3",
+                    "etag": "94cfcd4cc4990fbabee45df02da0547c297fea2cd4292f2883105241519f8caa",
                     "error": null
                 },
                 {
@@ -1455,10 +1455,10 @@
                     "description": "Lightweight and powerful git server made with Go, so you can deploy it even on Raspberry Pi.",
                     "github": "https://github.com/go-gitea/gitea",
                     "site": "https://gitea.com",
-                    "stars": 54526,
-                    "pushed_at": "2026-03-27T12:37:20Z",
+                    "stars": 54546,
+                    "pushed_at": "2026-03-28T13:11:47Z",
                     "archived": false,
-                    "etag": "b924432dac37973b5b9d1d6cf41e98e540f8ae4cac5a80c79d1cdf9c8c486595",
+                    "etag": "c45963d9545530117c9f337ef7a61c401c0fe344c88bc0bda98367ea15396b34",
                     "error": null
                 },
                 {
@@ -1492,10 +1492,10 @@
                     "description": "Minimalist, online pastebin where the server has zero knowledge of pasted data.",
                     "github": "https://github.com/PrivateBin/PrivateBin",
                     "site": "https://privatebin.info/",
-                    "stars": 8149,
+                    "stars": 8153,
                     "pushed_at": "2026-03-26T10:34:21Z",
                     "archived": false,
-                    "etag": "7c8ec7d60847cc984dd2d485a8e2bbfcbfc89689b5a3f6baf5ff5d2232c993ef",
+                    "etag": "e0e1ad6ac96d8763f5382d81cd1dc6b27cb02486368577fd0f14e1f69218dc2a",
                     "error": null
                 },
                 {
@@ -1506,7 +1506,7 @@
                     "stars": 1407,
                     "pushed_at": "2025-08-19T16:11:16Z",
                     "archived": false,
-                    "etag": "09952d41642cb1b2fdaa4e9361cdfdca89e72f6af4a59ac9fa309b3bae7f7e63",
+                    "etag": "69d3dc2888650f814154479e3a1ca7273680f2bbd0355adbc0c82825257a3ef1",
                     "error": null
                 },
                 {
@@ -1514,10 +1514,10 @@
                     "description": "Git-powered pastebin.",
                     "github": "https://github.com/thomiceli/opengist",
                     "site": "https://opengist.io",
-                    "stars": 3054,
+                    "stars": 3057,
                     "pushed_at": "2026-03-23T19:02:25Z",
                     "archived": false,
-                    "etag": "afc24f7fd0006efab75547b3d3510830825e1df646e11e9ff34576688edbd9dc",
+                    "etag": "304c29ec6a236180c4b2490f0179d6577ad40cc08569dc907d1f404d0e859c3f",
                     "error": null
                 }
             ]
@@ -1531,10 +1531,10 @@
                     "description": "High performance newsletter and mailing list manager with a modern dashboard. Single binary app.",
                     "github": "https://github.com/knadh/listmonk",
                     "site": "https://listmonk.app",
-                    "stars": 19363,
+                    "stars": 19371,
                     "pushed_at": "2026-03-27T03:14:31Z",
                     "archived": false,
-                    "etag": "56e52cbfb770d129071c921552c4a9bcbb622d1a2d5da5e3086be84aff39ae32",
+                    "etag": "a1a82e73b6b0e860d1c7761a383d9ffb94d32d397b93e1f4a20c533c90e7cbcc",
                     "error": null
                 }
             ]
@@ -1548,10 +1548,10 @@
                     "description": "Collaborative Kanban board.",
                     "github": "https://github.com/wekan/wekan",
                     "site": "https://wekan.fi",
-                    "stars": 20894,
-                    "pushed_at": "2026-03-26T14:52:17Z",
+                    "stars": 20895,
+                    "pushed_at": "2026-03-27T23:04:32Z",
                     "archived": false,
-                    "etag": "516c18cc16c1bb9c9f4b190bb434f53caa1f2f8f3bbc13eee9ebb6e0b3eba39a",
+                    "etag": "643105ff798fdac263d26abb02585ab5428243789c2507540a842b45460a1cf7",
                     "error": null
                 },
                 {
@@ -1559,10 +1559,10 @@
                     "description": "Project management software that focuses on the Kanban methodology.",
                     "github": "https://github.com/kanboard/kanboard",
                     "site": "https://kanboard.org",
-                    "stars": 9522,
+                    "stars": 9523,
                     "pushed_at": "2026-03-25T04:38:12Z",
                     "archived": false,
-                    "etag": "42e25f4bd25fcb4d84d7ebe2a8853aa91e24aead93e17e3ec020c8b176a6ab9e",
+                    "etag": "9b5d294d3a7cdc2dcc9de82bf93b0402ef86f81e35b337dd6a47559e36d792d9",
                     "error": null
                 },
                 {
@@ -1570,10 +1570,10 @@
                     "description": "Project management software with a kanban board, sprints, wiki and tickets.",
                     "github": "https://github.com/taigaio/taiga-docker",
                     "site": "https://taiga.io",
-                    "stars": 2017,
+                    "stars": 2019,
                     "pushed_at": "2025-10-13T18:08:48Z",
                     "archived": false,
-                    "etag": "8fc5ceda40d1af525113b7244f26401b274449873de67eaa91802b9c03cff6b5",
+                    "etag": "2d997158947e4d04f98c5d2658701fbe5530501fa2eab83d84e9f0d28342dace",
                     "error": null
                 },
                 {
@@ -1581,10 +1581,10 @@
                     "description": "A collection of web apps which contains bug tracker, kanban board, wiki, chat and everything you need to build software.",
                     "github": "https://github.com/phacility/phabricator/",
                     "site": "http://phacility.com/phabricator/",
-                    "stars": 12307,
+                    "stars": 12306,
                     "pushed_at": "2024-04-12T10:28:40Z",
                     "archived": false,
-                    "etag": "c24ed26b17e2c045bd803fb2589a769a58f0de1344b2be8abdab9bffb4873fe1",
+                    "etag": "c3ccb50a78bbe7a7ef8ebf3c9301222692a5bf85360b293e05abedcf45b8902e",
                     "error": null
                 },
                 {
@@ -1592,10 +1592,10 @@
                     "description": "Kanban board which looks and feels exactly like Trello.",
                     "github": "https://github.com/plankanban/planka",
                     "site": "https://planka.app",
-                    "stars": 11737,
+                    "stars": 11745,
                     "pushed_at": "2026-03-27T14:25:59Z",
                     "archived": false,
-                    "etag": "9ebd9b4283d127c9161e1214b3a136c654336e552723dc7fdc56eee595776307",
+                    "etag": "07c22576b017ba399ce2428481666afb1f4fd06a3a36706347e374ed93db1705",
                     "error": null
                 }
             ]
@@ -1618,10 +1618,10 @@
                     "description": "Web application for real-time collection of geolocation data, tracks viewing and management.",
                     "github": "https://github.com/bfabiszewski/ulogger-server",
                     "site": "https://github.com/bfabiszewski/ulogger-server",
-                    "stars": 605,
+                    "stars": 604,
                     "pushed_at": "2025-03-30T18:00:13Z",
                     "archived": false,
-                    "etag": "19a93879e97c7236b69f40c28bda056eccf8ed8b5ae79e8d4661160bd414ec60",
+                    "etag": "98b3123dbbe1330f4cb04c6b5619473721db7c791c27fbf8767be58701328f69",
                     "error": null
                 }
             ]
@@ -1635,10 +1635,10 @@
                     "description": "Financial manager to help you keep track of expenses, income, budgets and everything in between.",
                     "github": "https://github.com/firefly-iii/firefly-iii",
                     "site": "https://firefly-iii.org/",
-                    "stars": 22783,
+                    "stars": 22790,
                     "pushed_at": "2026-03-27T06:05:18Z",
                     "archived": false,
-                    "etag": "856c6b9e21302211493b1b83b8444677fb227c07faa87603c4d447dd309572b0",
+                    "etag": "82f1a3d99e1d6ff2d25068998a946931981e22dc4664a694443c7c894b04f75c",
                     "error": null
                 },
                 {
@@ -1646,10 +1646,10 @@
                     "description": "Plain text double-entry accounting with 3rd party UI like [Prudent](https://prudent.me/). [Entry point to plain text accounting](https://plaintextaccounting.org/)",
                     "github": "https://github.com/ledger/ledger",
                     "site": "https://www.ledger-cli.org",
-                    "stars": 5894,
-                    "pushed_at": "2026-03-27T08:11:38Z",
+                    "stars": 5896,
+                    "pushed_at": "2026-03-27T23:39:33Z",
                     "archived": false,
-                    "etag": "6b1951f37bc65f5411582d5ad824b72b8b121837f69dea3ed1cc7a485257e450",
+                    "etag": "126fe79ad62f1d3ea95682edc45812fe736268098d2ddb4624cdac8e6c2467bc",
                     "error": null
                 },
                 {
@@ -1657,10 +1657,10 @@
                     "description": "Plain text double-entry accounting with 3rd party web UI like [Fava](https://github.com/beancount/fava)",
                     "github": "https://github.com/beancount/beancount",
                     "site": "http://beancount.github.io/",
-                    "stars": 5413,
+                    "stars": 5419,
                     "pushed_at": "2026-03-23T02:54:50Z",
                     "archived": false,
-                    "etag": "304370626ae36376940de14d2d896e8c4895a6f8fad454a0a1c17bedae304333",
+                    "etag": "d6f50051ace4fc19f3b5e0e1b05373466889da3653b97e78c9b05f16119a4756",
                     "error": null
                 },
                 {
@@ -1668,10 +1668,10 @@
                     "description": "A lightweight personal finance app with a user-friendly interface and powerful bookkeeping features.",
                     "github": "https://github.com/mayswind/ezbookkeeping",
                     "site": "https://ezbookkeeping.mayswind.net",
-                    "stars": 4542,
-                    "pushed_at": "2026-03-22T15:42:41Z",
+                    "stars": 4545,
+                    "pushed_at": "2026-03-28T09:34:47Z",
                     "archived": false,
-                    "etag": "943e3385a4318b0a17b7191eead98d8748f06954f0c9058cbbfb8d10497b7da4",
+                    "etag": "c6bdc19938261eb0a9b1543ce4ed66ccb8be415e7b190c8293145062ea05176f",
                     "error": null
                 }
             ]
@@ -1685,10 +1685,10 @@
                     "description": "Home automation hub which can be deployed on Raspberry Pi",
                     "github": "https://github.com/home-assistant/core",
                     "site": "https://www.home-assistant.io",
-                    "stars": 85872,
-                    "pushed_at": "2026-03-27T14:39:12Z",
+                    "stars": 85888,
+                    "pushed_at": "2026-03-28T14:40:03Z",
                     "archived": false,
-                    "etag": "5f069ed7fe9a53ed5f4c2fdf30fcc300dec59457b55b8f58d5c31d9fa2a523d6",
+                    "etag": "c9521c627597e3110b1f0eea9edd7ccf9f4ff1c9040b818a31566164ce8c698a",
                     "error": null
                 },
                 {
@@ -1705,10 +1705,10 @@
                     "description": "Lightweight server that emulates the iOS HomeKit API so you can work with smart home devices that do not support the HomeKit protocol.",
                     "github": "https://github.com/homebridge/homebridge",
                     "site": "https://homebridge.io",
-                    "stars": 25240,
-                    "pushed_at": "2026-03-21T17:33:58Z",
+                    "stars": 25241,
+                    "pushed_at": "2026-03-27T22:57:00Z",
                     "archived": false,
-                    "etag": "4bf18d0b6e3aa448a04e364f0a2fb3ad39d591b854c5d1ea7f1bc254dd4ecc75",
+                    "etag": "90aa8d2c3187df058192fbaa2dbb533722b45258bda1500789a476cf340f05a3",
                     "error": null
                 }
             ]
@@ -1722,10 +1722,10 @@
                     "description": "Node-based Workflow Automation Tool with visual editor.",
                     "github": "https://github.com/n8n-io/n8n",
                     "site": "https://n8n.io",
-                    "stars": 181358,
-                    "pushed_at": "2026-03-27T14:40:51Z",
+                    "stars": 181448,
+                    "pushed_at": "2026-03-28T13:38:55Z",
                     "archived": false,
-                    "etag": "c504e529e557496a63d4243450958769b58d74132ec07a533fe2074aa1dfac3a",
+                    "etag": "8a2029d5bf2bdc199cf2e4e0add32fb424603f40f26cb6fd71dd165921a84a8c",
                     "error": null
                 },
                 {
@@ -1744,10 +1744,10 @@
                     "description": "System for building agents that perform automated tasks for you online. Written in Ruby.",
                     "github": "https://github.com/huginn/huginn",
                     "site": "https://github.com/huginn/huginn",
-                    "stars": 48978,
-                    "pushed_at": "2026-03-21T09:44:51Z",
+                    "stars": 48987,
+                    "pushed_at": "2026-03-28T01:42:53Z",
                     "archived": false,
-                    "etag": "7b6502b12e08215248aa2e8052529a6ca815ee9316bab35d80225977e8fa2e90",
+                    "etag": "be9d46431a59a6bd06eb2bad67f1b2d10aab298f6925b0372dd385b86c27ea6a",
                     "error": null
                 },
                 {
@@ -1772,10 +1772,10 @@
                     "description": "A web app to manage your Two-Factor Authentication accounts and generate security codes.",
                     "github": "https://github.com/Bubka/2FAuth",
                     "site": "https://docs.2fauth.app/",
-                    "stars": 3835,
+                    "stars": 3837,
                     "pushed_at": "2026-03-25T22:00:42Z",
                     "archived": false,
-                    "etag": "ae357f813a8238714383deea8927981ef3d76cba88282f15e2215a3ee22cd53d",
+                    "etag": "564a1365c046a64229b34b69bc85948e3ef87d05346e2e1eef69dac9b3c5a14e",
                     "error": null
                 }
             ]
@@ -1789,10 +1789,10 @@
                     "description": "Container management tool. It allows anyone to deploy and manage containers without the need to write code.",
                     "github": "https://github.com/portainer/portainer",
                     "site": "https://www.portainer.io",
-                    "stars": 36963,
+                    "stars": 36980,
                     "pushed_at": "2026-03-27T13:26:59Z",
                     "archived": false,
-                    "etag": "7ff64844609d39498722bb0e8ae7181c19346e209baa09334bf32c959b1a70bf",
+                    "etag": "e67f298fa973a3ed015d07fe0923f16aa09b07900301a3505158ccbff0c70da3",
                     "error": null
                 },
                 {
@@ -1803,7 +1803,7 @@
                     "stars": 47,
                     "pushed_at": "2026-02-17T14:31:02Z",
                     "archived": false,
-                    "etag": "3af76a638254fd1e65e01722f239533640c24e34525b69650b46317e7b04d737",
+                    "etag": "0c1ad47354bf88855882b947e22af26746ffb52d141202ebc0ab589d1951a638",
                     "error": null
                 },
                 {
@@ -1814,7 +1814,7 @@
                     "stars": 8736,
                     "pushed_at": "2026-03-26T23:55:50Z",
                     "archived": false,
-                    "etag": "0c64f2f21bf91cc72cd7cd2bf9733eb458b9c7c03570e80af83fdf5898d822a3",
+                    "etag": "c131b049bdfd31eb228e0cb4e5d2a6899789c4f50ea8e697e3e3140f1bc08658",
                     "error": null
                 },
                 {
@@ -1822,10 +1822,10 @@
                     "description": "Either a docker image or OS that provides you with the most beautiful web interface to manage containerized web services.",
                     "github": "https://github.com/getumbrel/umbrel",
                     "site": "https://umbrel.com",
-                    "stars": 10837,
+                    "stars": 10846,
                     "pushed_at": "2026-02-11T06:34:24Z",
                     "archived": false,
-                    "etag": "fe804107a67dc78da76df0606852dc74c43a3e4339baad56d07357d1a3776dc2",
+                    "etag": "7a635361c45122c41b446890e0b04aa4ff6bc0bfd9c25f8d43b1ce221cc09473",
                     "error": null
                 }
             ]
