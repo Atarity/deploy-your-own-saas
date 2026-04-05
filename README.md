@@ -237,6 +237,7 @@
 | [Linx](https://github.com/andreimarcu/linx-server) | Simple file/code/media sharing website. | 1568 | 🟠 11mo |
 | [XBackBone](https://github.com/SergiX44/XBackBone) | PHP file manager that support the instant sharing tools like ShareX, uPic, etc | 1129 | 🟠 1mo |
 | [Lufi](https://github.com/ldidry/lufi) | Convenient file sharing with E2E encryption. | 343 | 🟠 2mo |
+| [FileShot](https://github.com/FileShot/FileShotZKE) | Zero-knowledge encrypted file sharing. AES-256-GCM encryption happens in the browser; the decryption key never leaves the URL fragment. | 25 | 🟢 1d |
 | [Send](https://gitlab.com/timvisee/send) | Simple, private file sharing with encryption. A Firefox Send fork. | n/a | n/a |
 
 &nbsp;
@@ -378,3 +379,4 @@ Worth to check:
 - https://github.com/sovereign/sovereign
 
 Cover mashup based on [KADA★BURA](https://www.kadaburadraws.com/pixel-art#/text-rpg/) art.
+
