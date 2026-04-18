@@ -378,3 +378,5 @@ Worth to check:
 - https://github.com/sovereign/sovereign
 
 Cover mashup based on [KADA★BURA](https://www.kadaburadraws.com/pixel-art#/text-rpg/) art.
+
+- [MeterCall](https://metercall.ai/?v=e&src=github) — One metered API gateway. 21M+ endpoints (payments, SMS, AI, CRMs, gov data). Free tier; pay per call.
