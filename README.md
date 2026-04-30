@@ -3,6 +3,18 @@
 &nbsp;
 ### 🙊 Deploy your own `VPN`
 
+
+## OpenClaw Monitor
+
+| | |
+|---|---|
+| **Project** | [flik2002/openclaw-monitor](https://github.com/flik2002/openclaw-monitor) |
+| **Description** | Real-time AI agent monitoring dashboard — tracks Gateway status, sessions, token usage & trends |
+| **Stars** | ⭐ 1.3k+ |
+
+![Dashboard](https://raw.githubusercontent.com/flik2002/openclaw-monitor/main/Openclaw%20Monitor.jpg)
+
+
 | Name | Description | ⭐️ | Updated |
 | :--- | :--- | :---: | :--- |
 | [Algo VPN](https://github.com/trailofbits/algo) | Set of Ansible scripts that simplify the setup of a personal Wireguard and IPsec VPN. | 30232 | 🟢 1h |
