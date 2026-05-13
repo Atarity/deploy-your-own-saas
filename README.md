@@ -250,6 +250,7 @@
 | [MediaWiki](https://github.com/wikimedia/mediawiki) | Collaboration and documentation platform with enormous capabilities. | 5054 | 🟢 1h |
 | [Dokuwiki](https://github.com/splitbrain/dokuwiki) | Simple wiki that doesn't require a database. | 4612 | 🟢 22m |
 | [Hypothes.is](https://github.com/hypothesis/h) | Web annotating system with search, storing, collaboration, sharing and integrations. | 3138 | 🟢 4h |
+| [Dakera](https://github.com/dakera-ai/dakera) | Self-hosted AI agent memory service with hybrid semantic search and persistent storage. Deploy via Docker Compose with no cloud dependencies. | 0 | 🟢 0m |
 
 &nbsp;
 ### 🔑 Deploy your own `Password manager`
