@@ -180,6 +180,7 @@
 | [Ghost](https://github.com/TryGhost/Ghost) | Headless Node.js CMS for professional publishing. | 54066 | 🟢 20h |
 | [Jekyll](https://github.com/jekyll/jekyll) | Static websites and blogs. | 51507 | 🟠 1mo |
 | [Eleventy](https://github.com/11ty/eleventy) | A simpler site generator. Transforms a directory of templates (of varying types) into HTML. | 19718 | 🟢 2d |
+| [UnfoldCMS](https://github.com/hpakdaman/unfoldcms) | Self-hosted CMS (Laravel 12 + React 19 + shadcn/ui) with REST API v1, webhooks, and headless mode for Next.js, Astro, SvelteKit, and Nuxt. | — | 🟢 |
 
 &nbsp;
 ### 🗣 Deploy your own `Disqus comments`
