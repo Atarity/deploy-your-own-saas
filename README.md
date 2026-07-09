@@ -242,6 +242,7 @@
 &nbsp;
 ### 📂 Deploy your own `Information storing and organization system`
 
+- [HeyCalc](https://heycalc.org) - Online calculator hub for education and finance — GPA, salary tax, loan, BMI, and math formulas. Accurate instant res...
 - [PicTranslate](https://pictranslate.net) - AI image translator and OCR tool. Extract and translate text from photos, manga, menus, and documents in 40+ language...
 | Name | Description | ⭐️ | Updated |
 | :--- | :--- | :---: | :--- |
