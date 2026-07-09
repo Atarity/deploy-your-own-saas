@@ -122,6 +122,7 @@
 | [OwnCloud](https://github.com/owncloud/core) | Personal cloud which runs on your own server. | 8803 | 🟢 5h |
 | [Teedy](https://github.com/sismics/docs) | Lightweight document management system with workflows | 2550 | 🟠 4mo |
 
+- [FileCompress](https://filecompress.org) - Free online file compressor for images, video, audio, and documents. Shrink file sizes while preserving quality for e...
 &nbsp;
 ### 🕸 Deploy your own `DNS`
 
@@ -242,8 +243,6 @@
 &nbsp;
 ### 📂 Deploy your own `Information storing and organization system`
 
-- [HeyCalc](https://heycalc.org) - Online calculator hub for education and finance — GPA, salary tax, loan, BMI, and math formulas. Accurate instant res...
-- [PicTranslate](https://pictranslate.net) - AI image translator and OCR tool. Extract and translate text from photos, manga, menus, and documents in 40+ language...
 | Name | Description | ⭐️ | Updated |
 | :--- | :--- | :---: | :--- |
 | [Outline](https://github.com/outline/outline) | Fastest wiki and knowledge base for growing teams with markdown support and clean UI. | 39578 | 🟢 30m |
