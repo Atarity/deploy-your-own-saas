@@ -315,6 +315,7 @@
 | [Phabricator](https://github.com/phacility/phabricator/) | A collection of web apps which contains bug tracker, kanban board, wiki, chat and everything you need to build software. | 12288 | 🔴 2y |
 | [Kanboard](https://github.com/kanboard/kanboard) | Project management software that focuses on the Kanban methodology. | 9901 | 🟢 7d |
 | [Taiga](https://github.com/taigaio/taiga-docker) | Project management software with a kanban board, sprints, wiki and tickets. | 2157 | 🟠 11mo |
+| [Tale](https://github.com/tale-project/tale) | Open-source workspace for teams and AI agents with shared tasks and project boards. | 33 | 🟢 3h |
 
 &nbsp;
 ### 🛰 Deploy your own `GPS tracking system`
