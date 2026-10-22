@@ -5,8 +5,8 @@
 
 | Name | Description | ⭐️ | Updated |
 | :--- | :--- | :---: | :--- |
-| [Algo VPN](https://github.com/trailofbits/algo) | Set of Ansible scripts that simplify the setup of a personal Wireguard and IPsec VPN. | 30434 | 🟢 6d |
-| [OpenVPN](https://github.com/OpenVPN/openvpn) | Full-featured open source VPN solution. | 14711 | 🟢 1h |
+| [Algo VPN](https://github.com/trailofbits/algo) | Set of Ansible scripts that simplify the setup of a personal Wireguard and IPsec VPN. | 30433 | 🟢 7d |
+| [OpenVPN](https://github.com/OpenVPN/openvpn) | Full-featured open source VPN solution. | 14719 | 🟢 1h |
 | [dockovpn.io](https://github.com/alekslitvinenk/docker-openvpn) | Stateless OpenVPN dockerized server which doesn't require persistent storage. | 1430 | 🔴 2y |
 | [WireGuard](https://www.wireguard.com/) | Faster, simpler, leaner, and more useful than IPsec. It intends to be considerably more performant than OpenVPN. | n/a | n/a |
 
@@ -15,12 +15,12 @@
 
 | Name | Description | ⭐️ | Updated |
 | :--- | :--- | :---: | :--- |
-| [Koel](https://github.com/phanan/koel) | Simple web-based personal audio streaming service. | 17293 | 🟢 17h |
-| [Audiobookshelf](https://github.com/advplyr/audiobookshelf) | Audiobook and podcast server. | 14728 | 🟢 15d |
-| [Mopidy](https://github.com/mopidy/mopidy) | Extensible music server. | 8601 | 🟢 17h |
-| [Black Candy](https://github.com/blackcandy-org/blackcandy) | Music streaming server with web UI and iOS/Android apps. | 4429 | 🟢 6h |
-| [AzuraCast](https://github.com/AzuraCast/AzuraCast) | Web radio management suite, with a modern web app. | 4069 | 🟢 23h |
-| [Ampache](https://github.com/ampache/ampache) | Web based audio/video streaming application and file manager. | 3837 | 🟢 8h |
+| [Koel](https://github.com/phanan/koel) | Simple web-based personal audio streaming service. | 17298 | 🟢 17h |
+| [Audiobookshelf](https://github.com/advplyr/audiobookshelf) | Audiobook and podcast server. | 14746 | 🟢 16d |
+| [Mopidy](https://github.com/mopidy/mopidy) | Extensible music server. | 8602 | 🟢 1d |
+| [Black Candy](https://github.com/blackcandy-org/blackcandy) | Music streaming server with web UI and iOS/Android apps. | 4428 | 🟢 1d |
+| [AzuraCast](https://github.com/AzuraCast/AzuraCast) | Web radio management suite, with a modern web app. | 4069 | 🟢 2h |
+| [Ampache](https://github.com/ampache/ampache) | Web based audio/video streaming application and file manager. | 3837 | 🟢 3h |
 | [Madsonic](https://beta.madsonic.org/pages/index.jsp) | Web-based media library and media streamer with jukebox functionality. | n/a | n/a |
 | [Funkwhale](https://funkwhale.audio/) | Web-based music library with Airsonic compatibility. | n/a | n/a |
 
@@ -29,20 +29,20 @@
 
 | Name | Description | ⭐️ | Updated |
 | :--- | :--- | :---: | :--- |
-| [Immich](https://github.com/immich-app/immich) | High performance photo and video solution with familiar UI. | 116828 | 🟢 7m |
-| [PhotoPrism](https://github.com/photoprism/photoprism) | Personal photo management with Ai classification and lots of features. | 40335 | 🟢 2h |
+| [Immich](https://github.com/immich-app/immich) | High performance photo and video solution with familiar UI. | 116918 | 🟢 14m |
+| [PhotoPrism](https://github.com/photoprism/photoprism) | Personal photo management with Ai classification and lots of features. | 40342 | 🟢 2h |
 | [Lychee](https://github.com/electerious/Lychee) | Upload, manage and share photos like from a native application. | 6364 | 🔴 4y |
-| [Piwigo](https://github.com/Piwigo/Piwigo) | PHP image gallery. | 3868 | 🟢 58m |
-| [Pinry](https://github.com/pinry/pinry) | Your own Pinterest with boards and tags. | 3430 | 🟠 9mo |
-| [Chevereto](https://github.com/chevereto/chevereto) | Powerful and fast image hosting script that allows you to create your very own image hosting website in just minutes. | 999 | 🟢 28d |
+| [Piwigo](https://github.com/Piwigo/Piwigo) | PHP image gallery. | 3868 | 🟢 2h |
+| [Pinry](https://github.com/pinry/pinry) | Your own Pinterest with boards and tags. | 3429 | 🟠 9mo |
+| [Chevereto](https://github.com/chevereto/chevereto) | Powerful and fast image hosting script that allows you to create your very own image hosting website in just minutes. | 1002 | 🟢 20h |
 
 &nbsp;
 ### 📚 Deploy your own `eBooks catalog`
 
 | Name | Description | ⭐️ | Updated |
 | :--- | :--- | :---: | :--- |
-| [Calibre](https://github.com/kovidgoyal/calibre) | E-book manager packed with all you need features including server, viewer, editor and more. | 26203 | 🟢 9h |
-| [Calibre-Web](https://github.com/janeczku/calibre-web) | Web UI for Calibre database. | 18428 | 🟢 11d |
+| [Calibre](https://github.com/kovidgoyal/calibre) | E-book manager packed with all you need features including server, viewer, editor and more. | 26219 | 🟢 3h |
+| [Calibre-Web](https://github.com/janeczku/calibre-web) | Web UI for Calibre database. | 18433 | 🟢 12d |
 | [COPS](https://github.com/seblucas/cops) | Calibre OPDS and HTML server. | 1489 | 🔴 2y |
 
 &nbsp;
@@ -50,10 +50,10 @@
 
 | Name | Description | ⭐️ | Updated |
 | :--- | :--- | :---: | :--- |
-| [Nocodb](https://github.com/nocodb/nocodb) | Airtable alternative could be based on top of MySQL, PostgreSQL, SQL Server, SQLite & MariaDB with solid GUI | 65313 | 🟢 1h |
-| [Baserow](https://github.com/baserow/baserow) | Your own API-focused Airtable with plugins. | 6184 | 🟢 1h |
-| [ONLYOFFICE CE](https://github.com/ONLYOFFICE/DesktopEditors) | Private cloud office with collaboration features. CE version distributed as [Docker image](https://helpcenter.onlyoffice.com/docs/installation/docs-community-install-docker.aspx). | 5615 | 🟢 52m |
-| [Collabora](https://github.com/CollaboraOnline/online) | LibreOffice in the cloud with collaboration features. | 3381 | 🟢 11d |
+| [Nocodb](https://github.com/nocodb/nocodb) | Airtable alternative could be based on top of MySQL, PostgreSQL, SQL Server, SQLite & MariaDB with solid GUI | 65323 | 🟢 1h |
+| [Baserow](https://github.com/baserow/baserow) | Your own API-focused Airtable with plugins. | 6192 | 🟢 1h |
+| [ONLYOFFICE CE](https://github.com/ONLYOFFICE/DesktopEditors) | Private cloud office with collaboration features. CE version distributed as [Docker image](https://helpcenter.onlyoffice.com/docs/installation/docs-community-install-docker.aspx). | 5616 | 🟢 6h |
+| [Collabora](https://github.com/CollaboraOnline/online) | LibreOffice in the cloud with collaboration features. | 3383 | 🟢 12d |
 | [SeaTable](https://github.com/seatable/seatable) | Your own Airtable where spreadsheets meets database. | 715 | 🟠 11mo |
 
 &nbsp;
@@ -61,18 +61,18 @@
 
 | Name | Description | ⭐️ | Updated |
 | :--- | :--- | :---: | :--- |
-| [Jellyfin](https://github.com/jellyfin/jellyfin) | Media system that puts you in control of managing and streaming your media. | 58324 | 🟢 1d |
+| [Jellyfin](https://github.com/jellyfin/jellyfin) | Media system that puts you in control of managing and streaming your media. | 58374 | 🟢 3h |
 
 &nbsp;
 ### 📝 Deploy your own `Notes`
 
 | Name | Description | ⭐️ | Updated |
 | :--- | :--- | :---: | :--- |
-| [Memos](https://github.com/usememos/memos) | Memo hub with knowledge management and socialization. | 63973 | 🟢 51m |
+| [Memos](https://github.com/usememos/memos) | Memo hub with knowledge management and socialization. | 64003 | 🟢 3h |
 | [Leanote](https://github.com/leanote/leanote) | Your own Evernote. | 11672 | 🔴 2y |
-| [CodiMD](https://github.com/hackmdio/codimd) | Realtime collaborative markdown notes. | 10156 | 🔴 1y |
-| [Standard Notes](https://github.com/standardnotes/app) | Clean and simple web app with E2E encryption, extensions and clients. [How to self-host tutorial](https://theselfhostingblog.com/posts/how-to-completely-self-host-standard-notes/) | 6674 | 🟢 4d |
-| [Bangle.io](https://github.com/bangle-io/bangle-io) | Web only WYSIWYG note taking app that saves notes locally in markdown. | 1236 | 🟢 6d |
+| [CodiMD](https://github.com/hackmdio/codimd) | Realtime collaborative markdown notes. | 10158 | 🔴 1y |
+| [Standard Notes](https://github.com/standardnotes/app) | Clean and simple web app with E2E encryption, extensions and clients. [How to self-host tutorial](https://theselfhostingblog.com/posts/how-to-completely-self-host-standard-notes/) | 6677 | 🟢 1h |
+| [Bangle.io](https://github.com/bangle-io/bangle-io) | Web only WYSIWYG note taking app that saves notes locally in markdown. | 1236 | 🟢 1h |
 | [TinyList](https://github.com/baggachipz/tinylist) | Your own Google Keep. Simple and clean. | 133 | 🟠 8mo |
 
 &nbsp;
@@ -80,13 +80,13 @@
 
 | Name | Description | ⭐️ | Updated |
 | :--- | :--- | :---: | :--- |
-| [Hoarder](https://github.com/hoarder-app/hoarder) | Bookmark-everything app with AI-based tagging and full text search. | 29875 | 🟢 1d |
-| [Linkding](https://github.com/sissbruecker/linkding) | Simple bookmarks with tags and neat UI. | 11326 | 🟢 19d |
-| [LinkAce](https://github.com/Kovah/LinkAce) | Bookmark archive with tags, lists and sharing features. | 3344 | 🟢 2d |
+| [Hoarder](https://github.com/hoarder-app/hoarder) | Bookmark-everything app with AI-based tagging and full text search. | 29890 | 🟢 7h |
+| [Linkding](https://github.com/sissbruecker/linkding) | Simple bookmarks with tags and neat UI. | 11329 | 🟢 20d |
+| [LinkAce](https://github.com/Kovah/LinkAce) | Bookmark archive with tags, lists and sharing features. | 3345 | 🟢 19h |
 | [xBrowserSync](https://github.com/xbrowsersync/app) | Secure and anonymous bookmarking server with browser plugins and mobile app. | 1738 | 🟠 7mo |
-| [Unmark](https://github.com/cdevroe/unmark) | Application for bookmarks. | 1633 | 🟢 5d |
-| [Nextcloud Bookmarks](https://github.com/nextcloud/bookmarks) | Bookmark app for Nextcloud with browser plugins, mobile and desktop apps. | 1218 | 🟢 8h |
-| [Briefkasten](https://github.com/ndom91/briefkasten) | Bookmark web app with REST API, OAuth, drag-n-drop and browser extension. | 1182 | 🟢 30d |
+| [Unmark](https://github.com/cdevroe/unmark) | Application for bookmarks. | 1633 | 🟢 6d |
+| [Nextcloud Bookmarks](https://github.com/nextcloud/bookmarks) | Bookmark app for Nextcloud with browser plugins, mobile and desktop apps. | 1218 | 🟢 13h |
+| [Briefkasten](https://github.com/ndom91/briefkasten) | Bookmark web app with REST API, OAuth, drag-n-drop and browser extension. | 1182 | 🟠 1mo |
 | [Benotes](https://github.com/fr0tt/benotes) | Bookmark taking web app with additional note taking feature. | 859 | 🔴 1y |
 | [Bookmarks](https://github.com/dyu/bookmarks) | Self-hosted bookmarking app that can import bookmarks from delicious and chrome. | 149 | 🔴 3y |
 | [Readeck](https://readeck.org/) | Selfhosted bookmarking app with the modern UI, smart features and browser extension. | n/a | n/a |
@@ -96,9 +96,9 @@
 
 | Name | Description | ⭐️ | Updated |
 | :--- | :--- | :---: | :--- |
-| [Yourls](https://github.com/YOURLS/YOURLS) | Customizable, URL shortener in PHP. Detailed stats, analytics, plugins, and more included. | 12264 | 🟢 2d |
-| [Kutt](https://github.com/thedevs-network/kutt) | Modern URL shortener with support for custom domains. | 11160 | 🟢 2d |
-| [Shlink](https://github.com/shlinkio/shlink) | URL shortener with neat UI, API and analytics. | 5353 | 🟢 5d |
+| [Yourls](https://github.com/YOURLS/YOURLS) | Customizable, URL shortener in PHP. Detailed stats, analytics, plugins, and more included. | 12268 | 🟢 3d |
+| [Kutt](https://github.com/thedevs-network/kutt) | Modern URL shortener with support for custom domains. | 11163 | 🟢 3d |
+| [Shlink](https://github.com/shlinkio/shlink) | URL shortener with neat UI, API and analytics. | 5357 | 🟢 20h |
 | [Delta](https://github.com/fosslife/delta) | A file uploader and URL shortener packed with features and CLI. | 126 | 🔴 5y |
 
 &nbsp;
@@ -106,8 +106,8 @@
 
 | Name | Description | ⭐️ | Updated |
 | :--- | :--- | :---: | :--- |
-| [Radicale](https://github.com/Kozea/Radicale) | Small CalDAV and CardDAV server made with Python. Simple file storage and plugins | 5128 | 🟢 8h |
-| [Sabre](https://github.com/sabre-io/Baikal) | CardDAV, CalDAV and WebDAV server made with PHP. | 3339 | 🟢 1d |
+| [Radicale](https://github.com/Kozea/Radicale) | Small CalDAV and CardDAV server made with Python. Simple file storage and plugins | 5136 | 🟢 8h |
+| [Sabre](https://github.com/sabre-io/Baikal) | CardDAV, CalDAV and WebDAV server made with PHP. | 3344 | 🟢 2d |
 | [Calendar Server](https://github.com/apple/ccs-calendarserver) | Calendar and contacts server made by Apple. | 507 | 🔴 6y |
 
 &nbsp;
@@ -115,50 +115,50 @@
 
 | Name | Description | ⭐️ | Updated |
 | :--- | :--- | :---: | :--- |
-| [Syncthing](https://github.com/syncthing/syncthing) | Continuous file synchronization program. | 89590 | 🟢 6h |
-| [MinIO](https://github.com/minio/minio) | Object storage server compatible with Amazon S3 APIs. | 61312 | 🟠 5mo |
-| [Nextcloud](https://github.com/nextcloud/server) | Enhanced OwnCloud fork with tons of [additional services](https://apps.nextcloud.com/) like calendars, mail, contacts, video calls, etc . | 37197 | 🟢 4m |
-| [Filestash](https://github.com/mickael-kerjean/filestash) | Easily turn popular backends like SFTP, S3, GitHub etc into web-based file manager | 14817 | 🟢 4d |
-| [OwnCloud](https://github.com/owncloud/core) | Personal cloud which runs on your own server. | 8837 | 🟢 7h |
-| [Teedy](https://github.com/sismics/docs) | Lightweight document management system with workflows | 2570 | 🟢 3d |
+| [Syncthing](https://github.com/syncthing/syncthing) | Continuous file synchronization program. | 89618 | 🟢 1d |
+| [MinIO](https://github.com/minio/minio) | Object storage server compatible with Amazon S3 APIs. | 61308 | 🟠 5mo |
+| [Nextcloud](https://github.com/nextcloud/server) | Enhanced OwnCloud fork with tons of [additional services](https://apps.nextcloud.com/) like calendars, mail, contacts, video calls, etc . | 37227 | 🟢 1m |
+| [Filestash](https://github.com/mickael-kerjean/filestash) | Easily turn popular backends like SFTP, S3, GitHub etc into web-based file manager | 14817 | 🟢 8h |
+| [OwnCloud](https://github.com/owncloud/core) | Personal cloud which runs on your own server. | 8838 | 🟢 1d |
+| [Teedy](https://github.com/sismics/docs) | Lightweight document management system with workflows | 2570 | 🟢 4d |
 
 &nbsp;
 ### 🕸 Deploy your own `DNS`
 
 | Name | Description | ⭐️ | Updated |
 | :--- | :--- | :---: | :--- |
-| [Unbound](https://github.com/NLnetLabs/unbound) | Validating, recursive, caching DNS resolver. Fast and lean and incorporates modern features based on open standards. | 4996 | 🟢 2h |
+| [Unbound](https://github.com/NLnetLabs/unbound) | Validating, recursive, caching DNS resolver. Fast and lean and incorporates modern features based on open standards. | 4997 | 🟢 2h |
 
 &nbsp;
 ### 🛑 Deploy your own `AdBlock`
 
 | Name | Description | ⭐️ | Updated |
 | :--- | :--- | :---: | :--- |
-| [Pi-hole](https://github.com/pi-hole/pi-hole) | Network-wide ad blocking software you can deploy to local Raspberry Pi or [always-free instance of Google Cloud](https://github.com/n3m351d4/Pi-Hole-PiVPN-on-Google-Compute-Engine-Free-Tier-with-Full-Tunnel-and-Split-Tunnel-OpenVPN-Configs). Yes, you've got the irony right. | 61370 | 🟢 21h |
-| [AdGuard Home](https://github.com/AdguardTeam/AdGuardHome) | Network-wide DNS resolver with encryption for blocking ads & tracking. | 37578 | 🟢 1d |
+| [Pi-hole](https://github.com/pi-hole/pi-hole) | Network-wide ad blocking software you can deploy to local Raspberry Pi or [always-free instance of Google Cloud](https://github.com/n3m351d4/Pi-Hole-PiVPN-on-Google-Compute-Engine-Free-Tier-with-Full-Tunnel-and-Split-Tunnel-OpenVPN-Configs). Yes, you've got the irony right. | 61387 | 🟢 1d |
+| [AdGuard Home](https://github.com/AdguardTeam/AdGuardHome) | Network-wide DNS resolver with encryption for blocking ads & tracking. | 37611 | 🟢 2d |
 
 &nbsp;
 ### ✉️ Deploy your own `Email server`
 
 | Name | Description | ⭐️ | Updated |
 | :--- | :--- | :---: | :--- |
-| [Postal](https://github.com/postalhq/postal) | A fully featured mail server with web UI. | 16879 | 🟢 20h |
-| [Mail-in-a-Box](https://github.com/mail-in-a-box/mailinabox) | Another mail server suite based on Postfix, Dovecot, Z-Push, Roundcube, Nextcloud, Apache SpamAssassin, Postgrey, Nginx. | 15444 | 🟢 24d |
-| [Mailcow](https://github.com/mailcow/mailcow-dockerized) | Dockerized mail server suite based on Postfix, Dovecot, Nginx, PHP, MariaDB, Rspamd and more. | 13639 | 🟢 10m |
-| [Mailu](https://github.com/Mailu/Mailu) | Dockerized, secured mail suite which is easy to install and maintain. | 7570 | 🟢 20h |
-| [Roundcube](https://github.com/roundcube/roundcubemail) | Browser-based IMAP client with an application-like user interface. | 7230 | 🟢 21h |
-| [Maddy](https://github.com/foxcpp/maddy) | A composable all-in-one mail server written in Golang. | 6111 | 🟢 1d |
-| [iRedMail](https://github.com/iredmail/iRedMail) | Mail server suite with vast of options. | 1848 | 🟢 2d |
+| [Postal](https://github.com/postalhq/postal) | A fully featured mail server with web UI. | 16881 | 🟢 1d |
+| [Mail-in-a-Box](https://github.com/mail-in-a-box/mailinabox) | Another mail server suite based on Postfix, Dovecot, Z-Push, Roundcube, Nextcloud, Apache SpamAssassin, Postgrey, Nginx. | 15449 | 🟢 25d |
+| [Mailcow](https://github.com/mailcow/mailcow-dockerized) | Dockerized mail server suite based on Postfix, Dovecot, Nginx, PHP, MariaDB, Rspamd and more. | 13660 | 🟢 6h |
+| [Mailu](https://github.com/Mailu/Mailu) | Dockerized, secured mail suite which is easy to install and maintain. | 7575 | 🟢 37m |
+| [Roundcube](https://github.com/roundcube/roundcubemail) | Browser-based IMAP client with an application-like user interface. | 7237 | 🟢 19m |
+| [Maddy](https://github.com/foxcpp/maddy) | A composable all-in-one mail server written in Golang. | 6110 | 🟢 2d |
+| [iRedMail](https://github.com/iredmail/iRedMail) | Mail server suite with vast of options. | 1848 | 🟢 3d |
 
 &nbsp;
 ### 💬 Deploy your own `Chat server`
 
 | Name | Description | ⭐️ | Updated |
 | :--- | :--- | :---: | :--- |
-| [Rocket Chat](https://github.com/RocketChat/Rocket.Chat) | WebChat platform. | 46305 | 🟢 11m |
-| [Mattermost](https://github.com/mattermost/mattermost-server) | Private cloud, Slack-alternative. | 39400 | 🟢 12m |
-| [Zulip](https://github.com/zulip/zulip) | Team chat which combined the immediacy of real-time chat with an email threading model. | 26086 | 🟢 1h |
-| [Mumble](https://github.com/mumble-voip/mumble) | Low-latency, high quality **voice chat** for gaming. | 8351 | 🟢 46m |
+| [Rocket Chat](https://github.com/RocketChat/Rocket.Chat) | WebChat platform. | 46294 | 🟢 0m |
+| [Mattermost](https://github.com/mattermost/mattermost-server) | Private cloud, Slack-alternative. | 39406 | 🟢 1m |
+| [Zulip](https://github.com/zulip/zulip) | Team chat which combined the immediacy of real-time chat with an email threading model. | 26093 | 🟢 5h |
+| [Mumble](https://github.com/mumble-voip/mumble) | Low-latency, high quality **voice chat** for gaming. | 8354 | 🟢 15h |
 | [Prosody IM](https://prosody.im/) | Modern XMPP communication server. | n/a | n/a |
 | [Matrix](https://matrix.org) | Ecosystem for open federated Instant Messaging and VoIP. | n/a | n/a |
 
@@ -167,39 +167,39 @@
 
 | Name | Description | ⭐️ | Updated |
 | :--- | :--- | :---: | :--- |
-| [Jitsi](https://github.com/jitsi/jitsi-meet) | Multi-platform open-source video conferencing. | 30117 | 🟢 4h |
-| [Nextcloud Talk](https://github.com/nextcloud/spreed/) | Chat or video calls via web or mobile apps, including screen sharing and webinar functionality. | 2218 | 🟢 20m |
+| [Jitsi](https://github.com/jitsi/jitsi-meet) | Multi-platform open-source video conferencing. | 30121 | 🟢 54m |
+| [Nextcloud Talk](https://github.com/nextcloud/spreed/) | Chat or video calls via web or mobile apps, including screen sharing and webinar functionality. | 2218 | 🟢 4h |
 
 &nbsp;
 ### ✍️ Deploy your own `Publishing system`
 
 | Name | Description | ⭐️ | Updated |
 | :--- | :--- | :---: | :--- |
-| [Hugo](https://github.com/gohugoio/hugo) | Static site generators with amazing speed. | 90191 | 🟢 2h |
-| [Gatsby](https://github.com/gatsbyjs/gatsby) | React-based framework with performance, scalability, and security built in. | 55937 | 🟢 1d |
-| [Ghost](https://github.com/TryGhost/Ghost) | Headless Node.js CMS for professional publishing. | 55579 | 🟢 1m |
-| [Jekyll](https://github.com/jekyll/jekyll) | Static websites and blogs. | 51724 | 🟢 7d |
-| [Eleventy](https://github.com/11ty/eleventy) | A simpler site generator. Transforms a directory of templates (of varying types) into HTML. | 19981 | 🟢 13h |
+| [Hugo](https://github.com/gohugoio/hugo) | Static site generators with amazing speed. | 90201 | 🟢 4h |
+| [Gatsby](https://github.com/gatsbyjs/gatsby) | React-based framework with performance, scalability, and security built in. | 55935 | 🟢 2d |
+| [Ghost](https://github.com/TryGhost/Ghost) | Headless Node.js CMS for professional publishing. | 55588 | 🟢 0m |
+| [Jekyll](https://github.com/jekyll/jekyll) | Static websites and blogs. | 51728 | 🟢 8d |
+| [Eleventy](https://github.com/11ty/eleventy) | A simpler site generator. Transforms a directory of templates (of varying types) into HTML. | 19981 | 🟢 8m |
 
 &nbsp;
 ### 🗣 Deploy your own `Disqus comments`
 
 | Name | Description | ⭐️ | Updated |
 | :--- | :--- | :---: | :--- |
-| [Remark42](https://github.com/umputun/remark42) | Self-hosted, lightweight, and simple  commenting system, which doesn’t spy on users | 5629 | 🟢 1d |
-| [Isso](https://github.com/posativ/isso) | Lightweight commenting server. It aims to be a drop-in replacement for Disqus. | 5311 | 🟠 1mo |
-| [Staticman](https://github.com/eduardoboucas/staticman) | Commenting server for static sites which stores all user generated content into your own repository. | 2451 | 🔴 2y |
+| [Remark42](https://github.com/umputun/remark42) | Self-hosted, lightweight, and simple  commenting system, which doesn’t spy on users | 5633 | 🟢 2d |
+| [Isso](https://github.com/posativ/isso) | Lightweight commenting server. It aims to be a drop-in replacement for Disqus. | 5311 | 🟢 19h |
+| [Staticman](https://github.com/eduardoboucas/staticman) | Commenting server for static sites which stores all user generated content into your own repository. | 2450 | 🔴 2y |
 
 &nbsp;
 ### 📈 Deploy your own `Web analytics engine`
 
 | Name | Description | ⭐️ | Updated |
 | :--- | :--- | :---: | :--- |
-| [Matomo](https://github.com/matomo-org/matomo) | Open analytics platform. | 21965 | 🟢 1h |
-| [GoAccess](https://github.com/allinurl/goaccess) | Real-time web log analyzer and interactive viewer that runs in a terminal or through browser. | 21064 | 🟢 13h |
-| [Fathom Lite](https://github.com/usefathom/fathom) | Simple, privacy-focused website analytics. | 8020 | 🟠 7mo |
-| [GoatCounter](https://github.com/arp242/goatcounter) | Easy analytics without tracking. | 6077 | 🟢 23d |
-| [Ackee](https://github.com/electerious/Ackee) | Self-hosted, Node.js based analytics tool for those who care about privacy. | 4719 | 🟢 1d |
+| [Matomo](https://github.com/matomo-org/matomo) | Open analytics platform. | 21973 | 🟢 10m |
+| [GoAccess](https://github.com/allinurl/goaccess) | Real-time web log analyzer and interactive viewer that runs in a terminal or through browser. | 21070 | 🟢 1d |
+| [Fathom Lite](https://github.com/usefathom/fathom) | Simple, privacy-focused website analytics. | 8019 | 🟠 7mo |
+| [GoatCounter](https://github.com/arp242/goatcounter) | Easy analytics without tracking. | 6080 | 🟢 24d |
+| [Ackee](https://github.com/electerious/Ackee) | Self-hosted, Node.js based analytics tool for those who care about privacy. | 4718 | 🟢 2d |
 | [Shynet](https://github.com/milesmcc/shynet) | Privacy-friendly, detailed web analytics that works without cookies or JS. | 3156 | 🟠 7mo |
 
 &nbsp;
@@ -207,7 +207,7 @@
 
 | Name | Description | ⭐️ | Updated |
 | :--- | :--- | :---: | :--- |
-| [SearXNG](https://github.com/searxng/searxng) | Metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled. | 38700 | 🟢 1d |
+| [SearXNG](https://github.com/searxng/searxng) | Metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled. | 38731 | 🟢 2d |
 | [Whoogle](https://github.com/benbusby/whoogle-search) | Search results without ads, JavaScript, AMP links, cookies, or IP address tracking. | 11561 | 🟠 2mo |
 
 &nbsp;
@@ -215,16 +215,16 @@
 
 | Name | Description | ⭐️ | Updated |
 | :--- | :--- | :---: | :--- |
-| [Restic](https://github.com/restic/restic/) | Encrypted, deduplicated & simple backups with an easy-to-use CLI. | 36705 | 🟢 3d |
-| [Borg](https://github.com/borgbackup/borg) | Deduplicating archiver with compression and authenticated encryption. | 13868 | 🟢 1d |
-| [ElkarBackup](https://github.com/elkarbackup/elkarbackup) | Backup solution based on RSync/RSnapshot. | 418 | 🟠 4mo |
+| [Restic](https://github.com/restic/restic/) | Encrypted, deduplicated & simple backups with an easy-to-use CLI. | 36725 | 🟢 4d |
+| [Borg](https://github.com/borgbackup/borg) | Deduplicating archiver with compression and authenticated encryption. | 13872 | 🟢 2d |
+| [ElkarBackup](https://github.com/elkarbackup/elkarbackup) | Backup solution based on RSync/RSnapshot. | 418 | 🟢 16h |
 
 &nbsp;
 ### 🔗 Deploy your own `Web archive`
 
 | Name | Description | ⭐️ | Updated |
 | :--- | :--- | :---: | :--- |
-| [ArchiveBox](https://github.com/pirate/ArchiveBox) | Web archive. Preserve and organize content from websites in a variety of formats. | 28837 | 🟢 22h |
+| [ArchiveBox](https://github.com/pirate/ArchiveBox) | Web archive. Preserve and organize content from websites in a variety of formats. | 28846 | 🟢 1d |
 | [Archivy](https://github.com/archivy/archivy/) | Knowledge repository that allows you to preserve content. | 3284 | 🔴 3y |
 
 &nbsp;
@@ -232,11 +232,11 @@
 
 | Name | Description | ⭐️ | Updated |
 | :--- | :--- | :---: | :--- |
-| [FilePizza](https://github.com/kern/filepizza) | Peer-to-peer file transfers with only browser. | 10254 | 🟢 1d |
-| [Enclosed](https://github.com/CorentinTh/enclosed) | Minimalistic web app designed for sending private and secure notes. | 2099 | 🟢 1d |
-| [Linx](https://github.com/andreimarcu/linx-server) | Simple file/code/media sharing website. | 1581 | 🔴 1y |
-| [XBackBone](https://github.com/SergiX44/XBackBone) | PHP file manager that support the instant sharing tools like ShareX, uPic, etc | 1169 | 🟢 2d |
-| [Lufi](https://github.com/ldidry/lufi) | Convenient file sharing with E2E encryption. | 358 | 🟢 9d |
+| [FilePizza](https://github.com/kern/filepizza) | Peer-to-peer file transfers with only browser. | 10252 | 🟢 2d |
+| [Enclosed](https://github.com/CorentinTh/enclosed) | Minimalistic web app designed for sending private and secure notes. | 2099 | 🟢 2d |
+| [Linx](https://github.com/andreimarcu/linx-server) | Simple file/code/media sharing website. | 1580 | 🔴 1y |
+| [XBackBone](https://github.com/SergiX44/XBackBone) | PHP file manager that support the instant sharing tools like ShareX, uPic, etc | 1169 | 🟢 3d |
+| [Lufi](https://github.com/ldidry/lufi) | Convenient file sharing with E2E encryption. | 358 | 🟢 10d |
 | [Send](https://gitlab.com/timvisee/send) | Simple, private file sharing with encryption. A Firefox Send fork. | n/a | n/a |
 
 &nbsp;
@@ -244,28 +244,28 @@
 
 | Name | Description | ⭐️ | Updated |
 | :--- | :--- | :---: | :--- |
-| [Outline](https://github.com/outline/outline) | Fastest wiki and knowledge base for growing teams with markdown support and clean UI. | 41005 | 🟢 0m |
-| [Wiki.js](https://github.com/Requarks/wiki) | Lightweight and extensible wiki made with Node.js. | 29063 | 🟢 7h |
-| [Bookstack](https://github.com/BookStackApp/BookStack) | Platform to create documentation/wiki content built with PHP & Laravel. | 19092 | 🟢 10h |
-| [MediaWiki](https://github.com/wikimedia/mediawiki) | Collaboration and documentation platform with enormous capabilities. | 5208 | 🟢 13h |
-| [Dokuwiki](https://github.com/splitbrain/dokuwiki) | Simple wiki that doesn't require a database. | 4730 | 🟢 21d |
-| [Hypothes.is](https://github.com/hypothesis/h) | Web annotating system with search, storing, collaboration, sharing and integrations. | 3189 | 🟢 8h |
+| [Outline](https://github.com/outline/outline) | Fastest wiki and knowledge base for growing teams with markdown support and clean UI. | 41022 | 🟢 42m |
+| [Wiki.js](https://github.com/Requarks/wiki) | Lightweight and extensible wiki made with Node.js. | 29069 | 🟢 13h |
+| [Bookstack](https://github.com/BookStackApp/BookStack) | Platform to create documentation/wiki content built with PHP & Laravel. | 19095 | 🟢 10h |
+| [MediaWiki](https://github.com/wikimedia/mediawiki) | Collaboration and documentation platform with enormous capabilities. | 5210 | 🟢 46m |
+| [Dokuwiki](https://github.com/splitbrain/dokuwiki) | Simple wiki that doesn't require a database. | 4731 | 🟢 22d |
+| [Hypothes.is](https://github.com/hypothesis/h) | Web annotating system with search, storing, collaboration, sharing and integrations. | 3189 | 🟢 1d |
 
 &nbsp;
 ### 🔑 Deploy your own `Password manager`
 
 | Name | Description | ⭐️ | Updated |
 | :--- | :--- | :---: | :--- |
-| [Bitwarden](https://github.com/bitwarden/server) | Easiest and safest password manager to store, share, and sync sensitive data. | 20435 | 🟢 15m |
-| [LessPass](https://github.com/lesspass/lesspass) | Stateless password manager. | 6068 | 🟢 14h |
+| [Bitwarden](https://github.com/bitwarden/server) | Easiest and safest password manager to store, share, and sync sensitive data. | 20450 | 🟢 3m |
+| [LessPass](https://github.com/lesspass/lesspass) | Stateless password manager. | 6069 | 🟢 1d |
 
 &nbsp;
 ### 🤥 Deploy your own `Read it Later`
 
 | Name | Description | ⭐️ | Updated |
 | :--- | :--- | :---: | :--- |
-| [Wallabag](https://github.com/wallabag/wallabag) | Self hostable application for saving web pages. | 13016 | 🟢 8h |
-| [Shiori](https://github.com/go-shiori/shiori) | Simple bookmarks manager written intended as a simple clone of Pocket. | 11677 | 🟢 1d |
+| [Wallabag](https://github.com/wallabag/wallabag) | Self hostable application for saving web pages. | 13020 | 🟢 4h |
+| [Shiori](https://github.com/go-shiori/shiori) | Simple bookmarks manager written intended as a simple clone of Pocket. | 11679 | 🟢 2d |
 | [Shaark](https://github.com/MarceauKa/shaark) | Knowledge storage for web links, notes, pictures and passwords with clean web UI. | 589 | 🔴 2y |
 
 &nbsp;
@@ -273,19 +273,19 @@
 
 | Name | Description | ⭐️ | Updated |
 | :--- | :--- | :---: | :--- |
-| [FreshRSS](https://github.com/FreshRSS/FreshRSS) | Rss aggregator with responsive UI. | 16355 | 🟢 8m |
-| [Miniflux](https://github.com/miniflux/v2) | Minimalist and opinionated feed reader. | 9811 | 🟢 14h |
-| [Selfoss](https://github.com/fossar/selfoss) | Multipurpose rss reader, live stream, mashup, aggregation web application. | 2472 | 🟢 2d |
-| [Tiny Tiny RSS](https://github.com/tt-rss/tt-rss) | Web-based news feed reader and aggregator. | 862 | 🟢 3d |
+| [FreshRSS](https://github.com/FreshRSS/FreshRSS) | Rss aggregator with responsive UI. | 16385 | 🟢 17h |
+| [Miniflux](https://github.com/miniflux/v2) | Minimalist and opinionated feed reader. | 9815 | 🟢 15h |
+| [Selfoss](https://github.com/fossar/selfoss) | Multipurpose rss reader, live stream, mashup, aggregation web application. | 2472 | 🟢 3d |
+| [Tiny Tiny RSS](https://github.com/tt-rss/tt-rss) | Web-based news feed reader and aggregator. | 866 | 🟢 4d |
 
 &nbsp;
 ### 🇫🇮 Deploy your own `Git server`
 
 | Name | Description | ⭐️ | Updated |
 | :--- | :--- | :---: | :--- |
-| [Gitea](https://github.com/go-gitea/gitea) | Lightweight and powerful git server made with Go, so you can deploy it even on Raspberry Pi. | 58609 | 🟢 1h |
-| [GitLab CE](https://github.com/gitlabhq/gitlabhq) | Turn-key git hosting solution. | 24533 | 🟢 8m |
-| [Gitolight](https://github.com/sitaramc/gitolite) | Git hosting on a server, with very fine-grained access control and many powerful features. | 8597 | 🟢 22d |
+| [Gitea](https://github.com/go-gitea/gitea) | Lightweight and powerful git server made with Go, so you can deploy it even on Raspberry Pi. | 58630 | 🟢 1h |
+| [GitLab CE](https://github.com/gitlabhq/gitlabhq) | Turn-key git hosting solution. | 24536 | 🟢 2h |
+| [Gitolight](https://github.com/sitaramc/gitolite) | Git hosting on a server, with very fine-grained access control and many powerful features. | 8597 | 🟢 23d |
 | [Pagure](https://github.com/Pagure/pagure) | Lightweight, powerful, and flexible git-centered forge with decentralization features. | 228 | 🟠 2mo |
 | [Forgejo](https://forgejo.org/) | Lightweight, git-based software forging infrastructure with decentralised features. Base of [Codeberg](https://codeberg.org/) platform. | n/a | n/a |
 
@@ -294,8 +294,8 @@
 
 | Name | Description | ⭐️ | Updated |
 | :--- | :--- | :---: | :--- |
-| [Privatebin](https://github.com/PrivateBin/PrivateBin) | Minimalist, online pastebin where the server has zero knowledge of pasted data. | 8690 | 🟢 3h |
-| [Opengist](https://github.com/thomiceli/opengist) | Git-powered pastebin. | 3392 | 🟢 3h |
+| [Privatebin](https://github.com/PrivateBin/PrivateBin) | Minimalist, online pastebin where the server has zero knowledge of pasted data. | 8698 | 🟢 40m |
+| [Opengist](https://github.com/thomiceli/opengist) | Git-powered pastebin. | 3395 | 🟢 1d |
 | [0bin](https://github.com/sametmax/0bin) | Client side encrypted pastebin that can run without a database. | 1402 | 🔴 1y |
 
 &nbsp;
@@ -303,18 +303,18 @@
 
 | Name | Description | ⭐️ | Updated |
 | :--- | :--- | :---: | :--- |
-| [Listmonk](https://github.com/knadh/listmonk) | High performance newsletter and mailing list manager with a modern dashboard. Single binary app. | 23895 | 🟢 9h |
+| [Listmonk](https://github.com/knadh/listmonk) | High performance newsletter and mailing list manager with a modern dashboard. Single binary app. | 23916 | 🟢 12h |
 
 &nbsp;
 ### 🥋Deploy Deploy your own `Kanban board`
 
 | Name | Description | ⭐️ | Updated |
 | :--- | :--- | :---: | :--- |
-| [Wekan](https://github.com/wekan/wekan) | Collaborative Kanban board. | 21130 | 🟢 1h |
-| [Planka](https://github.com/plankanban/planka) | Kanban board which looks and feels exactly like Trello. | 12633 | 🟢 7h |
-| [Phabricator](https://github.com/phacility/phabricator/) | A collection of web apps which contains bug tracker, kanban board, wiki, chat and everything you need to build software. | 12285 | 🔴 2y |
-| [Kanboard](https://github.com/kanboard/kanboard) | Project management software that focuses on the Kanban methodology. | 9917 | 🟢 13h |
-| [Taiga](https://github.com/taigaio/taiga-docker) | Project management software with a kanban board, sprints, wiki and tickets. | 2162 | 🔴 1y |
+| [Wekan](https://github.com/wekan/wekan) | Collaborative Kanban board. | 21133 | 🟢 2h |
+| [Planka](https://github.com/plankanban/planka) | Kanban board which looks and feels exactly like Trello. | 12634 | 🟢 1d |
+| [Phabricator](https://github.com/phacility/phabricator/) | A collection of web apps which contains bug tracker, kanban board, wiki, chat and everything you need to build software. | 12285 | 🟢 6m |
+| [Kanboard](https://github.com/kanboard/kanboard) | Project management software that focuses on the Kanban methodology. | 9921 | 🟢 17h |
+| [Taiga](https://github.com/taigaio/taiga-docker) | Project management software with a kanban board, sprints, wiki and tickets. | 2164 | 🔴 1y |
 
 &nbsp;
 ### 🛰 Deploy your own `GPS tracking system`
@@ -329,19 +329,19 @@
 
 | Name | Description | ⭐️ | Updated |
 | :--- | :--- | :---: | :--- |
-| [Firefly III](https://github.com/firefly-iii/firefly-iii) | Financial manager to help you keep track of expenses, income, budgets and everything in between. | 24961 | 🟢 9h |
-| [Sure](https://github.com/we-promise/sure) | A personal finance app. CE fork of Maybe Finance | 10607 | 🟢 6h |
-| [Beancount](https://github.com/beancount/beancount) | Plain text double-entry accounting with 3rd party web UI like [Fava](https://github.com/beancount/fava) | 6104 | 🟠 1mo |
-| [Ledger](https://github.com/ledger/ledger) | Plain text double-entry accounting with 3rd party UI like [Prudent](https://prudent.me/). [Entry point to plain text accounting](https://plaintextaccounting.org/) | 6060 | 🟢 9h |
-| [ezBookkeeping](https://github.com/mayswind/ezbookkeeping) | A lightweight personal finance app with a user-friendly interface and powerful bookkeeping features. | 5794 | 🟢 2d |
+| [Firefly III](https://github.com/firefly-iii/firefly-iii) | Financial manager to help you keep track of expenses, income, budgets and everything in between. | 24970 | 🟢 20h |
+| [Sure](https://github.com/we-promise/sure) | A personal finance app. CE fork of Maybe Finance | 10626 | 🟢 5h |
+| [Beancount](https://github.com/beancount/beancount) | Plain text double-entry accounting with 3rd party web UI like [Fava](https://github.com/beancount/fava) | 6109 | 🟠 1mo |
+| [Ledger](https://github.com/ledger/ledger) | Plain text double-entry accounting with 3rd party UI like [Prudent](https://prudent.me/). [Entry point to plain text accounting](https://plaintextaccounting.org/) | 6059 | 🟢 8h |
+| [ezBookkeeping](https://github.com/mayswind/ezbookkeeping) | A lightweight personal finance app with a user-friendly interface and powerful bookkeeping features. | 5802 | 🟢 3d |
 
 &nbsp;
 ### 🏠 Deploy your own `Smart home`
 
 | Name | Description | ⭐️ | Updated |
 | :--- | :--- | :---: | :--- |
-| [Home Asisstant](https://github.com/home-assistant/core) | Home automation hub which can be deployed on Raspberry Pi | 91628 | 🟢 7m |
-| [Home Bridge](https://github.com/homebridge/homebridge) | Lightweight server that emulates the iOS HomeKit API so you can work with smart home devices that do not support the HomeKit protocol. | 25523 | 🟢 17h |
+| [Home Asisstant](https://github.com/home-assistant/core) | Home automation hub which can be deployed on Raspberry Pi | 91648 | 🟢 4m |
+| [Home Bridge](https://github.com/homebridge/homebridge) | Lightweight server that emulates the iOS HomeKit API so you can work with smart home devices that do not support the HomeKit protocol. | 25527 | 🟢 1d |
 | [OpenHAB](https://www.openhab.org/) | Vendor-neutral,  hardware/protocol-agnostic home automation hub | n/a | n/a |
 
 &nbsp;
@@ -349,26 +349,26 @@
 
 | Name | Description | ⭐️ | Updated |
 | :--- | :--- | :---: | :--- |
-| [n8n](https://github.com/n8n-io/n8n) | Node-based Workflow Automation Tool with visual editor. | 208218 | 🟢 0m |
-| [Huginn](https://github.com/huginn/huginn) | System for building agents that perform automated tasks for you online. Written in Ruby. | 50085 | 🟢 3d |
-| [Beehive](https://github.com/muesli/beehive) | A flexible event/agent & automation system made with Go. | 6489 | 🔴 3y |
-| [Kibitzr](https://github.com/kibitzr/kibitzr) | Tiny server to notify about (almost) anything in the web. | 718 | 🟠 6mo |
+| [n8n](https://github.com/n8n-io/n8n) | Node-based Workflow Automation Tool with visual editor. | 208327 | 🟢 0m |
+| [Huginn](https://github.com/huginn/huginn) | System for building agents that perform automated tasks for you online. Written in Ruby. | 50094 | 🟢 4d |
+| [Beehive](https://github.com/muesli/beehive) | A flexible event/agent & automation system made with Go. | 6490 | 🔴 3y |
+| [Kibitzr](https://github.com/kibitzr/kibitzr) | Tiny server to notify about (almost) anything in the web. | 719 | 🟠 6mo |
 
 &nbsp;
 ### 🔐 Deploy your own `One-time password provider`
 
 | Name | Description | ⭐️ | Updated |
 | :--- | :--- | :---: | :--- |
-| [2FAuth](https://github.com/Bubka/2FAuth) | A web app to manage your Two-Factor Authentication accounts and generate security codes. | 4182 | 🟢 9d |
+| [2FAuth](https://github.com/Bubka/2FAuth) | A web app to manage your Two-Factor Authentication accounts and generate security codes. | 4185 | 🟢 6h |
 
 &nbsp;
 ### 🐳 Deploy your own `Container Management System`
 
 | Name | Description | ⭐️ | Updated |
 | :--- | :--- | :---: | :--- |
-| [Portainer](https://github.com/portainer/portainer) | Container management tool. It allows anyone to deploy and manage containers without the need to write code. | 38697 | 🟢 1h |
-| [Umbrel](https://github.com/getumbrel/umbrel) | Either a docker image or OS that provides you with the most beautiful web interface to manage containerized web services. | 12425 | 🟢 28d |
-| [Pterodactyl](https://github.com/pterodactyl/panel) | Game server management panel. It runs game servers in isolated containers while exposing a beautiful web UI to the users. | 9364 | 🟢 18h |
+| [Portainer](https://github.com/portainer/portainer) | Container management tool. It allows anyone to deploy and manage containers without the need to write code. | 38705 | 🟢 1h |
+| [Umbrel](https://github.com/getumbrel/umbrel) | Either a docker image or OS that provides you with the most beautiful web interface to manage containerized web services. | 12434 | 🟢 29d |
+| [Pterodactyl](https://github.com/pterodactyl/panel) | Game server management panel. It runs game servers in isolated containers while exposing a beautiful web UI to the users. | 9383 | 🟢 20h |
 | [Yacht](https://github.com/SelfhostedPro/Yacht) | A web interface for managing docker containers with an emphasis on templating to provide 1 click deployments. | 60 | 🟠 1mo |
 
 ----
